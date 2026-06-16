@@ -1,0 +1,1201 @@
+order_id,date,product,category,region,channel,quantity,unit_price,discount_%,revenue
+ORD-28289,2023-05-06,Smartphone,Mobile,Lagos,Reseller,3,84300.0,0,252900.0
+ORD-38657,2023-01-16,Smartphone,Mobile,Abuja,Reseller,1,180400.0,0,180400.0
+ORD-68878,2023-08-03,Laptop,Computers,Ibadan,In-Store,5,574500.0,0,2872500.0
+ORD-54597,2023-12-24,Laptop,Computers,Kano,Online,2,653500.0,5,1241650.0
+ORD-59797,2023-02-22,Tablet,Computers,Lagos,In-Store,3,292300.0,0,876900.0
+ORD-26361,2023-08-24,Smartwatch,Mobile,Port Harcourt,Online,1,108400.0,10,97560.0
+ORD-35203,2023-07-05,Charger,Mobile,Lagos,Online,5,10500.0,10,47250.0
+ORD-59823,2023-04-30,Tablet,Computers,Kano,In-Store,1,259200.0,0,259200.0
+ORD-44993,2023-04-18,Smartwatch,Mobile,Lagos,Reseller,3,62100.0,15,158355.0
+ORD-59735,2023-03-25,Headphones,Audio,Kano,Reseller,2,39000.0,5,74100.0
+ORD-51347,2023-04-28,Tablet,Computers,Port Harcourt,In-Store,1,243200.0,0,243200.0
+ORD-95909,2023-06-11,Smartphone,Mobile,Port Harcourt,In-Store,5,115900.0,0,579500.0
+ORD-83579,2023-05-07,Keyboard,Computers,Ibadan,In-Store,2,11900.0,15,20230.0
+ORD-28131,2023-07-05,Speaker,Audio,Ibadan,In-Store,4,73900.0,0,295600.0
+ORD-30969,2023-03-20,Smartphone,Mobile,Port Harcourt,Reseller,1,208500.0,15,177225.0
+ORD-42953,2023-08-28,Smartphone,Mobile,Ibadan,Online,5,145400.0,10,654300.0
+ORD-54587,2023-05-17,Smartphone,Mobile,Lagos,In-Store,5,195900.0,15,832575.0
+ORD-33416,2023-05-15,Speaker,Audio,Ibadan,Online,1,29500.0,10,26550.0
+ORD-30032,2023-11-08,Charger,Mobile,Kano,Online,5,10600.0,0,53000.0
+ORD-57576,2023-01-10,Laptop,Computers,Kano,Online,4,589600.0,0,2358400.0
+ORD-73699,2023-02-10,Laptop,Computers,Lagos,Reseller,5,446300.0,0,2231500.0
+ORD-44741,2023-10-09,Headphones,Audio,Ibadan,Reseller,4,20800.0,0,83200.0
+ORD-50857,2023-12-20,Speaker,Audio,Port Harcourt,Reseller,5,77900.0,0,389500.0
+ORD-42493,2023-08-20,Smartwatch,Mobile,Abuja,Online,5,91000.0,0,455000.0
+ORD-38864,2023-04-28,Smartwatch,Mobile,Lagos,Online,5,47200.0,10,212400.0
+ORD-77391,2023-06-19,Laptop,Computers,Abuja,In-Store,1,441600.0,0,441600.0
+ORD-71953,2023-10-20,Keyboard,Computers,Abuja,In-Store,2,13800.0,10,24840.0
+ORD-56438,2023-12-04,Speaker,Audio,Port Harcourt,In-Store,1,31400.0,5,29830.0
+ORD-94696,2023-12-11,Keyboard,Computers,Lagos,Online,1,31300.0,15,26605.0
+ORD-34931,2023-05-08,Speaker,Audio,Ibadan,In-Store,1,63700.0,0,63700.0
+ORD-19880,2023-08-25,Headphones,Audio,Port Harcourt,Reseller,3,34000.0,0,102000.0
+ORD-40982,2023-01-08,Smartphone,Mobile,Abuja,In-Store,5,88600.0,0,443000.0
+ORD-59672,2023-01-31,Keyboard,Computers,Lagos,In-Store,4,21000.0,0,84000.0
+ORD-82845,2023-05-27,Charger,Mobile,Port Harcourt,Online,4,11300.0,5,42940.0
+ORD-81066,2023-10-24,Tablet,Computers,Lagos,Reseller,1,173400.0,15,147390.0
+ORD-79615,2023-09-02,Smartwatch,Mobile,Abuja,Online,5,51000.0,10,229500.0
+ORD-98501,2023-11-01,Smartphone,Mobile,Abuja,In-Store,1,224700.0,0,224700.0
+ORD-87924,2023-05-07,Smartphone,Mobile,Lagos,Reseller,5,240100.0,10,1080450.0
+ORD-51467,2023-10-17,Smartphone,Mobile,Kano,Online,5,151300.0,10,680850.0
+ORD-94607,2023-03-09,Smartwatch,Mobile,Kano,In-Store,4,70100.0,15,238340.0
+ORD-91416,2023-01-05,Smartwatch,Mobile,Ibadan,Online,1,142500.0,5,135375.0
+ORD-55745,2023-05-16,Smartphone,Mobile,Lagos,Online,5,171400.0,0,857000.0
+ORD-49651,2023-10-06,Smartwatch,Mobile,Ibadan,Reseller,4,74900.0,15,254660.0
+ORD-23577,2023-06-03,Laptop,Computers,Abuja,In-Store,5,617100.0,15,2622675.0
+ORD-46930,2023-03-21,Smartphone,Mobile,Ibadan,Online,5,231300.0,0,1156500.0
+ORD-42914,2023-09-16,Smartwatch,Mobile,Lagos,Online,3,66400.0,5,189240.0
+ORD-27146,2023-01-02,Speaker,Audio,Kano,Online,1,69800.0,0,69800.0
+ORD-24663,2023-10-15,Keyboard,Computers,Lagos,Reseller,4,22900.0,0,91600.0
+ORD-29410,2023-10-26,Headphones,Audio,Port Harcourt,Online,3,39600.0,10,106920.0
+ORD-99399,2023-07-03,Laptop,Computers,Abuja,Reseller,1,473300.0,0,473300.0
+ORD-30257,2023-07-28,Smartphone,Mobile,Abuja,Online,5,140100.0,10,630450.0
+ORD-53540,2023-04-02,Headphones,Audio,Port Harcourt,Reseller,1,54700.0,15,46495.0
+ORD-71694,2023-07-15,Tablet,Computers,Abuja,Online,1,168000.0,0,168000.0
+ORD-96511,2023-04-25,Keyboard,Computers,Abuja,In-Store,2,17400.0,0,34800.0
+ORD-94080,2023-05-23,Smartwatch,Mobile,Ibadan,In-Store,1,74300.0,0,74300.0
+ORD-86099,2023-05-14,Smartwatch,Mobile,Kano,Online,1,143600.0,0,143600.0
+ORD-89457,2023-06-10,Smartphone,Mobile,Ibadan,Online,3,181400.0,5,516990.0
+ORD-67154,2023-05-11,Speaker,Audio,Lagos,Reseller,2,74000.0,0,148000.0
+ORD-91678,2023-12-07,Tablet,Computers,Kano,Reseller,1,185600.0,0,185600.0
+ORD-97410,2023-09-17,Smartphone,Mobile,Port Harcourt,In-Store,3,202400.0,0,607200.0
+ORD-65108,2023-03-07,Speaker,Audio,Port Harcourt,Reseller,5,61800.0,0,309000.0
+ORD-10053,2023-07-27,Headphones,Audio,Kano,In-Store,3,42700.0,10,115290.0
+ORD-52237,2023-11-07,Tablet,Computers,Port Harcourt,In-Store,5,197400.0,15,838950.0
+ORD-32241,2023-08-31,Keyboard,Computers,Lagos,In-Store,5,26200.0,15,111350.0
+ORD-39444,2023-12-11,Smartwatch,Mobile,Abuja,Online,2,54800.0,0,109600.0
+ORD-69692,2023-11-09,Laptop,Computers,Port Harcourt,Reseller,4,368500.0,0,1474000.0
+ORD-41979,2023-09-11,Tablet,Computers,Abuja,Reseller,4,249300.0,5,947340.0
+ORD-33053,2023-08-06,Laptop,Computers,Ibadan,In-Store,1,707100.0,0,707100.0
+ORD-70901,2023-08-22,Laptop,Computers,Ibadan,Reseller,1,573000.0,0,573000.0
+ORD-76162,2023-11-10,Smartwatch,Mobile,Port Harcourt,Reseller,4,144800.0,15,492320.0
+ORD-42406,2023-08-19,Keyboard,Computers,Kano,Reseller,4,32200.0,0,128800.0
+ORD-47450,2023-08-14,Keyboard,Computers,Abuja,In-Store,3,24900.0,0,74700.0
+ORD-29769,2023-02-11,Smartwatch,Mobile,Abuja,In-Store,5,78600.0,0,393000.0
+ORD-53369,2023-08-01,Headphones,Audio,Ibadan,In-Store,1,46800.0,5,44460.0
+ORD-12560,2023-07-19,Speaker,Audio,Ibadan,In-Store,4,23700.0,10,85320.0
+ORD-64921,2023-06-02,Keyboard,Computers,Ibadan,Reseller,3,8200.0,5,23370.0
+ORD-13804,2023-08-12,Tablet,Computers,Port Harcourt,In-Store,3,207900.0,5,592515.0
+ORD-80008,2023-03-07,Speaker,Audio,Lagos,In-Store,4,63500.0,10,228600.0
+ORD-33819,2023-03-11,Laptop,Computers,Lagos,In-Store,4,383600.0,5,1457680.0
+ORD-59692,2023-06-17,Speaker,Audio,Kano,In-Store,4,39600.0,0,158400.0
+ORD-80702,2023-01-10,Charger,Mobile,Lagos,In-Store,4,10500.0,15,35700.0
+ORD-36130,2023-01-16,Tablet,Computers,Lagos,Reseller,1,237000.0,0,237000.0
+ORD-83920,2023-12-09,Headphones,Audio,Abuja,In-Store,4,25700.0,0,102800.0
+ORD-25012,2023-11-07,Charger,Mobile,Abuja,In-Store,2,9900.0,10,17820.0
+ORD-59192,2023-10-22,Smartphone,Mobile,Port Harcourt,Reseller,3,178400.0,15,454920.0
+ORD-49529,2023-02-22,Tablet,Computers,Ibadan,Online,2,133700.0,15,227290.0
+ORD-19038,2023-12-05,Laptop,Computers,Ibadan,Reseller,4,488900.0,0,1955600.0
+ORD-66822,2023-09-08,Smartwatch,Mobile,Kano,Reseller,4,46300.0,0,185200.0
+ORD-78386,2023-04-01,Keyboard,Computers,Kano,Reseller,4,27100.0,15,92140.0
+ORD-42177,2023-05-18,Keyboard,Computers,Lagos,In-Store,5,20600.0,0,103000.0
+ORD-97580,2023-10-19,Keyboard,Computers,Port Harcourt,In-Store,4,14600.0,10,52560.0
+ORD-37802,2023-04-04,Laptop,Computers,Kano,In-Store,3,547700.0,5,1560945.0
+ORD-82848,2023-12-26,Smartwatch,Mobile,Lagos,Reseller,5,74400.0,0,372000.0
+ORD-41499,2023-09-08,Tablet,Computers,Port Harcourt,Reseller,4,135400.0,10,487440.0
+ORD-39045,2023-02-17,Keyboard,Computers,Port Harcourt,Reseller,1,20100.0,0,20100.0
+ORD-82544,2023-07-08,Tablet,Computers,Ibadan,In-Store,5,175100.0,5,831725.0
+ORD-69473,2023-06-19,Speaker,Audio,Kano,In-Store,5,79800.0,0,399000.0
+ORD-80236,2023-06-11,Charger,Mobile,Abuja,Online,2,5100.0,0,10200.0
+ORD-88222,2023-10-29,Tablet,Computers,Kano,Online,3,252900.0,10,682830.0
+ORD-11854,2023-04-02,Tablet,Computers,Ibadan,Online,3,173300.0,0,519900.0
+ORD-26551,2023-10-11,Charger,Mobile,Port Harcourt,Online,1,3400.0,0,3400.0
+ORD-54657,2023-09-03,Laptop,Computers,Abuja,Online,4,579600.0,5,2202480.0
+ORD-62521,2023-02-28,Charger,Mobile,Port Harcourt,Online,4,11500.0,0,46000.0
+ORD-42530,2023-06-05,Laptop,Computers,Lagos,Reseller,5,410700.0,0,2053500.0
+ORD-59856,2023-04-26,Speaker,Audio,Port Harcourt,In-Store,5,56400.0,10,253800.0
+ORD-91399,2023-06-06,Charger,Mobile,Lagos,Reseller,4,10700.0,10,38520.0
+ORD-44687,2023-11-17,Smartphone,Mobile,Lagos,Online,2,241100.0,0,482200.0
+ORD-63545,2023-03-22,Tablet,Computers,Port Harcourt,Reseller,1,151300.0,0,151300.0
+ORD-47056,2023-05-28,Keyboard,Computers,Port Harcourt,Online,2,15900.0,15,27030.0
+ORD-65723,2023-12-05,Tablet,Computers,Lagos,Reseller,5,286300.0,0,1431500.0
+ORD-17816,2023-03-14,Tablet,Computers,Abuja,In-Store,3,236600.0,0,709800.0
+ORD-62757,2023-12-19,Charger,Mobile,Kano,Reseller,4,7000.0,0,28000.0
+ORD-52247,2023-01-21,Keyboard,Computers,Ibadan,In-Store,5,19800.0,5,94050.0
+ORD-98117,2023-10-28,Laptop,Computers,Kano,Reseller,5,386500.0,0,1932500.0
+ORD-95394,2023-08-29,Laptop,Computers,Port Harcourt,In-Store,2,655200.0,10,1179360.0
+ORD-21959,2023-11-22,Headphones,Audio,Port Harcourt,In-Store,4,59900.0,5,227620.0
+ORD-63955,2023-03-24,Speaker,Audio,Port Harcourt,In-Store,1,40000.0,0,40000.0
+ORD-21542,2023-01-19,Speaker,Audio,Kano,In-Store,5,68800.0,5,326800.0
+ORD-96200,2023-09-21,Smartwatch,Mobile,Ibadan,In-Store,4,57200.0,0,228800.0
+ORD-75338,2023-07-05,Speaker,Audio,Port Harcourt,Online,5,23300.0,10,104850.0
+ORD-73532,2023-05-28,Tablet,Computers,Lagos,Online,2,168100.0,5,319390.0
+ORD-82384,2023-10-10,Tablet,Computers,Port Harcourt,Online,3,247800.0,0,743400.0
+ORD-94896,2023-08-25,Tablet,Computers,Abuja,In-Store,1,298600.0,0,298600.0
+ORD-71894,2023-08-01,Charger,Mobile,Abuja,In-Store,3,7600.0,5,21660.0
+ORD-27892,2023-09-18,Headphones,Audio,Lagos,In-Store,5,32300.0,15,137275.0
+ORD-47072,2023-05-17,Speaker,Audio,Kano,Reseller,5,40400.0,0,202000.0
+ORD-55236,2023-10-03,Keyboard,Computers,Kano,Reseller,4,31400.0,5,119320.0
+ORD-41300,2023-04-07,Speaker,Audio,Ibadan,In-Store,3,47300.0,15,120615.0
+ORD-71993,2023-01-23,Tablet,Computers,Port Harcourt,In-Store,4,274100.0,0,1096400.0
+ORD-87356,2023-03-06,Headphones,Audio,Kano,Online,1,37300.0,10,33570.0
+ORD-28894,2023-01-08,Keyboard,Computers,Port Harcourt,Reseller,4,10700.0,15,36380.0
+ORD-62098,2023-06-23,Headphones,Audio,Lagos,In-Store,3,18400.0,10,49680.0
+ORD-90931,2023-10-05,Speaker,Audio,Lagos,Online,4,77200.0,0,308800.0
+ORD-93066,2023-08-11,Charger,Mobile,Lagos,In-Store,1,12000.0,0,12000.0
+ORD-17355,2023-01-24,Headphones,Audio,Kano,In-Store,1,46200.0,0,46200.0
+ORD-84177,2023-09-29,Smartwatch,Mobile,Abuja,Online,2,90200.0,5,171380.0
+ORD-41566,2023-11-14,Headphones,Audio,Port Harcourt,Reseller,4,18600.0,15,63240.0
+ORD-97404,2023-08-24,Headphones,Audio,Lagos,In-Store,3,25400.0,0,76200.0
+ORD-55293,2023-02-07,Charger,Mobile,Ibadan,In-Store,2,9100.0,5,17290.0
+ORD-60422,2023-06-04,Speaker,Audio,Port Harcourt,Online,4,61400.0,0,245600.0
+ORD-48696,2023-10-22,Tablet,Computers,Lagos,Reseller,3,188600.0,0,565800.0
+ORD-16428,2023-12-18,Speaker,Audio,Ibadan,Reseller,5,36500.0,15,155125.0
+ORD-56179,2023-04-28,Keyboard,Computers,Abuja,Reseller,3,30500.0,10,82350.0
+ORD-92242,2023-11-18,Tablet,Computers,Lagos,In-Store,2,231800.0,0,463600.0
+ORD-48680,2023-03-09,Keyboard,Computers,Kano,Reseller,3,8900.0,0,26700.0
+ORD-79579,2023-10-04,Speaker,Audio,Ibadan,In-Store,2,30500.0,0,61000.0
+ORD-54396,2023-06-01,Headphones,Audio,Lagos,In-Store,4,26600.0,15,90440.0
+ORD-98395,2023-12-13,Smartphone,Mobile,Port Harcourt,Reseller,2,103900.0,15,176630.0
+ORD-80329,2023-01-08,Smartwatch,Mobile,Lagos,In-Store,4,54500.0,0,218000.0
+ORD-93695,2023-10-27,Smartwatch,Mobile,Kano,Online,3,115600.0,5,329460.0
+ORD-89964,2023-10-15,Tablet,Computers,Abuja,Reseller,5,204900.0,0,1024500.0
+ORD-95097,2023-12-25,Smartphone,Mobile,Port Harcourt,Online,4,188000.0,0,752000.0
+ORD-25220,2023-06-05,Headphones,Audio,Lagos,Online,1,17000.0,5,16150.0
+ORD-80804,2023-12-10,Headphones,Audio,Port Harcourt,Reseller,3,32500.0,15,82875.0
+ORD-63492,2023-09-08,Headphones,Audio,Kano,Online,1,54800.0,10,49320.0
+ORD-23022,2023-05-01,Smartwatch,Mobile,Kano,Reseller,4,67800.0,0,271200.0
+ORD-69600,2023-04-08,Smartwatch,Mobile,Lagos,Reseller,3,51400.0,0,154200.0
+ORD-53713,2023-01-11,Tablet,Computers,Abuja,Online,5,235500.0,0,1177500.0
+ORD-38305,2023-04-17,Tablet,Computers,Abuja,In-Store,5,132300.0,10,595350.0
+ORD-28964,2023-01-02,Headphones,Audio,Abuja,Reseller,5,50500.0,0,252500.0
+ORD-27275,2023-12-05,Charger,Mobile,Lagos,In-Store,1,10200.0,0,10200.0
+ORD-16868,2023-03-31,Tablet,Computers,Abuja,Reseller,1,226000.0,0,226000.0
+ORD-57453,2023-09-01,Speaker,Audio,Ibadan,Reseller,1,51600.0,5,49020.0
+ORD-96363,2023-11-11,Smartphone,Mobile,Ibadan,In-Store,2,156800.0,0,313600.0
+ORD-62640,2023-02-01,Keyboard,Computers,Port Harcourt,Reseller,1,25400.0,5,24130.0
+ORD-52219,2023-02-07,Smartphone,Mobile,Ibadan,Online,4,163300.0,0,653200.0
+ORD-81874,2023-11-21,Smartphone,Mobile,Kano,In-Store,5,101500.0,10,456750.0
+ORD-24996,2023-08-09,Charger,Mobile,Ibadan,Reseller,5,7100.0,0,35500.0
+ORD-69441,2023-07-31,Tablet,Computers,Port Harcourt,In-Store,2,197400.0,0,394800.0
+ORD-59060,2023-12-07,Smartphone,Mobile,Abuja,Reseller,3,133100.0,0,399300.0
+ORD-22656,2023-02-17,Keyboard,Computers,Kano,Online,1,9800.0,5,9310.0
+ORD-97819,2023-10-15,Laptop,Computers,Lagos,In-Store,5,584600.0,0,2923000.0
+ORD-88696,2023-01-27,Smartwatch,Mobile,Kano,In-Store,4,136700.0,0,546800.0
+ORD-73201,2023-03-21,Smartphone,Mobile,Abuja,Online,2,178200.0,15,302940.0
+ORD-85248,2023-02-28,Smartwatch,Mobile,Abuja,In-Store,3,133800.0,0,401400.0
+ORD-45818,2023-01-15,Laptop,Computers,Kano,In-Store,3,593600.0,0,1780800.0
+ORD-62531,2023-10-17,Smartwatch,Mobile,Lagos,Online,2,45600.0,15,77520.0
+ORD-65028,2023-04-21,Laptop,Computers,Port Harcourt,In-Store,5,386700.0,5,1836825.0
+ORD-21135,2023-10-18,Headphones,Audio,Lagos,Online,3,31700.0,10,85590.0
+ORD-45665,2023-12-12,Headphones,Audio,Port Harcourt,Reseller,1,48900.0,0,48900.0
+ORD-38255,2023-08-01,Speaker,Audio,Ibadan,Online,4,49100.0,0,196400.0
+ORD-87743,2023-12-14,Smartwatch,Mobile,Port Harcourt,Reseller,3,90100.0,15,229755.0
+ORD-11007,2023-11-03,Charger,Mobile,Abuja,In-Store,4,3400.0,0,13600.0
+ORD-25726,2023-05-29,Tablet,Computers,Lagos,In-Store,3,258100.0,0,774300.0
+ORD-40161,2023-09-30,Speaker,Audio,Ibadan,Reseller,4,30500.0,15,103700.0
+ORD-70260,2023-08-12,Smartwatch,Mobile,Lagos,In-Store,1,52600.0,0,52600.0
+ORD-63088,2023-05-29,Speaker,Audio,Lagos,In-Store,4,54400.0,0,217600.0
+ORD-57428,2023-08-24,Headphones,Audio,Lagos,In-Store,5,51100.0,15,217175.0
+ORD-20308,2023-07-25,Smartphone,Mobile,Port Harcourt,In-Store,5,121400.0,10,546300.0
+ORD-92998,2023-02-09,Smartwatch,Mobile,Lagos,Reseller,2,68300.0,10,122940.0
+ORD-94599,2023-06-29,Tablet,Computers,Abuja,Online,3,283100.0,15,721905.0
+ORD-30036,2023-03-30,Smartphone,Mobile,Lagos,Online,2,104900.0,10,188820.0
+ORD-99277,2023-10-24,Keyboard,Computers,Ibadan,Reseller,5,20500.0,5,97375.0
+ORD-18950,2023-03-19,Smartwatch,Mobile,Port Harcourt,In-Store,3,135700.0,5,386745.0
+ORD-76497,2023-01-29,Charger,Mobile,Lagos,In-Store,5,10200.0,0,51000.0
+ORD-20057,2023-07-08,Keyboard,Computers,Lagos,Reseller,1,20200.0,0,20200.0
+ORD-84928,2023-01-22,Speaker,Audio,Abuja,In-Store,5,47800.0,5,227050.0
+ORD-55015,2023-08-19,Keyboard,Computers,Lagos,Reseller,1,21500.0,0,21500.0
+ORD-78517,2023-08-13,Headphones,Audio,Ibadan,Online,4,16800.0,10,60480.0
+ORD-54350,2023-07-18,Smartwatch,Mobile,Ibadan,Online,3,84100.0,5,239685.0
+ORD-60667,2023-10-13,Smartwatch,Mobile,Kano,In-Store,1,51900.0,15,44115.0
+ORD-55851,2023-12-06,Headphones,Audio,Kano,Reseller,5,30000.0,0,150000.0
+ORD-59372,2023-06-08,Speaker,Audio,Kano,Online,1,27700.0,10,24930.0
+ORD-12389,2023-09-18,Smartphone,Mobile,Kano,In-Store,4,189800.0,0,759200.0
+ORD-39693,2023-09-06,Headphones,Audio,Abuja,Online,3,57800.0,0,173400.0
+ORD-79013,2023-09-17,Smartphone,Mobile,Lagos,Reseller,1,130300.0,10,117270.0
+ORD-59377,2023-03-09,Smartwatch,Mobile,Abuja,Online,5,137000.0,10,616500.0
+ORD-67366,2023-03-26,Headphones,Audio,Lagos,In-Store,5,52400.0,15,222700.0
+ORD-47346,2023-08-16,Smartwatch,Mobile,Port Harcourt,Online,2,116000.0,10,208800.0
+ORD-98907,2023-04-10,Tablet,Computers,Ibadan,In-Store,4,175700.0,0,702800.0
+ORD-64874,2023-09-15,Keyboard,Computers,Abuja,Online,4,28800.0,10,103680.0
+ORD-58655,2023-11-25,Headphones,Audio,Ibadan,Online,1,54300.0,5,51585.0
+ORD-77286,2023-05-20,Smartphone,Mobile,Abuja,In-Store,2,128500.0,5,244150.0
+ORD-13495,2023-08-19,Smartphone,Mobile,Port Harcourt,Online,2,240900.0,0,481800.0
+ORD-59140,2023-07-17,Speaker,Audio,Abuja,Online,2,50100.0,0,100200.0
+ORD-15020,2023-03-16,Smartwatch,Mobile,Kano,In-Store,3,142700.0,0,428100.0
+ORD-10688,2023-08-18,Headphones,Audio,Lagos,Online,4,49100.0,10,176760.0
+ORD-89807,2023-10-08,Charger,Mobile,Ibadan,In-Store,2,4900.0,15,8330.0
+ORD-16258,2023-06-04,Smartphone,Mobile,Abuja,In-Store,2,211900.0,0,423800.0
+ORD-12154,2023-11-02,Keyboard,Computers,Ibadan,Reseller,4,9700.0,10,34920.0
+ORD-90584,2023-08-08,Tablet,Computers,Kano,Online,3,249300.0,0,747900.0
+ORD-18870,2023-09-26,Speaker,Audio,Ibadan,Reseller,1,31200.0,0,31200.0
+ORD-60709,2023-01-23,Laptop,Computers,Kano,In-Store,4,506200.0,15,1721080.0
+ORD-96127,2023-06-26,Laptop,Computers,Lagos,Reseller,1,492800.0,0,492800.0
+ORD-94252,2023-10-07,Smartwatch,Mobile,Abuja,Reseller,3,59000.0,0,177000.0
+ORD-27675,2023-11-20,Keyboard,Computers,Lagos,Reseller,4,34500.0,0,138000.0
+ORD-15492,2023-01-23,Keyboard,Computers,Kano,In-Store,2,9000.0,0,18000.0
+ORD-14799,2023-08-31,Speaker,Audio,Abuja,In-Store,5,79300.0,0,396500.0
+ORD-45811,2023-12-02,Smartwatch,Mobile,Lagos,In-Store,1,135500.0,0,135500.0
+ORD-34486,2023-07-17,Speaker,Audio,Port Harcourt,Reseller,4,73400.0,0,293600.0
+ORD-65640,2023-05-17,Keyboard,Computers,Lagos,In-Store,5,17900.0,0,89500.0
+ORD-52981,2023-02-22,Headphones,Audio,Kano,In-Store,3,39500.0,0,118500.0
+ORD-68183,2023-03-27,Keyboard,Computers,Kano,In-Store,4,24300.0,15,82620.0
+ORD-45986,2023-11-11,Laptop,Computers,Lagos,Online,3,640700.0,5,1825995.0
+ORD-89635,2023-01-16,Speaker,Audio,Port Harcourt,Online,2,41800.0,0,83600.0
+ORD-84349,2023-07-05,Headphones,Audio,Lagos,Reseller,3,18000.0,5,51300.0
+ORD-20077,2023-07-10,Headphones,Audio,Ibadan,Online,3,45600.0,5,129960.0
+ORD-13396,2023-05-08,Smartwatch,Mobile,Abuja,In-Store,3,86800.0,0,260400.0
+ORD-68493,2023-05-15,Speaker,Audio,Abuja,Reseller,1,74800.0,0,74800.0
+ORD-27790,2023-04-13,Charger,Mobile,Lagos,In-Store,4,9200.0,0,36800.0
+ORD-51889,2023-02-14,Headphones,Audio,Kano,Reseller,4,55400.0,15,188360.0
+ORD-93584,2023-06-03,Smartphone,Mobile,Abuja,In-Store,3,173500.0,0,520500.0
+ORD-74752,2023-03-13,Tablet,Computers,Lagos,In-Store,2,141800.0,0,283600.0
+ORD-21300,2023-03-08,Smartwatch,Mobile,Lagos,In-Store,5,94100.0,10,423450.0
+ORD-63665,2023-09-27,Speaker,Audio,Ibadan,Online,4,80000.0,5,304000.0
+ORD-99143,2023-08-19,Headphones,Audio,Ibadan,In-Store,1,58800.0,5,55860.0
+ORD-33850,2023-11-24,Headphones,Audio,Abuja,In-Store,5,54500.0,10,245250.0
+ORD-31581,2023-03-20,Laptop,Computers,Abuja,In-Store,5,682600.0,0,3413000.0
+ORD-42847,2023-05-26,Tablet,Computers,Abuja,Reseller,5,182300.0,0,911500.0
+ORD-22245,2023-11-11,Charger,Mobile,Ibadan,Reseller,3,4100.0,10,11070.0
+ORD-96341,2023-03-20,Headphones,Audio,Ibadan,Reseller,5,41600.0,0,208000.0
+ORD-20646,2023-01-22,Smartwatch,Mobile,Lagos,Reseller,5,133500.0,0,667500.0
+ORD-93753,2023-08-02,Charger,Mobile,Lagos,In-Store,5,8900.0,10,40050.0
+ORD-99783,2023-09-05,Charger,Mobile,Port Harcourt,In-Store,3,8800.0,0,26400.0
+ORD-64476,2023-03-22,Keyboard,Computers,Port Harcourt,In-Store,1,10000.0,5,9500.0
+ORD-51853,2023-06-10,Tablet,Computers,Kano,In-Store,2,181200.0,15,308040.0
+ORD-51827,2023-10-15,Headphones,Audio,Abuja,In-Store,5,49200.0,0,246000.0
+ORD-16632,2023-03-14,Smartphone,Mobile,Kano,In-Store,2,125500.0,0,251000.0
+ORD-50988,2023-06-17,Speaker,Audio,Abuja,Online,2,34900.0,10,62820.0
+ORD-75191,2023-09-13,Keyboard,Computers,Lagos,Online,4,34900.0,0,139600.0
+ORD-56254,2023-04-21,Speaker,Audio,Lagos,Online,2,50300.0,10,90540.0
+ORD-11071,2023-05-27,Charger,Mobile,Lagos,In-Store,4,7500.0,10,27000.0
+ORD-15930,2023-07-26,Headphones,Audio,Port Harcourt,Online,3,54700.0,0,164100.0
+ORD-76093,2023-02-07,Tablet,Computers,Port Harcourt,Reseller,3,185300.0,5,528105.0
+ORD-25572,2023-12-15,Charger,Mobile,Abuja,Online,5,10400.0,10,46800.0
+ORD-28909,2023-10-13,Speaker,Audio,Abuja,Reseller,3,42400.0,0,127200.0
+ORD-53652,2023-01-20,Speaker,Audio,Port Harcourt,Reseller,1,50000.0,0,50000.0
+ORD-90356,2023-03-13,Keyboard,Computers,Kano,Online,5,12000.0,0,60000.0
+ORD-76494,2023-10-31,Speaker,Audio,Ibadan,Reseller,3,79400.0,0,238200.0
+ORD-58281,2023-09-01,Keyboard,Computers,Kano,Reseller,3,27100.0,0,81300.0
+ORD-92478,2023-06-07,Smartphone,Mobile,Lagos,Reseller,5,246600.0,15,1048050.0
+ORD-16731,2023-10-23,Keyboard,Computers,Ibadan,In-Store,5,15200.0,0,76000.0
+ORD-99224,2023-07-14,Headphones,Audio,Abuja,Online,5,38600.0,0,193000.0
+ORD-29848,2023-06-10,Smartphone,Mobile,Port Harcourt,Reseller,4,112400.0,5,427120.0
+ORD-18163,2023-08-30,Tablet,Computers,Abuja,Reseller,5,193900.0,15,824075.0
+ORD-51124,2023-09-27,Tablet,Computers,Abuja,In-Store,4,221000.0,5,839800.0
+ORD-35200,2023-11-09,Smartwatch,Mobile,Abuja,In-Store,3,102400.0,5,291840.0
+ORD-37168,2023-05-28,Charger,Mobile,Port Harcourt,In-Store,3,5000.0,15,12750.0
+ORD-85166,2023-05-28,Keyboard,Computers,Ibadan,In-Store,3,17400.0,0,52200.0
+ORD-47700,2023-05-29,Speaker,Audio,Lagos,In-Store,2,69100.0,0,138200.0
+ORD-80592,2023-04-20,Keyboard,Computers,Kano,Reseller,4,25700.0,0,102800.0
+ORD-41779,2023-10-28,Charger,Mobile,Lagos,Reseller,5,4200.0,0,21000.0
+ORD-53292,2023-02-21,Tablet,Computers,Port Harcourt,Online,1,234800.0,5,223060.0
+ORD-95575,2023-03-22,Headphones,Audio,Port Harcourt,In-Store,5,15200.0,5,72200.0
+ORD-94659,2023-06-14,Tablet,Computers,Lagos,Online,3,256100.0,0,768300.0
+ORD-33040,2023-03-31,Tablet,Computers,Lagos,In-Store,1,216300.0,5,205485.0
+ORD-49110,2023-01-20,Keyboard,Computers,Ibadan,Reseller,3,13000.0,0,39000.0
+ORD-94058,2023-05-26,Smartphone,Mobile,Ibadan,Reseller,3,237800.0,5,677730.0
+ORD-45761,2023-09-16,Keyboard,Computers,Abuja,Online,2,32000.0,5,60800.0
+ORD-34405,2023-11-28,Smartwatch,Mobile,Lagos,Reseller,4,62100.0,0,248400.0
+ORD-33002,2023-12-12,Smartwatch,Mobile,Ibadan,Reseller,5,128000.0,0,640000.0
+ORD-62538,2023-06-17,Speaker,Audio,Lagos,Online,5,69600.0,0,348000.0
+ORD-60275,2023-01-04,Headphones,Audio,Abuja,In-Store,2,36500.0,0,73000.0
+ORD-85088,2023-10-26,Charger,Mobile,Lagos,In-Store,3,11600.0,15,29580.0
+ORD-71000,2023-12-08,Smartwatch,Mobile,Kano,Online,1,117700.0,0,117700.0
+ORD-93717,2023-12-20,Speaker,Audio,Kano,In-Store,3,61200.0,0,183600.0
+ORD-69634,2023-09-02,Tablet,Computers,Ibadan,In-Store,2,159400.0,0,318800.0
+ORD-38627,2023-10-03,Speaker,Audio,Abuja,Reseller,4,62100.0,15,211140.0
+ORD-20237,2023-12-27,Smartphone,Mobile,Ibadan,Online,5,169300.0,0,846500.0
+ORD-80341,2023-04-14,Laptop,Computers,Abuja,Online,5,681500.0,10,3066750.0
+ORD-36922,2023-03-01,Smartwatch,Mobile,Ibadan,In-Store,4,134700.0,15,457980.0
+ORD-27294,2023-01-29,Smartphone,Mobile,Ibadan,In-Store,4,232800.0,5,884640.0
+ORD-50392,2023-08-25,Keyboard,Computers,Lagos,In-Store,5,23200.0,15,98600.0
+ORD-15936,2023-10-24,Charger,Mobile,Port Harcourt,In-Store,2,10300.0,0,20600.0
+ORD-14159,2023-02-05,Smartphone,Mobile,Kano,In-Store,1,172000.0,5,163400.0
+ORD-68790,2023-07-11,Headphones,Audio,Port Harcourt,In-Store,4,49600.0,5,188480.0
+ORD-55582,2023-03-10,Smartphone,Mobile,Lagos,Online,5,196100.0,15,833425.0
+ORD-49107,2023-01-02,Speaker,Audio,Port Harcourt,Reseller,2,51700.0,0,103400.0
+ORD-55371,2023-05-07,Speaker,Audio,Abuja,In-Store,2,51900.0,5,98610.0
+ORD-64950,2023-01-17,Tablet,Computers,Ibadan,Online,1,288700.0,15,245395.0
+ORD-68515,2023-11-01,Tablet,Computers,Ibadan,Reseller,1,157100.0,0,157100.0
+ORD-40715,2023-07-25,Laptop,Computers,Ibadan,Online,1,447900.0,5,425505.0
+ORD-85511,2023-04-30,Laptop,Computers,Kano,Reseller,3,406100.0,15,1035555.0
+ORD-38972,2023-12-05,Smartwatch,Mobile,Port Harcourt,In-Store,2,69900.0,10,125820.0
+ORD-98965,2023-03-31,Charger,Mobile,Port Harcourt,Reseller,5,3500.0,15,14875.0
+ORD-59958,2023-11-26,Keyboard,Computers,Ibadan,In-Store,3,9300.0,15,23715.0
+ORD-80507,2023-07-12,Speaker,Audio,Port Harcourt,Online,3,44500.0,0,133500.0
+ORD-83713,2023-08-26,Tablet,Computers,Port Harcourt,In-Store,2,174100.0,0,348200.0
+ORD-94765,2023-04-15,Headphones,Audio,Lagos,In-Store,3,32500.0,0,97500.0
+ORD-59436,2023-01-27,Smartwatch,Mobile,Ibadan,Reseller,2,54700.0,0,109400.0
+ORD-98008,2023-10-28,Laptop,Computers,Ibadan,Online,2,699400.0,15,1188980.0
+ORD-37762,2023-06-05,Keyboard,Computers,Abuja,Reseller,3,13600.0,0,40800.0
+ORD-89220,2023-05-05,Smartphone,Mobile,Abuja,In-Store,4,207000.0,15,703800.0
+ORD-79946,2023-07-14,Tablet,Computers,Kano,In-Store,3,219400.0,5,625290.0
+ORD-71537,2023-08-27,Charger,Mobile,Kano,Online,4,6200.0,0,24800.0
+ORD-29126,2023-10-16,Smartwatch,Mobile,Lagos,In-Store,1,77900.0,0,77900.0
+ORD-59786,2023-06-18,Speaker,Audio,Ibadan,Online,2,37700.0,0,75400.0
+ORD-94108,2023-05-12,Keyboard,Computers,Port Harcourt,In-Store,3,22900.0,5,65265.0
+ORD-81636,2023-03-28,Headphones,Audio,Port Harcourt,Online,3,48000.0,0,144000.0
+ORD-10836,2023-12-09,Laptop,Computers,Port Harcourt,Online,1,559600.0,0,559600.0
+ORD-76287,2023-01-05,Tablet,Computers,Port Harcourt,In-Store,2,132200.0,0,264400.0
+ORD-73944,2023-09-05,Laptop,Computers,Lagos,Online,5,597100.0,15,2537675.0
+ORD-47576,2023-05-21,Speaker,Audio,Lagos,Reseller,5,20700.0,10,93150.0
+ORD-78732,2023-02-24,Speaker,Audio,Abuja,Online,2,68400.0,0,136800.0
+ORD-62022,2023-07-01,Tablet,Computers,Lagos,In-Store,3,231600.0,0,694800.0
+ORD-49318,2023-12-23,Speaker,Audio,Lagos,Reseller,2,47500.0,0,95000.0
+ORD-72390,2023-07-13,Laptop,Computers,Lagos,Reseller,4,387400.0,10,1394640.0
+ORD-94529,2023-09-13,Laptop,Computers,Kano,Reseller,1,631100.0,5,599545.0
+ORD-84289,2023-04-28,Smartphone,Mobile,Port Harcourt,In-Store,1,232100.0,0,232100.0
+ORD-96259,2023-10-06,Laptop,Computers,Lagos,Online,3,719700.0,10,1943190.0
+ORD-62205,2023-10-28,Smartwatch,Mobile,Lagos,In-Store,2,46600.0,0,93200.0
+ORD-80852,2023-07-19,Headphones,Audio,Kano,In-Store,5,40400.0,15,171700.0
+ORD-55332,2023-09-14,Headphones,Audio,Lagos,Online,1,50600.0,15,43010.0
+ORD-90460,2023-06-24,Speaker,Audio,Ibadan,In-Store,1,33900.0,10,30510.0
+ORD-39902,2023-08-19,Smartwatch,Mobile,Kano,Reseller,3,48100.0,5,137085.0
+ORD-21232,2023-12-05,Speaker,Audio,Ibadan,In-Store,5,45900.0,5,218025.0
+ORD-59807,2023-05-18,Tablet,Computers,Abuja,Reseller,1,248400.0,0,248400.0
+ORD-50405,2023-02-16,Speaker,Audio,Port Harcourt,In-Store,1,39000.0,0,39000.0
+ORD-68830,2023-04-06,Charger,Mobile,Ibadan,Reseller,1,3900.0,5,3705.0
+ORD-22198,2023-07-01,Speaker,Audio,Ibadan,Reseller,1,26200.0,10,23580.0
+ORD-60829,2023-05-30,Smartwatch,Mobile,Lagos,Reseller,1,135700.0,5,128915.0
+ORD-32216,2023-12-17,Tablet,Computers,Abuja,In-Store,2,223000.0,5,423700.0
+ORD-66973,2023-02-02,Charger,Mobile,Kano,In-Store,2,5400.0,0,10800.0
+ORD-42321,2023-07-04,Charger,Mobile,Port Harcourt,Reseller,1,7400.0,0,7400.0
+ORD-61864,2023-06-05,Tablet,Computers,Kano,Reseller,2,202400.0,0,404800.0
+ORD-66441,2023-08-14,Speaker,Audio,Ibadan,Online,3,68200.0,0,204600.0
+ORD-33283,2023-09-03,Charger,Mobile,Port Harcourt,In-Store,2,5900.0,0,11800.0
+ORD-52714,2023-10-22,Charger,Mobile,Port Harcourt,In-Store,4,9600.0,0,38400.0
+ORD-81516,2023-04-13,Speaker,Audio,Abuja,Reseller,5,41900.0,10,188550.0
+ORD-67469,2023-12-29,Laptop,Computers,Kano,Reseller,4,731200.0,0,2924800.0
+ORD-28242,2023-12-11,Smartphone,Mobile,Kano,Online,4,219200.0,5,832960.0
+ORD-68860,2023-07-13,Charger,Mobile,Ibadan,In-Store,4,8900.0,0,35600.0
+ORD-57124,2023-10-06,Speaker,Audio,Ibadan,Reseller,4,52100.0,0,208400.0
+ORD-56531,2023-12-03,Smartphone,Mobile,Abuja,Reseller,2,98600.0,15,167620.0
+ORD-23886,2023-06-19,Laptop,Computers,Lagos,Online,4,575300.0,5,2186140.0
+ORD-85397,2023-10-13,Charger,Mobile,Abuja,In-Store,5,5000.0,10,22500.0
+ORD-29758,2023-12-20,Smartwatch,Mobile,Kano,Online,5,86100.0,10,387450.0
+ORD-28569,2023-02-13,Keyboard,Computers,Kano,In-Store,4,10800.0,0,43200.0
+ORD-55652,2023-09-24,Smartwatch,Mobile,Port Harcourt,Online,2,92800.0,5,176320.0
+ORD-49356,2023-06-13,Keyboard,Computers,Lagos,Reseller,4,27500.0,0,110000.0
+ORD-98754,2023-11-28,Smartphone,Mobile,Abuja,Reseller,3,83800.0,0,251400.0
+ORD-83380,2023-03-23,Tablet,Computers,Port Harcourt,In-Store,5,212900.0,0,1064500.0
+ORD-96154,2023-04-06,Tablet,Computers,Port Harcourt,In-Store,2,263600.0,15,448120.0
+ORD-66302,2023-08-19,Laptop,Computers,Port Harcourt,Online,2,645000.0,10,1161000.0
+ORD-80371,2023-10-23,Tablet,Computers,Abuja,In-Store,1,157000.0,0,157000.0
+ORD-74157,2023-05-15,Smartwatch,Mobile,Ibadan,Reseller,1,65700.0,15,55845.0
+ORD-24972,2023-07-20,Smartwatch,Mobile,Kano,In-Store,5,107700.0,10,484650.0
+ORD-21108,2023-11-11,Keyboard,Computers,Abuja,In-Store,3,24700.0,10,66690.0
+ORD-28528,2023-04-04,Smartphone,Mobile,Ibadan,In-Store,1,120600.0,0,120600.0
+ORD-34347,2023-07-16,Speaker,Audio,Port Harcourt,Reseller,5,55800.0,5,265050.0
+ORD-34523,2023-05-28,Headphones,Audio,Kano,In-Store,4,40000.0,0,160000.0
+ORD-35575,2023-09-06,Laptop,Computers,Port Harcourt,Reseller,1,696200.0,0,696200.0
+ORD-68176,2023-08-01,Keyboard,Computers,Port Harcourt,Online,4,19000.0,15,64600.0
+ORD-46025,2023-05-30,Smartphone,Mobile,Abuja,Reseller,2,176100.0,0,352200.0
+ORD-74921,2023-10-17,Charger,Mobile,Ibadan,Reseller,4,4500.0,15,15300.0
+ORD-81046,2023-10-06,Smartphone,Mobile,Lagos,Reseller,3,177400.0,0,532200.0
+ORD-95678,2023-02-22,Keyboard,Computers,Abuja,In-Store,4,22800.0,15,77520.0
+ORD-25386,2023-02-14,Laptop,Computers,Abuja,Online,3,529900.0,5,1510215.0
+ORD-31755,2023-11-20,Smartwatch,Mobile,Ibadan,Online,5,135400.0,5,643150.0
+ORD-79767,2023-10-19,Tablet,Computers,Kano,Reseller,1,266400.0,0,266400.0
+ORD-45041,2023-05-29,Headphones,Audio,Ibadan,Reseller,3,29600.0,10,79920.0
+ORD-95969,2023-01-31,Smartphone,Mobile,Abuja,Reseller,4,103100.0,0,412400.0
+ORD-61472,2023-05-07,Headphones,Audio,Port Harcourt,Online,3,26200.0,15,66810.0
+ORD-93050,2023-08-20,Charger,Mobile,Lagos,In-Store,4,8700.0,0,34800.0
+ORD-52898,2023-08-21,Charger,Mobile,Ibadan,Online,3,9300.0,5,26505.0
+ORD-56952,2023-11-22,Smartphone,Mobile,Lagos,Reseller,4,204300.0,15,694620.0
+ORD-45197,2023-04-19,Speaker,Audio,Kano,In-Store,4,33100.0,5,125780.0
+ORD-55054,2023-10-17,Smartwatch,Mobile,Lagos,Online,2,102500.0,5,194750.0
+ORD-30707,2023-01-09,Smartphone,Mobile,Port Harcourt,In-Store,4,186500.0,0,746000.0
+ORD-27290,2023-04-14,Laptop,Computers,Kano,Online,4,746700.0,15,2538780.0
+ORD-58738,2023-05-09,Charger,Mobile,Abuja,Online,3,3800.0,0,11400.0
+ORD-21953,2023-08-08,Speaker,Audio,Lagos,Online,2,57500.0,15,97750.0
+ORD-78084,2023-10-31,Tablet,Computers,Port Harcourt,Online,2,205800.0,0,411600.0
+ORD-27324,2023-08-05,Laptop,Computers,Port Harcourt,Online,1,628200.0,15,533970.0
+ORD-58177,2023-02-22,Tablet,Computers,Kano,Online,1,189000.0,0,189000.0
+ORD-28724,2023-11-25,Speaker,Audio,Lagos,Reseller,2,66400.0,15,112880.0
+ORD-37925,2023-08-14,Laptop,Computers,Abuja,In-Store,2,594100.0,0,1188200.0
+ORD-26142,2023-02-21,Keyboard,Computers,Ibadan,Reseller,1,31200.0,0,31200.0
+ORD-42477,2023-06-11,Speaker,Audio,Kano,Reseller,4,41100.0,0,164400.0
+ORD-89638,2023-11-04,Smartphone,Mobile,Kano,Reseller,5,122200.0,15,519350.0
+ORD-89551,2023-04-16,Laptop,Computers,Ibadan,Online,3,689200.0,10,1860840.0
+ORD-60578,2023-05-03,Speaker,Audio,Lagos,Online,1,37700.0,5,35815.0
+ORD-57329,2023-09-28,Keyboard,Computers,Kano,Online,1,25200.0,0,25200.0
+ORD-81612,2023-08-04,Speaker,Audio,Abuja,In-Store,5,71600.0,0,358000.0
+ORD-38277,2023-01-08,Smartphone,Mobile,Lagos,Online,1,82800.0,0,82800.0
+ORD-62727,2023-08-01,Speaker,Audio,Lagos,Reseller,5,50400.0,5,239400.0
+ORD-36633,2023-02-10,Headphones,Audio,Abuja,Reseller,3,27500.0,10,74250.0
+ORD-67342,2023-06-08,Smartwatch,Mobile,Abuja,Online,1,86000.0,15,73100.0
+ORD-90254,2023-03-01,Tablet,Computers,Ibadan,Online,4,135500.0,5,514900.0
+ORD-27984,2023-03-03,Charger,Mobile,Lagos,Online,2,9000.0,0,18000.0
+ORD-43980,2023-09-22,Keyboard,Computers,Abuja,In-Store,5,33700.0,15,143225.0
+ORD-53910,2023-03-02,Headphones,Audio,Port Harcourt,In-Store,3,48700.0,0,146100.0
+ORD-75031,2023-11-18,Smartphone,Mobile,Port Harcourt,Reseller,5,124700.0,0,623500.0
+ORD-30618,2023-03-27,Smartwatch,Mobile,Kano,Online,5,50800.0,0,254000.0
+ORD-11610,2023-01-02,Smartphone,Mobile,Abuja,Online,5,118800.0,0,594000.0
+ORD-82465,2023-04-02,Keyboard,Computers,Port Harcourt,Online,2,17800.0,0,35600.0
+ORD-84912,2023-05-19,Smartwatch,Mobile,Kano,Online,3,71100.0,0,213300.0
+ORD-19034,2023-01-24,Laptop,Computers,Port Harcourt,In-Store,5,421700.0,5,2003075.0
+ORD-58354,2023-08-22,Charger,Mobile,Abuja,In-Store,5,5900.0,0,29500.0
+ORD-87554,2023-08-26,Charger,Mobile,Port Harcourt,Online,2,9700.0,0,19400.0
+ORD-80981,2023-01-13,Tablet,Computers,Kano,Reseller,4,147100.0,0,588400.0
+ORD-50306,2023-12-03,Laptop,Computers,Lagos,Online,1,730400.0,5,693880.0
+ORD-46677,2023-03-14,Tablet,Computers,Lagos,Online,1,195600.0,15,166260.0
+ORD-58823,2023-07-31,Tablet,Computers,Port Harcourt,Reseller,5,281500.0,15,1196375.0
+ORD-61688,2023-03-10,Smartphone,Mobile,Lagos,Reseller,5,178700.0,15,759475.0
+ORD-44208,2023-05-02,Laptop,Computers,Kano,In-Store,2,524000.0,0,1048000.0
+ORD-36569,2023-04-30,Smartwatch,Mobile,Abuja,Reseller,3,78400.0,0,235200.0
+ORD-51160,2023-08-19,Smartphone,Mobile,Port Harcourt,Online,2,106400.0,5,202160.0
+ORD-70731,2023-08-20,Smartwatch,Mobile,Kano,Online,2,146300.0,0,292600.0
+ORD-89076,2023-12-27,Smartphone,Mobile,Lagos,Online,3,106800.0,15,272340.0
+ORD-77300,2023-07-02,Smartwatch,Mobile,Lagos,Reseller,2,60600.0,5,115140.0
+ORD-69270,2023-01-16,Charger,Mobile,Ibadan,Reseller,2,5300.0,5,10070.0
+ORD-11567,2023-03-13,Tablet,Computers,Lagos,Online,1,137100.0,0,137100.0
+ORD-92614,2023-07-10,Headphones,Audio,Lagos,Reseller,4,23900.0,15,81260.0
+ORD-35919,2023-01-12,Charger,Mobile,Port Harcourt,Online,1,11300.0,0,11300.0
+ORD-70423,2023-03-04,Smartphone,Mobile,Lagos,Online,3,233900.0,0,701700.0
+ORD-60165,2023-09-12,Speaker,Audio,Port Harcourt,Online,4,69300.0,0,277200.0
+ORD-68459,2023-05-21,Smartwatch,Mobile,Abuja,Online,2,67500.0,0,135000.0
+ORD-72787,2023-07-30,Tablet,Computers,Lagos,Online,4,236500.0,10,851400.0
+ORD-78919,2023-04-13,Charger,Mobile,Abuja,Reseller,4,6400.0,15,21760.0
+ORD-73527,2023-09-03,Laptop,Computers,Kano,Reseller,3,745800.0,10,2013660.0
+ORD-88265,2023-01-14,Smartwatch,Mobile,Abuja,Online,2,85800.0,0,171600.0
+ORD-86544,2023-09-29,Charger,Mobile,Abuja,Online,4,3500.0,0,14000.0
+ORD-17328,2023-05-17,Smartphone,Mobile,Abuja,Reseller,2,122100.0,10,219780.0
+ORD-87662,2023-04-01,Speaker,Audio,Kano,Reseller,2,41300.0,0,82600.0
+ORD-56095,2023-12-27,Smartwatch,Mobile,Ibadan,Reseller,1,141000.0,15,119850.0
+ORD-50508,2023-09-10,Headphones,Audio,Abuja,In-Store,2,40300.0,10,72540.0
+ORD-12612,2023-11-05,Laptop,Computers,Ibadan,In-Store,2,386100.0,0,772200.0
+ORD-54663,2023-04-14,Laptop,Computers,Abuja,In-Store,5,482700.0,0,2413500.0
+ORD-24538,2023-12-27,Laptop,Computers,Ibadan,In-Store,5,358800.0,0,1794000.0
+ORD-54113,2023-10-28,Smartphone,Mobile,Kano,In-Store,4,143500.0,0,574000.0
+ORD-95089,2023-11-24,Headphones,Audio,Kano,Online,4,58900.0,5,223820.0
+ORD-50215,2023-03-31,Smartwatch,Mobile,Kano,Online,5,68400.0,5,324900.0
+ORD-14244,2023-07-20,Headphones,Audio,Abuja,Reseller,5,47800.0,10,215100.0
+ORD-84127,2023-04-24,Smartwatch,Mobile,Lagos,In-Store,5,141700.0,15,602225.0
+ORD-51879,2023-05-02,Headphones,Audio,Abuja,Reseller,1,29900.0,0,29900.0
+ORD-44761,2023-08-17,Smartphone,Mobile,Abuja,Online,3,219700.0,0,659100.0
+ORD-60585,2023-01-01,Smartphone,Mobile,Port Harcourt,Reseller,1,139600.0,0,139600.0
+ORD-56036,2023-09-10,Speaker,Audio,Ibadan,In-Store,4,78100.0,5,296780.0
+ORD-39567,2023-11-30,Smartphone,Mobile,Abuja,In-Store,5,220900.0,15,938825.0
+ORD-51774,2023-05-31,Smartphone,Mobile,Kano,Online,1,215900.0,0,215900.0
+ORD-19830,2023-03-24,Smartphone,Mobile,Ibadan,Online,4,138100.0,15,469540.0
+ORD-14062,2023-09-05,Smartwatch,Mobile,Port Harcourt,Reseller,5,107400.0,15,456450.0
+ORD-23272,2023-03-22,Headphones,Audio,Kano,Online,4,42300.0,0,169200.0
+ORD-96585,2023-10-04,Tablet,Computers,Kano,In-Store,5,193700.0,0,968500.0
+ORD-74349,2023-10-20,Tablet,Computers,Abuja,Online,4,137300.0,10,494280.0
+ORD-91931,2023-05-31,Smartwatch,Mobile,Ibadan,In-Store,1,45400.0,15,38590.0
+ORD-48248,2023-03-29,Tablet,Computers,Lagos,In-Store,2,137500.0,15,233750.0
+ORD-96643,2023-08-30,Smartphone,Mobile,Kano,Online,4,132400.0,5,503120.0
+ORD-68428,2023-07-09,Speaker,Audio,Lagos,In-Store,4,31100.0,0,124400.0
+ORD-18079,2023-05-18,Keyboard,Computers,Abuja,Reseller,2,20600.0,10,37080.0
+ORD-87296,2023-10-05,Smartphone,Mobile,Abuja,Reseller,3,94600.0,5,269610.0
+ORD-72236,2023-08-03,Laptop,Computers,Ibadan,Online,5,686300.0,10,3088350.0
+ORD-84870,2023-01-18,Keyboard,Computers,Ibadan,Reseller,4,16100.0,10,57960.0
+ORD-37772,2023-03-30,Headphones,Audio,Abuja,Online,4,20400.0,0,81600.0
+ORD-29382,2023-04-14,Laptop,Computers,Ibadan,In-Store,4,519300.0,15,1765620.0
+ORD-82923,2023-02-14,Smartwatch,Mobile,Port Harcourt,Reseller,1,140600.0,5,133570.0
+ORD-91665,2023-08-23,Smartwatch,Mobile,Ibadan,Reseller,5,134900.0,0,674500.0
+ORD-87061,2023-03-17,Speaker,Audio,Ibadan,Online,2,26800.0,10,48240.0
+ORD-55071,2023-05-27,Smartphone,Mobile,Port Harcourt,In-Store,1,175700.0,10,158130.0
+ORD-14910,2023-11-08,Speaker,Audio,Abuja,In-Store,5,59300.0,5,281675.0
+ORD-62654,2023-12-15,Speaker,Audio,Lagos,In-Store,5,28600.0,15,121550.0
+ORD-58816,2023-09-01,Smartwatch,Mobile,Lagos,In-Store,1,117500.0,0,117500.0
+ORD-22873,2023-12-23,Charger,Mobile,Abuja,Online,4,5800.0,15,19720.0
+ORD-64627,2023-06-14,Charger,Mobile,Ibadan,Reseller,4,11800.0,0,47200.0
+ORD-73499,2023-07-28,Smartphone,Mobile,Ibadan,In-Store,2,111900.0,15,190230.0
+ORD-76426,2023-02-03,Laptop,Computers,Port Harcourt,Online,2,556100.0,0,1112200.0
+ORD-14334,2023-01-30,Laptop,Computers,Port Harcourt,Online,2,419500.0,0,839000.0
+ORD-76207,2023-07-08,Smartwatch,Mobile,Port Harcourt,Reseller,3,119000.0,5,339150.0
+ORD-87862,2023-07-10,Smartphone,Mobile,Port Harcourt,Online,2,195800.0,5,372020.0
+ORD-43903,2023-06-26,Keyboard,Computers,Lagos,In-Store,3,23800.0,0,71400.0
+ORD-39012,2023-10-20,Laptop,Computers,Abuja,Reseller,2,504600.0,0,1009200.0
+ORD-99417,2023-09-20,Tablet,Computers,Lagos,In-Store,4,168400.0,0,673600.0
+ORD-43081,2023-01-05,Headphones,Audio,Ibadan,In-Store,5,44100.0,0,220500.0
+ORD-43029,2023-06-28,Charger,Mobile,Abuja,In-Store,4,6800.0,5,25840.0
+ORD-23410,2023-07-23,Charger,Mobile,Lagos,Reseller,5,9100.0,10,40950.0
+ORD-49121,2023-11-08,Smartwatch,Mobile,Lagos,In-Store,5,104000.0,0,520000.0
+ORD-46291,2023-11-24,Smartphone,Mobile,Kano,Reseller,3,137200.0,0,411600.0
+ORD-88647,2023-05-04,Charger,Mobile,Port Harcourt,Reseller,5,4700.0,0,23500.0
+ORD-48745,2023-12-02,Smartwatch,Mobile,Kano,In-Store,1,116500.0,5,110675.0
+ORD-84978,2023-10-26,Speaker,Audio,Abuja,In-Store,1,43300.0,15,36805.0
+ORD-76494,2023-12-10,Tablet,Computers,Kano,Online,4,243500.0,0,974000.0
+ORD-43902,2023-03-07,Headphones,Audio,Ibadan,Online,4,28200.0,15,95880.0
+ORD-50250,2023-07-01,Smartwatch,Mobile,Port Harcourt,In-Store,2,113700.0,0,227400.0
+ORD-71674,2023-08-26,Smartwatch,Mobile,Lagos,Reseller,3,72400.0,0,217200.0
+ORD-99220,2023-09-14,Smartphone,Mobile,Port Harcourt,Reseller,2,160300.0,0,320600.0
+ORD-54914,2023-03-12,Charger,Mobile,Port Harcourt,Reseller,2,6700.0,0,13400.0
+ORD-53598,2023-02-11,Keyboard,Computers,Abuja,In-Store,2,11900.0,5,22610.0
+ORD-85534,2023-04-18,Laptop,Computers,Abuja,In-Store,3,351900.0,0,1055700.0
+ORD-62873,2023-11-21,Smartphone,Mobile,Port Harcourt,In-Store,4,102000.0,5,387600.0
+ORD-58903,2023-04-13,Speaker,Audio,Lagos,In-Store,5,20300.0,15,86275.0
+ORD-42613,2023-11-17,Tablet,Computers,Abuja,Reseller,1,123200.0,15,104720.0
+ORD-87158,2023-07-16,Smartwatch,Mobile,Kano,Online,1,77800.0,10,70020.0
+ORD-78195,2023-05-29,Smartphone,Mobile,Ibadan,Reseller,3,220100.0,5,627285.0
+ORD-57087,2023-06-25,Smartwatch,Mobile,Abuja,Online,2,90500.0,5,171950.0
+ORD-12872,2023-03-09,Speaker,Audio,Ibadan,Reseller,2,21100.0,0,42200.0
+ORD-43526,2023-07-12,Headphones,Audio,Ibadan,Reseller,1,20500.0,15,17425.0
+ORD-95664,2023-12-05,Laptop,Computers,Lagos,Online,1,587600.0,0,587600.0
+ORD-43126,2023-03-05,Smartphone,Mobile,Port Harcourt,Reseller,4,150900.0,10,543240.0
+ORD-96725,2023-06-04,Headphones,Audio,Lagos,Reseller,1,24200.0,5,22990.0
+ORD-77054,2023-08-03,Charger,Mobile,Ibadan,Online,2,8600.0,0,17200.0
+ORD-89823,2023-09-12,Charger,Mobile,Abuja,In-Store,1,4000.0,0,4000.0
+ORD-15164,2023-06-01,Tablet,Computers,Ibadan,In-Store,4,184400.0,0,737600.0
+ORD-10358,2023-06-19,Tablet,Computers,Lagos,Reseller,4,243900.0,0,975600.0
+ORD-29548,2023-12-09,Smartphone,Mobile,Lagos,Reseller,5,234200.0,5,1112450.0
+ORD-40298,2023-05-12,Smartphone,Mobile,Port Harcourt,In-Store,1,203000.0,15,172550.0
+ORD-48085,2023-03-31,Charger,Mobile,Kano,Reseller,1,7200.0,0,7200.0
+ORD-11267,2023-02-18,Smartwatch,Mobile,Abuja,Reseller,1,89700.0,0,89700.0
+ORD-22183,2023-11-15,Headphones,Audio,Kano,In-Store,4,29800.0,0,119200.0
+ORD-60556,2023-08-22,Headphones,Audio,Port Harcourt,In-Store,4,20100.0,0,80400.0
+ORD-64529,2023-03-23,Headphones,Audio,Ibadan,In-Store,1,20100.0,0,20100.0
+ORD-13777,2023-07-03,Keyboard,Computers,Abuja,In-Store,4,12900.0,10,46440.0
+ORD-18301,2023-08-14,Keyboard,Computers,Kano,Reseller,4,11000.0,0,44000.0
+ORD-84057,2023-10-23,Smartwatch,Mobile,Abuja,Reseller,5,46300.0,15,196775.0
+ORD-96732,2023-02-18,Smartwatch,Mobile,Abuja,In-Store,5,99500.0,5,472625.0
+ORD-90335,2023-03-18,Smartwatch,Mobile,Lagos,Online,4,114700.0,10,412920.0
+ORD-19812,2023-09-11,Headphones,Audio,Port Harcourt,In-Store,4,37800.0,0,151200.0
+ORD-39190,2023-01-26,Tablet,Computers,Ibadan,Reseller,3,179600.0,10,484920.0
+ORD-68220,2023-02-10,Speaker,Audio,Ibadan,In-Store,2,44200.0,5,83980.0
+ORD-75191,2023-06-11,Smartphone,Mobile,Lagos,Online,4,225600.0,0,902400.0
+ORD-21913,2023-10-09,Speaker,Audio,Ibadan,Reseller,5,44700.0,0,223500.0
+ORD-98011,2023-04-16,Charger,Mobile,Port Harcourt,In-Store,5,11000.0,15,46750.0
+ORD-83420,2023-08-21,Smartwatch,Mobile,Ibadan,Reseller,2,131700.0,0,263400.0
+ORD-22771,2023-08-20,Keyboard,Computers,Abuja,Online,3,27300.0,0,81900.0
+ORD-59006,2023-10-08,Smartwatch,Mobile,Lagos,Online,3,82300.0,10,222210.0
+ORD-90065,2023-02-24,Headphones,Audio,Abuja,Online,4,37200.0,0,148800.0
+ORD-34979,2023-04-21,Smartphone,Mobile,Kano,Online,4,238100.0,5,904780.0
+ORD-69950,2023-03-05,Speaker,Audio,Ibadan,Reseller,5,22800.0,5,108300.0
+ORD-16366,2023-09-29,Headphones,Audio,Ibadan,In-Store,1,58400.0,15,49640.0
+ORD-32760,2023-12-21,Keyboard,Computers,Abuja,Online,2,33000.0,10,59400.0
+ORD-60418,2023-06-14,Speaker,Audio,Port Harcourt,Reseller,5,59500.0,10,267750.0
+ORD-27481,2023-05-31,Tablet,Computers,Abuja,In-Store,3,169200.0,5,482220.0
+ORD-82559,2023-06-10,Charger,Mobile,Abuja,Online,5,10600.0,15,45050.0
+ORD-98129,2023-12-18,Tablet,Computers,Abuja,Reseller,3,232400.0,0,697200.0
+ORD-56168,2023-12-30,Headphones,Audio,Ibadan,In-Store,3,37700.0,0,113100.0
+ORD-11673,2023-05-27,Speaker,Audio,Ibadan,Online,5,60500.0,5,287375.0
+ORD-36201,2023-12-10,Laptop,Computers,Kano,Online,1,502300.0,0,502300.0
+ORD-48684,2023-02-01,Charger,Mobile,Abuja,Reseller,2,9200.0,15,15640.0
+ORD-98542,2023-02-22,Laptop,Computers,Ibadan,Online,4,493500.0,10,1776600.0
+ORD-16157,2023-12-21,Speaker,Audio,Port Harcourt,In-Store,3,34300.0,15,87465.0
+ORD-11699,2023-10-10,Speaker,Audio,Kano,Online,3,77400.0,0,232200.0
+ORD-89087,2023-10-29,Keyboard,Computers,Abuja,Reseller,3,30400.0,10,82080.0
+ORD-34507,2023-12-16,Tablet,Computers,Abuja,Reseller,2,173000.0,0,346000.0
+ORD-44634,2023-05-23,Smartphone,Mobile,Abuja,Online,4,144100.0,10,518760.0
+ORD-15235,2023-12-30,Charger,Mobile,Abuja,In-Store,4,3100.0,0,12400.0
+ORD-74297,2023-12-05,Laptop,Computers,Ibadan,Reseller,5,659500.0,0,3297500.0
+ORD-34100,2023-09-27,Smartwatch,Mobile,Ibadan,Online,3,52700.0,0,158100.0
+ORD-55796,2023-07-26,Headphones,Audio,Abuja,Online,5,33700.0,0,168500.0
+ORD-79533,2023-04-22,Smartwatch,Mobile,Port Harcourt,Reseller,3,79800.0,10,215460.0
+ORD-94182,2023-08-17,Laptop,Computers,Ibadan,Reseller,3,395900.0,0,1187700.0
+ORD-60577,2023-07-15,Tablet,Computers,Kano,Reseller,3,292600.0,0,877800.0
+ORD-76680,2023-07-11,Charger,Mobile,Port Harcourt,In-Store,5,3200.0,10,14400.0
+ORD-20793,2023-06-14,Laptop,Computers,Lagos,Online,2,468600.0,10,843480.0
+ORD-37941,2023-12-10,Laptop,Computers,Port Harcourt,Online,2,600800.0,15,1021360.0
+ORD-99921,2023-11-28,Tablet,Computers,Abuja,Online,4,216800.0,0,867200.0
+ORD-17113,2023-02-14,Keyboard,Computers,Abuja,In-Store,1,27400.0,0,27400.0
+ORD-60860,2023-05-13,Smartphone,Mobile,Port Harcourt,Reseller,2,177700.0,5,337630.0
+ORD-25506,2023-07-19,Speaker,Audio,Ibadan,Online,1,46000.0,15,39100.0
+ORD-19514,2023-01-24,Smartphone,Mobile,Kano,Reseller,5,208500.0,15,886125.0
+ORD-46899,2023-11-07,Smartphone,Mobile,Port Harcourt,In-Store,3,129300.0,0,387900.0
+ORD-79922,2023-08-31,Speaker,Audio,Abuja,Online,1,69300.0,0,69300.0
+ORD-28884,2023-06-01,Speaker,Audio,Kano,Reseller,5,67800.0,15,288150.0
+ORD-28530,2023-10-11,Smartwatch,Mobile,Lagos,Online,1,145500.0,10,130950.0
+ORD-21157,2023-10-03,Laptop,Computers,Kano,Online,4,579100.0,10,2084760.0
+ORD-34116,2023-03-14,Smartwatch,Mobile,Abuja,Reseller,5,67200.0,0,336000.0
+ORD-17128,2023-12-10,Charger,Mobile,Ibadan,In-Store,2,4700.0,10,8460.0
+ORD-35875,2023-05-09,Smartphone,Mobile,Ibadan,In-Store,1,129400.0,0,129400.0
+ORD-91201,2023-02-21,Smartwatch,Mobile,Lagos,Online,2,82500.0,0,165000.0
+ORD-50065,2023-11-12,Smartwatch,Mobile,Ibadan,Online,3,96000.0,15,244800.0
+ORD-51053,2023-03-28,Smartwatch,Mobile,Abuja,Online,4,129800.0,0,519200.0
+ORD-53458,2023-03-10,Speaker,Audio,Port Harcourt,In-Store,3,36600.0,15,93330.0
+ORD-24264,2023-09-07,Keyboard,Computers,Abuja,Reseller,3,17700.0,10,47790.0
+ORD-44502,2023-10-03,Smartphone,Mobile,Lagos,Reseller,2,223100.0,0,446200.0
+ORD-86269,2023-11-20,Smartphone,Mobile,Ibadan,In-Store,5,231700.0,0,1158500.0
+ORD-80736,2023-05-14,Tablet,Computers,Port Harcourt,Reseller,5,283100.0,10,1273950.0
+ORD-48141,2023-10-29,Headphones,Audio,Abuja,In-Store,2,31500.0,15,53550.0
+ORD-41310,2023-01-06,Smartphone,Mobile,Ibadan,Reseller,5,147500.0,15,626875.0
+ORD-33480,2023-08-17,Headphones,Audio,Ibadan,Reseller,2,49100.0,0,98200.0
+ORD-38681,2023-07-03,Headphones,Audio,Port Harcourt,Online,4,48100.0,0,192400.0
+ORD-37102,2023-01-22,Smartphone,Mobile,Ibadan,In-Store,2,124900.0,15,212330.0
+ORD-95003,2023-01-24,Speaker,Audio,Kano,Online,4,48200.0,0,192800.0
+ORD-84732,2023-10-24,Charger,Mobile,Abuja,In-Store,3,10500.0,10,28350.0
+ORD-59326,2023-09-22,Speaker,Audio,Abuja,Reseller,1,41900.0,0,41900.0
+ORD-89195,2023-09-07,Speaker,Audio,Lagos,Reseller,3,41200.0,5,117420.0
+ORD-94341,2023-02-09,Headphones,Audio,Kano,Online,2,34800.0,10,62640.0
+ORD-25509,2023-11-05,Headphones,Audio,Abuja,In-Store,3,23400.0,15,59670.0
+ORD-72786,2023-12-12,Smartwatch,Mobile,Abuja,Reseller,4,120600.0,5,458280.0
+ORD-15655,2023-01-12,Headphones,Audio,Abuja,Reseller,4,44100.0,0,176400.0
+ORD-29249,2023-01-21,Headphones,Audio,Lagos,Online,5,21100.0,10,94950.0
+ORD-83872,2023-07-27,Charger,Mobile,Lagos,Reseller,5,11300.0,10,50850.0
+ORD-71789,2023-08-18,Charger,Mobile,Port Harcourt,Online,2,11500.0,10,20700.0
+ORD-33839,2023-03-15,Tablet,Computers,Ibadan,Reseller,5,269500.0,10,1212750.0
+ORD-87410,2023-08-21,Charger,Mobile,Lagos,Online,3,4500.0,10,12150.0
+ORD-78512,2023-01-09,Speaker,Audio,Ibadan,Reseller,1,43100.0,0,43100.0
+ORD-72373,2023-02-19,Speaker,Audio,Ibadan,Reseller,5,69600.0,0,348000.0
+ORD-22214,2023-09-15,Laptop,Computers,Port Harcourt,Reseller,5,701100.0,0,3505500.0
+ORD-95096,2023-01-01,Headphones,Audio,Port Harcourt,Reseller,5,55600.0,15,236300.0
+ORD-66224,2023-12-24,Speaker,Audio,Abuja,In-Store,1,42200.0,10,37980.0
+ORD-27548,2023-02-20,Speaker,Audio,Kano,In-Store,5,41000.0,5,194750.0
+ORD-81267,2023-05-26,Tablet,Computers,Port Harcourt,In-Store,1,283800.0,10,255420.0
+ORD-25444,2023-10-23,Tablet,Computers,Ibadan,Online,1,121000.0,10,108900.0
+ORD-23970,2023-07-29,Speaker,Audio,Abuja,In-Store,3,59300.0,0,177900.0
+ORD-57925,2023-08-05,Charger,Mobile,Ibadan,In-Store,5,5400.0,10,24300.0
+ORD-73238,2023-10-10,Speaker,Audio,Abuja,In-Store,4,65300.0,10,235080.0
+ORD-62183,2023-10-23,Keyboard,Computers,Abuja,Reseller,3,14900.0,0,44700.0
+ORD-23143,2023-12-25,Smartphone,Mobile,Abuja,Reseller,4,207100.0,0,828400.0
+ORD-99727,2023-11-11,Speaker,Audio,Lagos,Online,5,67200.0,15,285600.0
+ORD-71822,2023-02-16,Speaker,Audio,Ibadan,In-Store,1,77900.0,0,77900.0
+ORD-89826,2023-07-09,Smartphone,Mobile,Lagos,Reseller,2,90900.0,0,181800.0
+ORD-78289,2023-11-11,Speaker,Audio,Kano,Reseller,4,75800.0,15,257720.0
+ORD-67536,2023-11-24,Laptop,Computers,Lagos,Online,2,728300.0,5,1383770.0
+ORD-40365,2023-09-19,Charger,Mobile,Ibadan,Online,5,4800.0,10,21600.0
+ORD-46167,2023-03-22,Laptop,Computers,Port Harcourt,In-Store,1,493900.0,0,493900.0
+ORD-18993,2023-09-23,Speaker,Audio,Lagos,Reseller,2,44300.0,0,88600.0
+ORD-55544,2023-10-26,Charger,Mobile,Kano,Online,5,9500.0,0,47500.0
+ORD-44223,2023-10-22,Tablet,Computers,Abuja,In-Store,4,201900.0,0,807600.0
+ORD-25336,2023-05-31,Smartphone,Mobile,Ibadan,In-Store,5,175000.0,0,875000.0
+ORD-41886,2023-10-16,Charger,Mobile,Kano,In-Store,4,9200.0,5,34960.0
+ORD-43792,2023-09-04,Keyboard,Computers,Lagos,In-Store,1,32200.0,0,32200.0
+ORD-56281,2023-06-11,Tablet,Computers,Ibadan,Reseller,2,241800.0,5,459420.0
+ORD-22190,2023-05-08,Laptop,Computers,Port Harcourt,Reseller,3,630300.0,0,1890900.0
+ORD-56338,2023-09-01,Smartwatch,Mobile,Abuja,Reseller,2,53000.0,0,106000.0
+ORD-36170,2023-09-13,Charger,Mobile,Abuja,Reseller,2,4600.0,15,7820.0
+ORD-42728,2023-04-28,Tablet,Computers,Ibadan,In-Store,2,277100.0,0,554200.0
+ORD-96956,2023-02-10,Headphones,Audio,Port Harcourt,Reseller,1,50100.0,15,42585.0
+ORD-58653,2023-01-22,Laptop,Computers,Ibadan,In-Store,5,655700.0,5,3114575.0
+ORD-33969,2023-05-21,Keyboard,Computers,Ibadan,In-Store,5,32200.0,5,152950.0
+ORD-78909,2023-03-07,Speaker,Audio,Port Harcourt,In-Store,5,33300.0,0,166500.0
+ORD-69925,2023-12-18,Laptop,Computers,Lagos,Reseller,4,551000.0,0,2204000.0
+ORD-37623,2023-01-07,Keyboard,Computers,Port Harcourt,Reseller,1,16500.0,15,14025.0
+ORD-81901,2023-05-13,Smartphone,Mobile,Kano,Online,5,135300.0,0,676500.0
+ORD-34105,2023-06-25,Charger,Mobile,Port Harcourt,In-Store,5,7200.0,0,36000.0
+ORD-46651,2023-07-06,Tablet,Computers,Port Harcourt,Online,3,195400.0,5,556890.0
+ORD-45382,2023-02-21,Headphones,Audio,Abuja,Reseller,2,59100.0,15,100470.0
+ORD-29601,2023-03-16,Speaker,Audio,Port Harcourt,Online,2,71400.0,15,121380.0
+ORD-79990,2023-11-19,Headphones,Audio,Kano,In-Store,2,34000.0,10,61200.0
+ORD-22972,2023-01-25,Charger,Mobile,Abuja,Online,5,5300.0,5,25175.0
+ORD-68963,2023-11-19,Tablet,Computers,Kano,In-Store,4,266500.0,0,1066000.0
+ORD-12599,2023-05-12,Smartwatch,Mobile,Port Harcourt,Online,5,82800.0,0,414000.0
+ORD-85483,2023-04-12,Smartwatch,Mobile,Ibadan,Online,5,136100.0,10,612450.0
+ORD-68580,2023-09-07,Charger,Mobile,Lagos,In-Store,5,6200.0,15,26350.0
+ORD-54222,2023-03-27,Charger,Mobile,Port Harcourt,Reseller,2,7200.0,15,12240.0
+ORD-55039,2023-02-10,Speaker,Audio,Abuja,In-Store,1,70900.0,0,70900.0
+ORD-61833,2023-11-06,Smartwatch,Mobile,Kano,In-Store,3,113600.0,15,289680.0
+ORD-31930,2023-08-19,Smartwatch,Mobile,Abuja,Online,5,123500.0,5,586625.0
+ORD-20494,2023-12-25,Headphones,Audio,Abuja,Online,3,47700.0,15,121635.0
+ORD-17055,2023-08-31,Speaker,Audio,Lagos,In-Store,1,26200.0,10,23580.0
+ORD-95830,2023-03-21,Smartphone,Mobile,Port Harcourt,In-Store,5,97700.0,0,488500.0
+ORD-26569,2023-08-15,Tablet,Computers,Abuja,Reseller,3,164500.0,15,419475.0
+ORD-71235,2023-06-16,Headphones,Audio,Ibadan,In-Store,3,16300.0,5,46455.0
+ORD-88326,2023-04-01,Keyboard,Computers,Port Harcourt,Reseller,5,11600.0,10,52200.0
+ORD-73131,2023-06-08,Speaker,Audio,Ibadan,Online,5,51400.0,0,257000.0
+ORD-30410,2023-07-31,Smartphone,Mobile,Kano,Online,3,155100.0,0,465300.0
+ORD-71498,2023-06-26,Laptop,Computers,Ibadan,Online,2,559300.0,0,1118600.0
+ORD-66418,2023-06-03,Keyboard,Computers,Kano,Reseller,4,33600.0,0,134400.0
+ORD-63967,2023-07-11,Tablet,Computers,Ibadan,In-Store,5,263400.0,0,1317000.0
+ORD-44469,2023-07-13,Speaker,Audio,Lagos,In-Store,4,35000.0,0,140000.0
+ORD-45633,2023-12-22,Tablet,Computers,Kano,Reseller,5,213000.0,15,905250.0
+ORD-47957,2023-04-04,Charger,Mobile,Lagos,Reseller,1,6700.0,0,6700.0
+ORD-74486,2023-12-25,Keyboard,Computers,Abuja,In-Store,3,24700.0,10,66690.0
+ORD-23405,2023-01-12,Laptop,Computers,Kano,In-Store,5,410900.0,0,2054500.0
+ORD-29750,2023-04-30,Headphones,Audio,Lagos,In-Store,1,47200.0,0,47200.0
+ORD-70776,2023-09-13,Tablet,Computers,Lagos,In-Store,3,181500.0,0,544500.0
+ORD-61435,2023-01-29,Smartphone,Mobile,Lagos,Reseller,2,223400.0,0,446800.0
+ORD-25985,2023-07-15,Keyboard,Computers,Abuja,In-Store,3,12900.0,0,38700.0
+ORD-22315,2023-04-12,Keyboard,Computers,Ibadan,Reseller,1,14700.0,5,13965.0
+ORD-92465,2023-06-15,Tablet,Computers,Lagos,Reseller,3,205100.0,0,615300.0
+ORD-16827,2023-04-12,Smartphone,Mobile,Abuja,Online,3,123100.0,0,369300.0
+ORD-46188,2023-01-08,Tablet,Computers,Ibadan,Online,3,233900.0,0,701700.0
+ORD-72294,2023-01-22,Speaker,Audio,Ibadan,Online,1,67300.0,10,60570.0
+ORD-21980,2023-03-22,Smartwatch,Mobile,Ibadan,In-Store,2,125900.0,5,239210.0
+ORD-24076,2023-12-26,Laptop,Computers,Abuja,In-Store,2,373900.0,10,673020.0
+ORD-67503,2023-11-27,Tablet,Computers,Abuja,Online,5,177000.0,0,885000.0
+ORD-73609,2023-05-09,Speaker,Audio,Port Harcourt,Reseller,2,41500.0,0,83000.0
+ORD-34461,2023-04-08,Charger,Mobile,Ibadan,In-Store,4,7900.0,10,28440.0
+ORD-31016,2023-11-03,Smartwatch,Mobile,Lagos,Reseller,3,121900.0,10,329130.0
+ORD-69517,2023-10-05,Headphones,Audio,Lagos,Reseller,3,35200.0,0,105600.0
+ORD-91290,2023-11-14,Speaker,Audio,Abuja,In-Store,1,64000.0,0,64000.0
+ORD-78690,2023-07-18,Smartphone,Mobile,Port Harcourt,Reseller,5,191900.0,0,959500.0
+ORD-52208,2023-07-29,Headphones,Audio,Lagos,Online,3,42600.0,15,108630.0
+ORD-36486,2023-04-02,Smartphone,Mobile,Lagos,In-Store,2,87400.0,0,174800.0
+ORD-96235,2023-11-25,Tablet,Computers,Port Harcourt,Reseller,5,137800.0,5,654550.0
+ORD-19289,2023-11-07,Charger,Mobile,Lagos,Online,2,3400.0,15,5780.0
+ORD-17956,2023-08-28,Keyboard,Computers,Kano,Reseller,1,33100.0,15,28135.0
+ORD-79339,2023-11-12,Speaker,Audio,Lagos,Reseller,1,69300.0,0,69300.0
+ORD-22729,2023-04-21,Smartphone,Mobile,Lagos,Reseller,1,221900.0,10,199710.0
+ORD-96098,2023-04-09,Tablet,Computers,Abuja,Reseller,2,215700.0,10,388260.0
+ORD-23829,2023-08-01,Headphones,Audio,Ibadan,In-Store,5,40100.0,15,170425.0
+ORD-33644,2023-02-23,Keyboard,Computers,Ibadan,In-Store,4,27000.0,0,108000.0
+ORD-56179,2023-11-04,Smartwatch,Mobile,Kano,Reseller,5,114000.0,5,541500.0
+ORD-52395,2023-11-21,Smartwatch,Mobile,Ibadan,Online,4,133700.0,5,508060.0
+ORD-69297,2023-05-11,Tablet,Computers,Port Harcourt,In-Store,5,187500.0,0,937500.0
+ORD-77844,2023-11-02,Laptop,Computers,Abuja,In-Store,3,640500.0,0,1921500.0
+ORD-12844,2023-04-20,Laptop,Computers,Kano,Reseller,2,470100.0,0,940200.0
+ORD-28141,2023-07-02,Headphones,Audio,Kano,In-Store,4,19200.0,0,76800.0
+ORD-62402,2023-02-17,Tablet,Computers,Ibadan,Online,3,161900.0,10,437130.0
+ORD-85527,2023-03-30,Smartphone,Mobile,Lagos,Reseller,4,203000.0,5,771400.0
+ORD-17329,2023-07-15,Charger,Mobile,Kano,In-Store,5,3300.0,0,16500.0
+ORD-95561,2023-04-27,Speaker,Audio,Ibadan,Online,1,45000.0,15,38250.0
+ORD-80769,2023-01-22,Speaker,Audio,Ibadan,Online,5,23200.0,0,116000.0
+ORD-98294,2023-03-20,Smartwatch,Mobile,Port Harcourt,In-Store,2,97800.0,0,195600.0
+ORD-27326,2023-07-21,Smartphone,Mobile,Kano,Online,3,117800.0,0,353400.0
+ORD-44413,2023-10-08,Keyboard,Computers,Lagos,In-Store,1,23400.0,5,22230.0
+ORD-83308,2023-03-11,Speaker,Audio,Abuja,In-Store,2,66400.0,5,126160.0
+ORD-78714,2023-10-15,Speaker,Audio,Abuja,Online,2,59100.0,10,106380.0
+ORD-85499,2023-06-15,Smartphone,Mobile,Lagos,Online,4,125300.0,15,426020.0
+ORD-55157,2023-04-08,Speaker,Audio,Ibadan,Reseller,3,45400.0,0,136200.0
+ORD-67961,2023-06-29,Laptop,Computers,Ibadan,Online,2,657900.0,10,1184220.0
+ORD-58997,2023-04-13,Keyboard,Computers,Abuja,Reseller,2,9200.0,15,15640.0
+ORD-29356,2023-05-05,Smartphone,Mobile,Kano,Online,1,99100.0,10,89190.0
+ORD-71759,2023-06-06,Smartwatch,Mobile,Lagos,In-Store,1,117800.0,5,111910.0
+ORD-78585,2023-04-15,Tablet,Computers,Kano,Reseller,2,253200.0,10,455760.0
+ORD-97590,2023-12-22,Keyboard,Computers,Lagos,In-Store,2,24800.0,15,42160.0
+ORD-90997,2023-05-26,Laptop,Computers,Kano,Online,1,452200.0,0,452200.0
+ORD-96556,2023-02-04,Keyboard,Computers,Kano,Reseller,1,25700.0,5,24415.0
+ORD-60662,2023-05-30,Smartwatch,Mobile,Abuja,In-Store,1,135700.0,15,115345.0
+ORD-21537,2023-11-02,Smartphone,Mobile,Abuja,Online,4,233700.0,10,841320.0
+ORD-79391,2023-01-21,Keyboard,Computers,Kano,In-Store,1,23100.0,0,23100.0
+ORD-99694,2023-01-10,Keyboard,Computers,Kano,In-Store,2,18600.0,0,37200.0
+ORD-92023,2023-05-22,Charger,Mobile,Kano,In-Store,5,5100.0,0,25500.0
+ORD-54798,2023-04-26,Laptop,Computers,Port Harcourt,Reseller,3,727700.0,0,2183100.0
+ORD-90274,2023-09-24,Headphones,Audio,Abuja,In-Store,4,19000.0,15,64600.0
+ORD-53160,2023-06-09,Tablet,Computers,Port Harcourt,Reseller,4,223100.0,10,803160.0
+ORD-99659,2023-10-25,Headphones,Audio,Abuja,Online,2,24300.0,10,43740.0
+ORD-29025,2023-03-11,Charger,Mobile,Ibadan,Online,5,9200.0,5,43700.0
+ORD-51628,2023-03-02,Smartwatch,Mobile,Abuja,Reseller,5,52100.0,0,260500.0
+ORD-68065,2023-07-30,Laptop,Computers,Kano,Online,4,656200.0,0,2624800.0
+ORD-90864,2023-01-14,Tablet,Computers,Kano,Reseller,2,139200.0,10,250560.0
+ORD-57089,2023-12-18,Tablet,Computers,Lagos,Reseller,2,227300.0,0,454600.0
+ORD-95140,2023-08-29,Keyboard,Computers,Kano,Online,5,11600.0,15,49300.0
+ORD-39658,2023-03-25,Speaker,Audio,Lagos,In-Store,2,49500.0,0,99000.0
+ORD-97993,2023-04-24,Laptop,Computers,Abuja,Online,4,720200.0,15,2448680.0
+ORD-52584,2023-11-12,Smartphone,Mobile,Port Harcourt,Online,4,110100.0,5,418380.0
+ORD-59856,2023-11-08,Speaker,Audio,Kano,In-Store,1,44300.0,15,37655.0
+ORD-42207,2023-08-22,Laptop,Computers,Ibadan,Reseller,4,558300.0,0,2233200.0
+ORD-77649,2023-10-13,Speaker,Audio,Lagos,Online,1,79000.0,5,75050.0
+ORD-31821,2023-05-27,Charger,Mobile,Port Harcourt,In-Store,3,7000.0,5,19950.0
+ORD-69204,2023-08-26,Laptop,Computers,Lagos,Reseller,2,626000.0,15,1064200.0
+ORD-27734,2023-12-23,Smartphone,Mobile,Port Harcourt,In-Store,5,110600.0,10,497700.0
+ORD-36467,2023-08-21,Smartwatch,Mobile,Port Harcourt,Online,2,92300.0,10,166140.0
+ORD-24963,2023-03-05,Charger,Mobile,Port Harcourt,Reseller,2,5900.0,0,11800.0
+ORD-30958,2023-09-19,Smartwatch,Mobile,Port Harcourt,Reseller,4,54000.0,10,194400.0
+ORD-96445,2023-06-21,Speaker,Audio,Abuja,Online,2,22600.0,10,40680.0
+ORD-50569,2023-08-03,Headphones,Audio,Port Harcourt,In-Store,1,23000.0,0,23000.0
+ORD-91600,2023-04-14,Headphones,Audio,Kano,Online,2,20300.0,0,40600.0
+ORD-89689,2023-10-06,Keyboard,Computers,Port Harcourt,Online,4,21400.0,0,85600.0
+ORD-67917,2023-08-21,Tablet,Computers,Lagos,Reseller,4,226000.0,5,858800.0
+ORD-92396,2023-05-23,Laptop,Computers,Ibadan,Online,5,447900.0,10,2015550.0
+ORD-14813,2023-12-01,Laptop,Computers,Abuja,Online,1,423900.0,0,423900.0
+ORD-64651,2023-01-26,Charger,Mobile,Abuja,Online,1,6000.0,0,6000.0
+ORD-33254,2023-10-21,Charger,Mobile,Port Harcourt,Reseller,5,8500.0,10,38250.0
+ORD-58309,2023-06-03,Smartwatch,Mobile,Port Harcourt,Online,1,142800.0,0,142800.0
+ORD-27635,2023-05-30,Speaker,Audio,Lagos,Reseller,1,70600.0,5,67070.0
+ORD-37400,2023-09-26,Charger,Mobile,Ibadan,Online,4,6000.0,0,24000.0
+ORD-89269,2023-02-14,Smartphone,Mobile,Kano,In-Store,5,177100.0,5,841225.0
+ORD-27001,2023-11-16,Smartwatch,Mobile,Ibadan,Reseller,5,72300.0,0,361500.0
+ORD-89876,2023-09-10,Keyboard,Computers,Abuja,Reseller,4,22000.0,0,88000.0
+ORD-70933,2023-03-02,Charger,Mobile,Lagos,Reseller,1,11800.0,0,11800.0
+ORD-53750,2023-07-31,Tablet,Computers,Kano,Reseller,4,263900.0,0,1055600.0
+ORD-43347,2023-12-20,Tablet,Computers,Lagos,In-Store,2,122000.0,0,244000.0
+ORD-99893,2023-01-04,Charger,Mobile,Kano,In-Store,3,7600.0,0,22800.0
+ORD-35430,2023-01-15,Speaker,Audio,Kano,In-Store,5,63500.0,0,317500.0
+ORD-73110,2023-11-27,Keyboard,Computers,Abuja,Reseller,1,32700.0,0,32700.0
+ORD-64257,2023-06-21,Keyboard,Computers,Lagos,Reseller,5,32100.0,5,152475.0
+ORD-12453,2023-10-12,Charger,Mobile,Abuja,Reseller,3,8100.0,10,21870.0
+ORD-46760,2023-02-03,Smartwatch,Mobile,Lagos,In-Store,3,129000.0,0,387000.0
+ORD-61061,2023-10-20,Speaker,Audio,Abuja,Reseller,2,57600.0,10,103680.0
+ORD-14145,2023-12-28,Smartphone,Mobile,Kano,In-Store,3,227000.0,0,681000.0
+ORD-49666,2023-07-10,Smartphone,Mobile,Abuja,Reseller,2,164500.0,5,312550.0
+ORD-22137,2023-01-20,Charger,Mobile,Port Harcourt,Reseller,3,4600.0,0,13800.0
+ORD-54579,2023-03-20,Laptop,Computers,Port Harcourt,Reseller,5,669600.0,0,3348000.0
+ORD-98698,2023-02-20,Charger,Mobile,Abuja,Online,2,10000.0,10,18000.0
+ORD-50760,2023-03-01,Laptop,Computers,Lagos,Reseller,5,533700.0,0,2668500.0
+ORD-96374,2023-02-22,Smartphone,Mobile,Kano,Online,1,136700.0,10,123030.0
+ORD-35237,2023-06-14,Charger,Mobile,Kano,In-Store,2,8700.0,0,17400.0
+ORD-30643,2023-05-20,Smartwatch,Mobile,Kano,Online,1,126100.0,0,126100.0
+ORD-37076,2023-09-21,Laptop,Computers,Ibadan,In-Store,5,733300.0,0,3666500.0
+ORD-32449,2023-10-21,Smartwatch,Mobile,Lagos,In-Store,3,73500.0,0,220500.0
+ORD-71700,2023-03-08,Smartwatch,Mobile,Lagos,Online,1,101800.0,0,101800.0
+ORD-88134,2023-07-20,Speaker,Audio,Ibadan,Reseller,4,23200.0,0,92800.0
+ORD-97932,2023-06-20,Keyboard,Computers,Ibadan,Online,3,24600.0,0,73800.0
+ORD-22748,2023-12-24,Keyboard,Computers,Port Harcourt,In-Store,1,23300.0,5,22135.0
+ORD-43823,2023-03-15,Keyboard,Computers,Kano,In-Store,2,20700.0,10,37260.0
+ORD-73898,2023-06-16,Headphones,Audio,Lagos,Online,3,46500.0,5,132525.0
+ORD-46996,2023-08-25,Keyboard,Computers,Kano,Reseller,4,11000.0,0,44000.0
+ORD-82895,2023-02-24,Headphones,Audio,Lagos,In-Store,4,37900.0,0,151600.0
+ORD-41941,2023-05-03,Keyboard,Computers,Ibadan,Online,4,18800.0,10,67680.0
+ORD-87459,2023-04-17,Keyboard,Computers,Port Harcourt,In-Store,3,18400.0,15,46920.0
+ORD-97766,2023-03-30,Smartwatch,Mobile,Lagos,Reseller,2,102200.0,15,173740.0
+ORD-82756,2023-08-26,Keyboard,Computers,Lagos,In-Store,5,11100.0,0,55500.0
+ORD-24253,2023-02-05,Headphones,Audio,Ibadan,In-Store,4,28900.0,10,104040.0
+ORD-28208,2023-02-16,Smartwatch,Mobile,Ibadan,Reseller,1,96900.0,0,96900.0
+ORD-48207,2023-08-20,Laptop,Computers,Port Harcourt,Reseller,2,652800.0,10,1175040.0
+ORD-99071,2023-06-03,Keyboard,Computers,Kano,In-Store,3,13300.0,10,35910.0
+ORD-76902,2023-01-05,Smartwatch,Mobile,Port Harcourt,Online,5,149000.0,10,670500.0
+ORD-83404,2023-01-28,Charger,Mobile,Kano,Online,5,3600.0,0,18000.0
+ORD-87353,2023-08-10,Charger,Mobile,Port Harcourt,Reseller,2,10800.0,15,18360.0
+ORD-81449,2023-07-15,Smartwatch,Mobile,Abuja,Reseller,4,119700.0,5,454860.0
+ORD-57223,2023-10-12,Headphones,Audio,Port Harcourt,Online,2,36400.0,5,69160.0
+ORD-19403,2023-03-10,Charger,Mobile,Lagos,Online,2,12000.0,0,24000.0
+ORD-94180,2023-02-13,Keyboard,Computers,Port Harcourt,In-Store,2,25800.0,0,51600.0
+ORD-82358,2023-09-18,Speaker,Audio,Port Harcourt,In-Store,4,57400.0,5,218120.0
+ORD-85751,2023-11-06,Smartwatch,Mobile,Port Harcourt,Reseller,4,68700.0,0,274800.0
+ORD-85543,2023-07-30,Tablet,Computers,Kano,Online,3,248200.0,10,670140.0
+ORD-73115,2023-02-27,Laptop,Computers,Lagos,Online,3,577300.0,10,1558710.0
+ORD-21592,2023-09-25,Charger,Mobile,Abuja,In-Store,1,7200.0,10,6480.0
+ORD-90352,2023-10-24,Smartphone,Mobile,Lagos,In-Store,5,196300.0,0,981500.0
+ORD-53452,2023-08-29,Laptop,Computers,Port Harcourt,In-Store,5,537500.0,10,2418750.0
+ORD-49855,2023-12-22,Charger,Mobile,Ibadan,In-Store,1,5600.0,10,5040.0
+ORD-16765,2023-03-28,Laptop,Computers,Kano,Reseller,5,601700.0,10,2707650.0
+ORD-20074,2023-03-06,Laptop,Computers,Kano,In-Store,1,464700.0,10,418230.0
+ORD-24621,2023-05-12,Headphones,Audio,Ibadan,Online,3,42700.0,0,128100.0
+ORD-40958,2023-03-31,Headphones,Audio,Port Harcourt,Online,3,44700.0,0,134100.0
+ORD-30204,2023-03-16,Laptop,Computers,Port Harcourt,In-Store,1,487100.0,10,438390.0
+ORD-37637,2023-11-23,Speaker,Audio,Ibadan,Reseller,4,34300.0,0,137200.0
+ORD-31967,2023-03-01,Smartwatch,Mobile,Port Harcourt,In-Store,3,50700.0,0,152100.0
+ORD-99589,2023-04-30,Keyboard,Computers,Port Harcourt,In-Store,5,16100.0,5,76475.0
+ORD-68827,2023-01-07,Charger,Mobile,Port Harcourt,Reseller,4,4300.0,0,17200.0
+ORD-93548,2023-02-19,Smartwatch,Mobile,Kano,In-Store,1,146000.0,10,131400.0
+ORD-95766,2023-02-20,Charger,Mobile,Ibadan,In-Store,3,6000.0,0,18000.0
+ORD-35549,2023-12-11,Keyboard,Computers,Ibadan,In-Store,2,28900.0,10,52020.0
+ORD-18906,2023-12-11,Headphones,Audio,Lagos,In-Store,1,29100.0,0,29100.0
+ORD-47132,2023-06-29,Smartphone,Mobile,Kano,Online,4,169300.0,0,677200.0
+ORD-96062,2023-01-30,Laptop,Computers,Abuja,Reseller,1,359500.0,10,323550.0
+ORD-27027,2023-02-14,Smartphone,Mobile,Port Harcourt,Reseller,1,200400.0,10,180360.0
+ORD-71204,2023-05-10,Headphones,Audio,Lagos,Reseller,2,55300.0,0,110600.0
+ORD-97500,2023-08-07,Keyboard,Computers,Kano,In-Store,3,32900.0,15,83895.0
+ORD-60933,2023-02-01,Headphones,Audio,Kano,Online,3,50100.0,5,142785.0
+ORD-19096,2023-04-02,Charger,Mobile,Port Harcourt,Online,3,11600.0,5,33060.0
+ORD-80861,2023-02-25,Speaker,Audio,Port Harcourt,Online,4,30700.0,0,122800.0
+ORD-19557,2023-02-22,Smartphone,Mobile,Lagos,Reseller,3,235100.0,0,705300.0
+ORD-95572,2023-09-12,Charger,Mobile,Lagos,Online,1,10000.0,0,10000.0
+ORD-10485,2023-07-20,Speaker,Audio,Ibadan,Reseller,3,36000.0,10,97200.0
+ORD-39602,2023-02-05,Keyboard,Computers,Lagos,In-Store,4,20900.0,10,75240.0
+ORD-99369,2023-07-03,Keyboard,Computers,Kano,In-Store,5,11300.0,0,56500.0
+ORD-54572,2023-07-07,Laptop,Computers,Lagos,In-Store,1,602900.0,10,542610.0
+ORD-60353,2023-10-11,Charger,Mobile,Abuja,In-Store,2,8800.0,0,17600.0
+ORD-92941,2023-09-07,Speaker,Audio,Port Harcourt,Reseller,3,73800.0,0,221400.0
+ORD-87718,2023-01-13,Tablet,Computers,Abuja,In-Store,2,145200.0,15,246840.0
+ORD-75494,2023-11-26,Speaker,Audio,Ibadan,In-Store,5,23800.0,0,119000.0
+ORD-15611,2023-06-22,Laptop,Computers,Port Harcourt,Online,1,364800.0,15,310080.0
+ORD-80328,2023-08-23,Tablet,Computers,Abuja,Reseller,5,265300.0,15,1127525.0
+ORD-95699,2023-03-14,Tablet,Computers,Lagos,In-Store,1,286500.0,5,272175.0
+ORD-92924,2023-01-08,Laptop,Computers,Lagos,In-Store,2,447100.0,0,894200.0
+ORD-23937,2023-10-30,Smartphone,Mobile,Lagos,In-Store,2,157600.0,0,315200.0
+ORD-98918,2023-08-07,Tablet,Computers,Port Harcourt,In-Store,2,131400.0,0,262800.0
+ORD-52151,2023-10-07,Smartphone,Mobile,Abuja,Online,5,245900.0,0,1229500.0
+ORD-64415,2023-05-21,Headphones,Audio,Abuja,Reseller,1,30100.0,0,30100.0
+ORD-15334,2023-05-05,Smartwatch,Mobile,Abuja,Online,4,103100.0,10,371160.0
+ORD-10832,2023-09-07,Speaker,Audio,Lagos,Online,1,66700.0,0,66700.0
+ORD-72391,2023-05-26,Smartphone,Mobile,Abuja,Online,5,200100.0,5,950475.0
+ORD-41359,2023-08-19,Headphones,Audio,Abuja,Reseller,5,43800.0,5,208050.0
+ORD-92207,2023-11-10,Laptop,Computers,Kano,In-Store,4,588500.0,0,2354000.0
+ORD-79494,2023-04-09,Speaker,Audio,Lagos,Reseller,2,20300.0,0,40600.0
+ORD-70845,2023-09-17,Smartwatch,Mobile,Abuja,In-Store,5,135600.0,0,678000.0
+ORD-75210,2023-12-17,Laptop,Computers,Abuja,Online,2,427500.0,5,812250.0
+ORD-66973,2023-05-26,Laptop,Computers,Kano,In-Store,3,371600.0,0,1114800.0
+ORD-30715,2023-10-03,Keyboard,Computers,Lagos,In-Store,1,9200.0,0,9200.0
+ORD-85990,2023-08-16,Smartphone,Mobile,Kano,In-Store,2,92000.0,10,165600.0
+ORD-52746,2023-04-28,Tablet,Computers,Abuja,Online,3,254500.0,0,763500.0
+ORD-19637,2023-07-12,Tablet,Computers,Port Harcourt,Reseller,2,252800.0,0,505600.0
+ORD-89879,2023-03-16,Keyboard,Computers,Port Harcourt,Online,4,9500.0,0,38000.0
+ORD-57001,2023-04-10,Speaker,Audio,Kano,Online,4,42400.0,15,144160.0
+ORD-27891,2023-01-31,Smartwatch,Mobile,Lagos,In-Store,5,58400.0,0,292000.0
+ORD-89119,2023-04-23,Keyboard,Computers,Abuja,Reseller,3,19300.0,0,57900.0
+ORD-63961,2023-04-28,Headphones,Audio,Ibadan,In-Store,5,41000.0,0,205000.0
+ORD-66113,2023-05-23,Tablet,Computers,Abuja,Online,4,226500.0,0,906000.0
+ORD-85196,2023-10-30,Smartwatch,Mobile,Lagos,In-Store,2,90600.0,0,181200.0
+ORD-65797,2023-09-16,Laptop,Computers,Ibadan,In-Store,4,366000.0,0,1464000.0
+ORD-41524,2023-08-20,Keyboard,Computers,Lagos,Reseller,1,29900.0,5,28405.0
+ORD-56976,2023-04-22,Laptop,Computers,Kano,Online,4,627300.0,0,2509200.0
+ORD-70199,2023-03-24,Smartphone,Mobile,Ibadan,Reseller,3,82700.0,15,210885.0
+ORD-63131,2023-03-12,Laptop,Computers,Abuja,In-Store,4,740600.0,15,2518040.0
+ORD-60446,2023-11-18,Keyboard,Computers,Kano,Reseller,1,27000.0,0,27000.0
+ORD-81098,2023-12-24,Laptop,Computers,Ibadan,Online,3,468600.0,10,1265220.0
+ORD-98428,2023-01-29,Smartphone,Mobile,Kano,Online,3,185500.0,10,500850.0
+ORD-57916,2023-11-13,Smartphone,Mobile,Kano,Online,4,145100.0,0,580400.0
+ORD-41278,2023-03-12,Smartphone,Mobile,Ibadan,Online,2,175300.0,0,350600.0
+ORD-39548,2023-12-26,Keyboard,Computers,Kano,In-Store,5,27900.0,0,139500.0
+ORD-18305,2023-05-22,Charger,Mobile,Kano,In-Store,4,7500.0,0,30000.0
+ORD-79717,2023-03-04,Keyboard,Computers,Ibadan,In-Store,5,21100.0,5,100225.0
+ORD-21443,2023-04-07,Keyboard,Computers,Lagos,In-Store,1,24800.0,5,23560.0
+ORD-46168,2023-02-25,Headphones,Audio,Lagos,Reseller,1,28000.0,0,28000.0
+ORD-12974,2023-09-24,Headphones,Audio,Kano,In-Store,2,37300.0,15,63410.0
+ORD-94500,2023-08-16,Headphones,Audio,Lagos,In-Store,4,36300.0,15,123420.0
+ORD-54024,2023-09-24,Tablet,Computers,Port Harcourt,Reseller,2,131300.0,15,223210.0
+ORD-97274,2023-09-06,Smartwatch,Mobile,Ibadan,Reseller,3,113900.0,10,307530.0
+ORD-32509,2023-03-09,Keyboard,Computers,Kano,Online,5,20400.0,0,102000.0
+ORD-56284,2023-01-25,Keyboard,Computers,Kano,In-Store,3,18000.0,0,54000.0
+ORD-47387,2023-12-31,Headphones,Audio,Abuja,Online,2,42800.0,10,77040.0
+ORD-85304,2023-01-22,Headphones,Audio,Abuja,In-Store,1,22300.0,0,22300.0
+ORD-14546,2023-10-15,Charger,Mobile,Kano,In-Store,2,6300.0,15,10710.0
+ORD-49526,2023-03-25,Headphones,Audio,Lagos,Online,5,31800.0,10,143100.0
+ORD-30454,2023-08-23,Speaker,Audio,Lagos,Reseller,2,75900.0,0,151800.0
+ORD-85199,2023-08-31,Smartwatch,Mobile,Abuja,Reseller,3,113000.0,0,339000.0
+ORD-28274,2023-09-03,Keyboard,Computers,Ibadan,Online,1,17100.0,0,17100.0
+ORD-56844,2023-04-23,Charger,Mobile,Lagos,In-Store,5,3200.0,5,15200.0
+ORD-39116,2023-10-26,Laptop,Computers,Kano,Online,2,593300.0,10,1067940.0
+ORD-21452,2023-12-13,Laptop,Computers,Ibadan,In-Store,4,383400.0,15,1303560.0
+ORD-17346,2023-11-06,Tablet,Computers,Kano,In-Store,5,208300.0,10,937350.0
+ORD-58867,2023-07-09,Headphones,Audio,Lagos,In-Store,4,47200.0,5,179360.0
+ORD-38271,2023-10-15,Smartwatch,Mobile,Port Harcourt,Reseller,4,81900.0,0,327600.0
+ORD-65552,2023-03-25,Speaker,Audio,Port Harcourt,Online,3,68200.0,15,173910.0
+ORD-53963,2023-09-01,Smartphone,Mobile,Lagos,Reseller,3,104400.0,10,281880.0
+ORD-64331,2023-11-24,Speaker,Audio,Abuja,Reseller,4,25300.0,0,101200.0
+ORD-60039,2023-04-13,Keyboard,Computers,Kano,Reseller,2,27200.0,0,54400.0
+ORD-74762,2023-10-27,Keyboard,Computers,Ibadan,Reseller,3,9100.0,0,27300.0
+ORD-49343,2023-03-20,Keyboard,Computers,Port Harcourt,Online,1,14100.0,0,14100.0
+ORD-42079,2023-12-19,Charger,Mobile,Lagos,Online,4,6800.0,15,23120.0
+ORD-57416,2023-11-03,Charger,Mobile,Ibadan,In-Store,1,7400.0,15,6290.0
+ORD-58916,2023-12-22,Speaker,Audio,Ibadan,Reseller,4,72100.0,0,288400.0
+ORD-29154,2023-10-25,Laptop,Computers,Kano,In-Store,2,688100.0,0,1376200.0
+ORD-64986,2023-05-20,Headphones,Audio,Kano,Online,1,31100.0,0,31100.0
+ORD-92317,2023-09-21,Charger,Mobile,Abuja,Online,1,5600.0,0,5600.0
+ORD-45580,2023-12-17,Headphones,Audio,Kano,Online,3,39500.0,0,118500.0
+ORD-46885,2023-03-12,Smartwatch,Mobile,Kano,In-Store,1,131400.0,10,118260.0
+ORD-30257,2023-02-22,Speaker,Audio,Ibadan,Online,2,40400.0,0,80800.0
+ORD-78898,2023-11-11,Tablet,Computers,Ibadan,Reseller,5,263100.0,15,1118175.0
+ORD-12277,2023-03-01,Smartphone,Mobile,Port Harcourt,In-Store,1,150900.0,0,150900.0
+ORD-78566,2023-08-15,Charger,Mobile,Kano,Online,2,9200.0,10,16560.0
+ORD-28659,2023-04-24,Charger,Mobile,Abuja,In-Store,1,3300.0,0,3300.0
+ORD-24643,2023-08-06,Headphones,Audio,Lagos,Online,1,24400.0,15,20740.0
+ORD-14298,2023-04-11,Keyboard,Computers,Ibadan,Reseller,1,28400.0,0,28400.0
+ORD-49537,2023-01-23,Laptop,Computers,Lagos,Online,3,537600.0,0,1612800.0
+ORD-34219,2023-10-28,Smartphone,Mobile,Kano,Online,2,236400.0,0,472800.0
+ORD-56163,2023-10-24,Smartphone,Mobile,Abuja,Reseller,3,104700.0,0,314100.0
+ORD-11832,2023-02-20,Tablet,Computers,Ibadan,Online,1,210900.0,10,189810.0
+ORD-22934,2023-10-03,Tablet,Computers,Abuja,Reseller,2,293600.0,0,587200.0
+ORD-98280,2023-04-05,Keyboard,Computers,Lagos,Online,5,17900.0,5,85025.0
+ORD-39825,2023-04-20,Smartwatch,Mobile,Port Harcourt,Online,4,148000.0,10,532800.0
+ORD-74987,2023-09-24,Smartwatch,Mobile,Kano,Reseller,1,58000.0,0,58000.0
+ORD-74711,2023-02-12,Charger,Mobile,Lagos,In-Store,1,8000.0,0,8000.0
+ORD-39605,2023-12-18,Charger,Mobile,Ibadan,In-Store,3,7100.0,5,20235.0
+ORD-72347,2023-04-07,Charger,Mobile,Kano,Online,4,11900.0,0,47600.0
+ORD-61952,2023-12-11,Laptop,Computers,Port Harcourt,Reseller,4,749500.0,0,2998000.0
+ORD-87405,2023-07-25,Smartphone,Mobile,Lagos,Reseller,4,100300.0,15,341020.0
+ORD-87982,2023-06-23,Headphones,Audio,Port Harcourt,Online,2,17900.0,0,35800.0
+ORD-86273,2023-05-23,Tablet,Computers,Ibadan,In-Store,4,270900.0,15,921060.0
+ORD-77032,2023-07-27,Speaker,Audio,Kano,Online,5,41400.0,5,196650.0
+ORD-40254,2023-09-08,Keyboard,Computers,Abuja,Online,3,10900.0,5,31065.0
+ORD-13506,2023-09-13,Smartphone,Mobile,Abuja,In-Store,1,205400.0,15,174590.0
+ORD-20029,2023-11-16,Smartwatch,Mobile,Ibadan,In-Store,5,61000.0,0,305000.0
+ORD-44296,2023-09-09,Keyboard,Computers,Ibadan,In-Store,4,13500.0,10,48600.0
+ORD-60283,2023-08-09,Laptop,Computers,Port Harcourt,In-Store,1,731000.0,0,731000.0
+ORD-82963,2023-01-17,Speaker,Audio,Kano,Reseller,1,46600.0,0,46600.0
+ORD-60997,2023-06-09,Headphones,Audio,Port Harcourt,Online,2,37100.0,15,63070.0
+ORD-72378,2023-10-20,Keyboard,Computers,Ibadan,Online,5,25800.0,5,122550.0
+ORD-90863,2023-10-30,Laptop,Computers,Kano,In-Store,4,506600.0,5,1925080.0
+ORD-58026,2023-01-24,Smartwatch,Mobile,Kano,Reseller,5,51400.0,0,257000.0
+ORD-66118,2023-07-14,Laptop,Computers,Kano,In-Store,3,656100.0,0,1968300.0
+ORD-94945,2023-05-07,Speaker,Audio,Kano,Reseller,2,41100.0,0,82200.0
+ORD-54249,2023-06-06,Smartphone,Mobile,Abuja,Online,1,234800.0,0,234800.0
+ORD-65203,2023-10-18,Smartwatch,Mobile,Kano,Online,4,48900.0,10,176040.0
+ORD-61157,2023-07-13,Keyboard,Computers,Kano,Reseller,3,23900.0,10,64530.0
+ORD-36988,2023-12-20,Smartphone,Mobile,Kano,In-Store,1,217400.0,15,184790.0
+ORD-36444,2023-07-06,Smartwatch,Mobile,Port Harcourt,Reseller,3,62500.0,5,178125.0
+ORD-44754,2023-04-20,Smartphone,Mobile,Lagos,In-Store,5,222900.0,0,1114500.0
+ORD-85784,2023-02-17,Speaker,Audio,Lagos,Reseller,5,68300.0,15,290275.0
+ORD-65981,2023-09-29,Smartwatch,Mobile,Abuja,In-Store,5,73700.0,5,350075.0
+ORD-66742,2023-09-16,Smartphone,Mobile,Ibadan,In-Store,3,190800.0,0,572400.0
+ORD-69405,2023-11-16,Tablet,Computers,Ibadan,Online,3,194600.0,10,525420.0
+ORD-75431,2023-04-06,Laptop,Computers,Abuja,Reseller,5,601100.0,10,2704950.0
+ORD-84202,2023-11-11,Keyboard,Computers,Lagos,Reseller,5,15200.0,5,72200.0
+ORD-99824,2023-05-04,Tablet,Computers,Kano,In-Store,2,185600.0,0,371200.0
+ORD-64059,2023-11-21,Speaker,Audio,Kano,In-Store,1,39100.0,0,39100.0
+ORD-41258,2023-05-01,Headphones,Audio,Lagos,Online,5,26500.0,5,125875.0
+ORD-83377,2023-08-26,Tablet,Computers,Port Harcourt,In-Store,3,125000.0,5,356250.0
+ORD-43868,2023-03-11,Laptop,Computers,Kano,Reseller,3,430800.0,0,1292400.0
+ORD-17251,2023-09-06,Headphones,Audio,Lagos,In-Store,1,44000.0,0,44000.0
+ORD-96170,2023-07-06,Charger,Mobile,Lagos,In-Store,4,10800.0,15,36720.0
+ORD-78414,2023-09-14,Headphones,Audio,Ibadan,Reseller,5,25600.0,0,128000.0
+ORD-26027,2023-05-02,Charger,Mobile,Kano,In-Store,1,7500.0,10,6750.0
+ORD-28910,2023-08-05,Speaker,Audio,Lagos,Online,2,68400.0,0,136800.0
+ORD-87264,2023-07-29,Tablet,Computers,Lagos,In-Store,4,294600.0,0,1178400.0
+ORD-65545,2023-06-12,Smartwatch,Mobile,Port Harcourt,Reseller,1,118500.0,10,106650.0
+ORD-58200,2023-07-05,Tablet,Computers,Kano,Online,2,293400.0,5,557460.0
+ORD-41414,2023-12-20,Laptop,Computers,Kano,Reseller,1,686600.0,15,583610.0
+ORD-80111,2023-12-17,Speaker,Audio,Abuja,In-Store,3,38600.0,0,115800.0
+ORD-21829,2023-05-11,Speaker,Audio,Abuja,In-Store,4,20500.0,0,82000.0
+ORD-51573,2023-08-13,Tablet,Computers,Port Harcourt,Online,2,274700.0,15,466990.0
+ORD-64127,2023-08-30,Charger,Mobile,Kano,Reseller,4,10800.0,15,36720.0
+ORD-44205,2023-03-24,Speaker,Audio,Ibadan,Online,1,72600.0,15,61710.0
+ORD-13584,2023-06-17,Smartwatch,Mobile,Lagos,Reseller,5,89200.0,5,423700.0
+ORD-36224,2023-01-02,Headphones,Audio,Kano,In-Store,2,43400.0,5,82460.0
+ORD-95089,2023-09-22,Smartphone,Mobile,Abuja,Reseller,2,98800.0,15,167960.0
+ORD-27499,2023-08-20,Speaker,Audio,Kano,Online,3,67600.0,5,192660.0
+ORD-58182,2023-02-13,Smartwatch,Mobile,Abuja,In-Store,2,129000.0,5,245100.0
+ORD-13010,2023-04-25,Speaker,Audio,Ibadan,Reseller,5,76700.0,0,383500.0
+ORD-32119,2023-04-12,Tablet,Computers,Lagos,In-Store,4,283200.0,0,1132800.0
+ORD-32298,2023-02-15,Speaker,Audio,Ibadan,Online,2,56000.0,0,112000.0
+ORD-74769,2023-08-21,Laptop,Computers,Lagos,Online,4,637400.0,15,2167160.0
+ORD-74771,2023-05-28,Tablet,Computers,Port Harcourt,Online,3,154300.0,15,393465.0
+ORD-98760,2023-04-21,Speaker,Audio,Abuja,In-Store,5,71400.0,0,357000.0
+ORD-44314,2023-01-15,Headphones,Audio,Abuja,Reseller,2,33400.0,0,66800.0
+ORD-94834,2023-10-26,Keyboard,Computers,Port Harcourt,Online,3,32500.0,15,82875.0
+ORD-37815,2023-12-21,Laptop,Computers,Port Harcourt,Reseller,3,537600.0,5,1532160.0
+ORD-83007,2023-02-07,Speaker,Audio,Lagos,Online,3,64200.0,0,192600.0
+ORD-97921,2023-07-01,Smartwatch,Mobile,Ibadan,Reseller,4,142800.0,10,514080.0
+ORD-49650,2023-11-14,Laptop,Computers,Port Harcourt,Reseller,5,352100.0,5,1672475.0
+ORD-33510,2023-01-22,Smartwatch,Mobile,Kano,Online,5,58900.0,10,265050.0
+ORD-51591,2023-03-09,Keyboard,Computers,Ibadan,In-Store,4,33100.0,0,132400.0
+ORD-75432,2023-01-23,Headphones,Audio,Kano,Reseller,3,26700.0,0,80100.0
+ORD-44571,2023-05-15,Smartwatch,Mobile,Ibadan,In-Store,3,142300.0,10,384210.0
+ORD-82833,2023-09-09,Speaker,Audio,Port Harcourt,Online,3,73600.0,0,220800.0
+ORD-71636,2023-04-04,Tablet,Computers,Kano,Online,2,146800.0,0,293600.0
+ORD-56729,2023-01-21,Keyboard,Computers,Ibadan,In-Store,4,19800.0,5,75240.0
+ORD-22265,2023-03-05,Keyboard,Computers,Abuja,In-Store,2,21300.0,0,42600.0
+ORD-96918,2023-05-20,Headphones,Audio,Ibadan,Online,5,52600.0,10,236700.0
+ORD-20070,2023-04-03,Laptop,Computers,Abuja,In-Store,5,560400.0,5,2661900.0
+ORD-99212,2023-05-26,Smartphone,Mobile,Lagos,In-Store,1,230900.0,15,196265.0
+ORD-13784,2023-06-15,Smartwatch,Mobile,Lagos,In-Store,1,107000.0,0,107000.0
+ORD-10760,2023-11-01,Keyboard,Computers,Kano,Online,3,20300.0,15,51765.0
+ORD-16380,2023-03-08,Keyboard,Computers,Kano,In-Store,5,16800.0,0,84000.0
+ORD-22130,2023-11-05,Laptop,Computers,Port Harcourt,In-Store,5,647500.0,5,3075625.0
+ORD-37292,2023-02-15,Headphones,Audio,Abuja,In-Store,4,25800.0,0,103200.0
+ORD-74336,2023-03-03,Speaker,Audio,Port Harcourt,Reseller,2,37100.0,0,74200.0
+ORD-97231,2023-03-09,Charger,Mobile,Lagos,In-Store,5,11100.0,0,55500.0
+ORD-83801,2023-09-01,Tablet,Computers,Ibadan,In-Store,4,208100.0,0,832400.0
+ORD-66899,2023-11-11,Smartphone,Mobile,Port Harcourt,Online,3,208600.0,0,625800.0
+ORD-94883,2023-12-13,Laptop,Computers,Abuja,In-Store,4,555300.0,0,2221200.0
+ORD-49373,2023-02-10,Smartphone,Mobile,Abuja,Online,4,129400.0,5,491720.0
+ORD-84519,2023-08-07,Charger,Mobile,Lagos,Reseller,5,10600.0,0,53000.0
+ORD-65694,2023-02-25,Smartphone,Mobile,Port Harcourt,Online,5,235900.0,10,1061550.0
+ORD-43405,2023-05-10,Keyboard,Computers,Ibadan,Online,5,25800.0,0,129000.0
+ORD-61505,2023-04-02,Laptop,Computers,Lagos,Online,4,395600.0,0,1582400.0
+ORD-69637,2023-06-10,Speaker,Audio,Port Harcourt,Reseller,3,72600.0,10,196020.0
+ORD-20252,2023-04-19,Charger,Mobile,Ibadan,In-Store,2,6100.0,0,12200.0
+ORD-25293,2023-01-03,Smartphone,Mobile,Lagos,Online,1,153700.0,5,146015.0
+ORD-88890,2023-12-03,Keyboard,Computers,Port Harcourt,In-Store,4,20400.0,15,69360.0
+ORD-26395,2023-06-04,Smartwatch,Mobile,Abuja,Online,4,117500.0,0,470000.0
+ORD-13514,2023-12-23,Tablet,Computers,Abuja,In-Store,1,140100.0,0,140100.0
+ORD-35023,2023-11-17,Headphones,Audio,Lagos,In-Store,4,44200.0,10,159120.0
+ORD-31771,2023-01-12,Keyboard,Computers,Abuja,Reseller,4,12000.0,0,48000.0
+ORD-86706,2023-01-11,Keyboard,Computers,Abuja,Online,4,34000.0,5,129200.0
+ORD-11032,2023-01-27,Charger,Mobile,Lagos,Reseller,4,8100.0,0,32400.0
+ORD-82653,2023-10-24,Speaker,Audio,Kano,Online,4,78800.0,10,283680.0
+ORD-90149,2023-10-30,Keyboard,Computers,Port Harcourt,Online,5,18800.0,15,79900.0
+ORD-82516,2023-10-23,Laptop,Computers,Lagos,In-Store,4,561300.0,0,2245200.0
+ORD-94696,2023-09-11,Speaker,Audio,Kano,In-Store,1,73300.0,10,65970.0
+ORD-55068,2023-04-09,Speaker,Audio,Port Harcourt,Online,3,21200.0,5,60420.0
+ORD-96108,2023-11-05,Tablet,Computers,Port Harcourt,Online,3,225800.0,15,575790.0
+ORD-95524,2023-08-02,Charger,Mobile,Kano,In-Store,4,9500.0,15,32300.0
+ORD-21297,2023-12-20,Headphones,Audio,Port Harcourt,Online,3,43000.0,15,109650.0
+ORD-64523,2023-09-09,Headphones,Audio,Port Harcourt,In-Store,5,24000.0,0,120000.0
+ORD-44184,2023-01-10,Tablet,Computers,Kano,Reseller,1,157700.0,0,157700.0
+ORD-54267,2023-01-17,Headphones,Audio,Port Harcourt,Online,5,22900.0,0,114500.0
+ORD-54606,2023-09-07,Tablet,Computers,Kano,Online,2,141700.0,0,283400.0
+ORD-23650,2023-11-06,Charger,Mobile,Lagos,In-Store,5,11100.0,15,47175.0
+ORD-89908,2023-02-24,Keyboard,Computers,Lagos,Reseller,1,34000.0,10,30600.0
+ORD-36920,2023-11-19,Laptop,Computers,Kano,Online,2,552900.0,0,1105800.0
+ORD-23014,2023-09-13,Charger,Mobile,Abuja,Reseller,5,9400.0,15,39950.0
+ORD-67554,2023-03-04,Smartwatch,Mobile,Port Harcourt,Online,2,80100.0,0,160200.0
+ORD-76194,2023-06-24,Tablet,Computers,Abuja,Online,4,270300.0,0,1081200.0
+ORD-97162,2023-07-04,Charger,Mobile,Abuja,Online,4,6400.0,15,21760.0
+ORD-63648,2023-08-08,Speaker,Audio,Port Harcourt,Reseller,2,67200.0,5,127680.0
+ORD-77809,2023-03-16,Smartwatch,Mobile,Lagos,Online,4,144100.0,0,576400.0
+ORD-61546,2023-08-11,Smartwatch,Mobile,Lagos,Reseller,2,78100.0,0,156200.0
+ORD-96554,2023-11-20,Headphones,Audio,Ibadan,In-Store,1,55600.0,15,47260.0
+ORD-51116,2023-06-05,Speaker,Audio,Kano,Online,5,44100.0,15,187425.0
+ORD-62944,2023-03-17,Charger,Mobile,Port Harcourt,Reseller,5,11100.0,15,47175.0
+ORD-67952,2023-11-13,Tablet,Computers,Kano,Reseller,5,279800.0,15,1189150.0
+ORD-80442,2023-02-13,Speaker,Audio,Kano,In-Store,3,66500.0,0,199500.0
+ORD-22166,2023-05-26,Headphones,Audio,Ibadan,Reseller,5,38400.0,0,192000.0
+ORD-80770,2023-01-12,Charger,Mobile,Ibadan,In-Store,2,7700.0,0,15400.0
+ORD-24475,2023-08-05,Tablet,Computers,Lagos,In-Store,3,269800.0,10,728460.0
+ORD-95322,2023-03-05,Charger,Mobile,Lagos,In-Store,3,8600.0,0,25800.0
+ORD-40945,2023-08-21,Charger,Mobile,Ibadan,Reseller,1,8200.0,0,8200.0
+ORD-85073,2023-12-08,Tablet,Computers,Abuja,Reseller,3,183100.0,15,466905.0
+ORD-77692,2023-02-23,Speaker,Audio,Ibadan,Online,2,51200.0,0,102400.0
+ORD-64008,2023-12-31,Smartwatch,Mobile,Lagos,Online,2,92700.0,5,176130.0
+ORD-68479,2023-09-01,Laptop,Computers,Lagos,In-Store,2,520000.0,0,1040000.0
+ORD-86585,2023-07-22,Speaker,Audio,Port Harcourt,Reseller,5,55300.0,0,276500.0
+ORD-28919,2023-08-02,Speaker,Audio,Ibadan,Online,4,79800.0,0,319200.0
+ORD-79355,2023-12-27,Keyboard,Computers,Lagos,Reseller,2,27200.0,10,48960.0
+ORD-58409,2023-03-22,Tablet,Computers,Lagos,Reseller,1,202000.0,10,181800.0
+ORD-15279,2023-10-20,Speaker,Audio,Ibadan,Online,3,26600.0,0,79800.0
+ORD-73691,2023-06-05,Smartphone,Mobile,Lagos,Online,3,143100.0,0,429300.0
+ORD-47156,2023-01-25,Headphones,Audio,Abuja,Online,4,50300.0,0,201200.0
+ORD-15856,2023-06-28,Keyboard,Computers,Port Harcourt,In-Store,5,8100.0,0,40500.0
+ORD-89391,2023-07-13,Charger,Mobile,Abuja,Online,3,8100.0,5,23085.0
+ORD-52626,2023-03-18,Keyboard,Computers,Lagos,Reseller,4,28600.0,15,97240.0
+ORD-16005,2023-06-23,Speaker,Audio,Port Harcourt,Reseller,4,43200.0,10,155520.0
+ORD-84972,2023-12-29,Charger,Mobile,Kano,Reseller,2,8800.0,0,17600.0
+ORD-81019,2023-04-09,Smartphone,Mobile,Ibadan,Online,1,189500.0,10,170550.0
+ORD-96278,2023-01-10,Tablet,Computers,Ibadan,Online,5,255100.0,0,1275500.0
+ORD-85963,2023-05-06,Laptop,Computers,Port Harcourt,Online,2,460000.0,15,782000.0
+ORD-54558,2023-09-09,Smartwatch,Mobile,Port Harcourt,Online,1,87200.0,0,87200.0
+ORD-43708,2023-06-12,Speaker,Audio,Lagos,Online,5,21400.0,5,101650.0
+ORD-43496,2023-03-15,Smartphone,Mobile,Lagos,Online,3,172100.0,0,516300.0
+ORD-52636,2023-01-31,Charger,Mobile,Abuja,Online,2,11600.0,10,20880.0
+ORD-64109,2023-06-13,Laptop,Computers,Kano,In-Store,1,469200.0,0,469200.0
+ORD-41407,2023-01-27,Speaker,Audio,Ibadan,Reseller,1,76500.0,0,76500.0
+ORD-45296,2023-07-17,Tablet,Computers,Lagos,In-Store,5,208700.0,0,1043500.0
+ORD-63411,2023-09-05,Keyboard,Computers,Abuja,Online,1,22900.0,0,22900.0
+ORD-42285,2023-12-12,Charger,Mobile,Ibadan,Reseller,5,8000.0,0,40000.0
+ORD-93335,2023-08-17,Headphones,Audio,Ibadan,Online,4,28700.0,0,114800.0
+ORD-65542,2023-05-06,Headphones,Audio,Ibadan,In-Store,2,31800.0,10,57240.0
+ORD-95597,2023-11-14,Laptop,Computers,Abuja,Online,4,350400.0,0,1401600.0
+ORD-42884,2023-05-20,Laptop,Computers,Port Harcourt,In-Store,4,723400.0,10,2604240.0
+ORD-31157,2023-05-25,Tablet,Computers,Ibadan,Reseller,5,225300.0,0,1126500.0
+ORD-28304,2023-12-24,Smartphone,Mobile,Ibadan,In-Store,4,131100.0,0,524400.0
+ORD-54909,2023-06-12,Speaker,Audio,Kano,Reseller,5,32700.0,15,138975.0
+ORD-70266,2023-06-24,Keyboard,Computers,Ibadan,In-Store,3,15400.0,0,46200.0
+ORD-89794,2023-11-27,Laptop,Computers,Port Harcourt,Online,2,715600.0,0,1431200.0
+ORD-74091,2023-10-12,Laptop,Computers,Port Harcourt,Reseller,4,619100.0,15,2104940.0
+ORD-98029,2023-10-03,Smartphone,Mobile,Port Harcourt,Reseller,1,213800.0,0,213800.0
+ORD-60692,2023-11-04,Smartphone,Mobile,Abuja,Reseller,4,140000.0,0,560000.0
+ORD-11227,2023-04-09,Laptop,Computers,Abuja,Reseller,3,399900.0,5,1139715.0
+ORD-90405,2023-04-09,Laptop,Computers,Kano,Reseller,3,653400.0,0,1960200.0
+ORD-46799,2023-07-05,Tablet,Computers,Port Harcourt,Reseller,4,162200.0,0,648800.0
+ORD-84593,2023-02-26,Tablet,Computers,Ibadan,In-Store,4,121300.0,0,485200.0
+ORD-89032,2023-12-11,Headphones,Audio,Ibadan,Online,5,39800.0,15,169150.0
+ORD-84698,2023-03-07,Smartphone,Mobile,Abuja,Reseller,1,180000.0,0,180000.0
+ORD-79853,2023-12-21,Charger,Mobile,Ibadan,In-Store,1,4700.0,15,3995.0
+ORD-95200,2023-11-25,Keyboard,Computers,Lagos,In-Store,4,8100.0,15,27540.0
+ORD-99151,2023-05-21,Speaker,Audio,Ibadan,In-Store,4,70700.0,0,282800.0
+ORD-46429,2023-04-25,Keyboard,Computers,Port Harcourt,Reseller,1,17800.0,0,17800.0
+ORD-20722,2023-04-10,Keyboard,Computers,Ibadan,Online,4,16500.0,0,66000.0
+ORD-35805,2023-02-08,Tablet,Computers,Abuja,In-Store,4,296100.0,0,1184400.0
+ORD-66616,2023-01-15,Charger,Mobile,Lagos,Reseller,1,3600.0,5,3420.0
+ORD-41242,2023-02-25,Smartwatch,Mobile,Kano,Online,2,133300.0,5,253270.0
+ORD-91207,2023-02-07,Smartwatch,Mobile,Port Harcourt,Online,2,99600.0,10,179280.0
+ORD-59465,2023-02-01,Keyboard,Computers,Kano,Reseller,1,23600.0,0,23600.0
+ORD-49514,2023-08-15,Smartphone,Mobile,Ibadan,Reseller,1,213000.0,0,213000.0
+ORD-48655,2023-10-14,Speaker,Audio,Port Harcourt,In-Store,1,23900.0,0,23900.0
+ORD-96471,2023-04-30,Smartphone,Mobile,Ibadan,Online,4,184900.0,10,665640.0
+ORD-23274,2023-11-14,Keyboard,Computers,Kano,Reseller,4,18400.0,10,66240.0
+ORD-24156,2023-10-28,Laptop,Computers,Lagos,Online,3,531600.0,0,1594800.0
+ORD-93540,2023-10-21,Smartphone,Mobile,Ibadan,In-Store,2,180800.0,0,361600.0
+ORD-41870,2023-08-16,Smartwatch,Mobile,Abuja,Online,5,89200.0,0,446000.0
+ORD-95420,2023-08-12,Laptop,Computers,Kano,In-Store,5,401100.0,10,1804950.0
+ORD-48150,2023-11-05,Headphones,Audio,Kano,Online,3,21600.0,0,64800.0
+ORD-65320,2023-10-14,Headphones,Audio,Kano,Online,5,17600.0,0,88000.0
+ORD-34819,2023-02-05,Tablet,Computers,Port Harcourt,Reseller,2,235300.0,0,470600.0
+ORD-53995,2023-10-24,Keyboard,Computers,Ibadan,In-Store,3,24200.0,10,65340.0
+ORD-75002,2023-08-21,Speaker,Audio,Abuja,Online,1,39700.0,0,39700.0
+ORD-41328,2023-11-16,Tablet,Computers,Port Harcourt,Reseller,4,244800.0,0,979200.0
+ORD-34149,2023-04-16,Smartwatch,Mobile,Lagos,In-Store,4,129800.0,5,493240.0
+ORD-28664,2023-10-12,Laptop,Computers,Kano,In-Store,1,379500.0,0,379500.0
+ORD-36099,2023-01-23,Tablet,Computers,Abuja,In-Store,3,233600.0,0,700800.0
+ORD-82680,2023-03-31,Headphones,Audio,Abuja,Online,3,24900.0,0,74700.0
+ORD-98795,2023-02-21,Tablet,Computers,Abuja,In-Store,3,123900.0,0,371700.0
+ORD-41476,2023-06-06,Smartphone,Mobile,Kano,In-Store,2,137500.0,5,261250.0
+ORD-18569,2023-08-11,Headphones,Audio,Lagos,Online,5,57400.0,15,243950.0
+ORD-59054,2023-09-30,Headphones,Audio,Kano,Reseller,2,50800.0,5,96520.0
+ORD-86981,2023-01-24,Speaker,Audio,Abuja,Reseller,2,78600.0,10,141480.0
+ORD-92504,2023-05-07,Charger,Mobile,Kano,Online,3,10100.0,0,30300.0
+ORD-90594,2023-08-29,Keyboard,Computers,Lagos,Online,1,13600.0,15,11560.0
+ORD-78012,2023-07-11,Speaker,Audio,Port Harcourt,Online,5,65100.0,5,309225.0
+ORD-74853,2023-12-22,Smartwatch,Mobile,Port Harcourt,In-Store,5,119800.0,5,569050.0
+ORD-37158,2023-11-29,Speaker,Audio,Abuja,Online,5,58300.0,0,291500.0
+ORD-65708,2023-04-22,Keyboard,Computers,Port Harcourt,Reseller,4,31300.0,0,125200.0
+ORD-21109,2023-05-11,Headphones,Audio,Abuja,Online,3,57100.0,10,154170.0
+ORD-15392,2023-04-28,Charger,Mobile,Port Harcourt,Reseller,3,7000.0,10,18900.0
+ORD-58170,2023-08-10,Smartwatch,Mobile,Port Harcourt,In-Store,4,89700.0,5,340860.0
+ORD-44815,2023-08-15,Charger,Mobile,Lagos,In-Store,2,6400.0,0,12800.0
+ORD-94365,2023-09-20,Smartphone,Mobile,Lagos,In-Store,5,130100.0,10,585450.0
+ORD-81568,2023-07-04,Tablet,Computers,Abuja,In-Store,1,137700.0,0,137700.0
+ORD-99592,2023-06-04,Tablet,Computers,Kano,Online,3,241500.0,15,615825.0
+ORD-49252,2023-05-14,Headphones,Audio,Kano,In-Store,5,59900.0,0,299500.0
+ORD-71866,2023-12-02,Speaker,Audio,Ibadan,Online,5,76700.0,0,383500.0
+ORD-77610,2023-08-31,Speaker,Audio,Ibadan,Reseller,2,33700.0,0,67400.0
+ORD-51035,2023-06-24,Keyboard,Computers,Abuja,In-Store,4,27500.0,0,110000.0
+ORD-59112,2023-10-13,Speaker,Audio,Abuja,Reseller,4,32600.0,0,130400.0
+ORD-56486,2023-09-13,Headphones,Audio,Kano,Online,1,28800.0,15,24480.0
+ORD-49274,2023-12-20,Speaker,Audio,Kano,Reseller,4,45500.0,10,163800.0
+ORD-53286,2023-03-13,Laptop,Computers,Ibadan,Reseller,1,577000.0,0,577000.0
+ORD-80056,2023-07-20,Speaker,Audio,Port Harcourt,Online,2,78800.0,0,157600.0
+ORD-49930,2023-08-20,Keyboard,Computers,Lagos,Online,5,10900.0,15,46325.0
+ORD-89084,2023-01-17,Smartphone,Mobile,Port Harcourt,Online,2,194700.0,15,330990.0

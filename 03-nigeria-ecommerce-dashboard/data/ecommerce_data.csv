@@ -1,0 +1,1501 @@
+order_id,date,category,city,platform,payment_method,quantity,unit_price,revenue,order_status,delivery_days,rating
+NG-10000,2023-09-03,Electronics,Kano,Instagram Shop,Pay on Delivery,4,217700.0,870800.0,Delivered,3,5.0
+NG-10001,2023-10-27,Home & Living,Lagos,Jumia,Transfer,1,44600.0,0.0,Returned,4,
+NG-10002,2023-07-28,Electronics,Benin City,Instagram Shop,Card,4,351600.0,0.0,Cancelled,6,
+NG-10003,2023-07-08,Home & Living,Kano,Jumia,Card,1,42300.0,42300.0,Delivered,1,2.9
+NG-10004,2023-03-19,Food & Drink,Abuja,Instagram Shop,Transfer,3,1700.0,5100.0,Delivered,2,4.2
+NG-10005,2023-09-01,Books,Lagos,Instagram Shop,Transfer,1,3200.0,0.0,Cancelled,6,
+NG-10006,2023-08-20,Electronics,Lagos,Instagram Shop,USSD,4,445500.0,0.0,Cancelled,8,
+NG-10007,2023-09-11,Food & Drink,Lagos,WhatsApp Business,Pay on Delivery,1,2500.0,2500.0,Delivered,9,3.7
+NG-10008,2023-11-15,Electronics,Kano,Konga,USSD,3,292200.0,876600.0,Delivered,6,3.0
+NG-10009,2023-03-28,Beauty,Lagos,Konga,Cash on Delivery,3,19500.0,58500.0,Delivered,6,4.8
+NG-10010,2023-03-25,Electronics,Abuja,Jumia,USSD,2,346400.0,0.0,Cancelled,8,
+NG-10011,2023-05-06,Home & Living,Kaduna,Instagram Shop,Cash on Delivery,2,33200.0,66400.0,Delivered,8,3.9
+NG-10012,2023-12-04,Fashion,Enugu,Konga,Transfer,1,38200.0,38200.0,Delivered,7,2.6
+NG-10013,2023-09-03,Fashion,Benin City,WhatsApp Business,Cash on Delivery,2,39600.0,79200.0,Delivered,1,3.1
+NG-10014,2023-07-08,Electronics,Ibadan,Instagram Shop,Cash on Delivery,3,451200.0,0.0,Cancelled,10,
+NG-10015,2023-05-22,Books,Abuja,Jumia,Cash on Delivery,2,6200.0,12400.0,Delivered,3,4.4
+NG-10016,2023-10-27,Sports,Kano,Jiji,Cash on Delivery,3,5300.0,0.0,Returned,3,
+NG-10017,2023-01-13,Electronics,Lagos,Konga,Card,4,83900.0,0.0,Returned,2,
+NG-10018,2023-06-16,Sports,Abuja,Instagram Shop,Transfer,3,19800.0,0.0,Returned,10,
+NG-10019,2023-10-09,Electronics,Lagos,WhatsApp Business,Card,4,103100.0,412400.0,Delivered,1,4.0
+NG-10020,2023-10-18,Food & Drink,Abuja,Konga,USSD,1,4000.0,4000.0,Delivered,10,4.6
+NG-10021,2023-06-08,Beauty,Abuja,WhatsApp Business,Cash on Delivery,2,19200.0,38400.0,Delivered,10,4.5
+NG-10022,2023-06-15,Fashion,Abuja,Jiji,USSD,1,25900.0,0.0,Cancelled,10,
+NG-10023,2023-06-16,Home & Living,Lagos,Jiji,Cash on Delivery,2,61800.0,123600.0,Delivered,2,3.4
+NG-10024,2023-08-18,Books,Kano,WhatsApp Business,Card,1,1800.0,0.0,Cancelled,8,
+NG-10025,2023-02-06,Food & Drink,Enugu,Instagram Shop,Card,4,4400.0,17600.0,Delivered,4,2.6
+NG-10026,2023-08-22,Beauty,Port Harcourt,Jiji,Cash on Delivery,4,18200.0,72800.0,Delivered,4,3.5
+NG-10027,2023-03-30,Sports,Lagos,Jiji,Pay on Delivery,1,55200.0,0.0,Returned,4,
+NG-10028,2023-09-13,Books,Lagos,Jiji,Pay on Delivery,3,5900.0,0.0,Returned,7,
+NG-10029,2023-04-14,Books,Lagos,Konga,Card,1,6800.0,6800.0,Delivered,9,4.7
+NG-10030,2023-07-12,Electronics,Kano,Jumia,Transfer,3,53600.0,0.0,Returned,7,
+NG-10031,2023-12-15,Electronics,Kano,Jumia,USSD,3,344200.0,1032600.0,Delivered,9,3.2
+NG-10032,2023-09-17,Beauty,Enugu,Jiji,Cash on Delivery,2,23700.0,47400.0,Delivered,3,3.1
+NG-10033,2023-12-07,Food & Drink,Abuja,Instagram Shop,Pay on Delivery,4,4000.0,16000.0,Delivered,5,4.2
+NG-10034,2023-11-19,Fashion,Lagos,WhatsApp Business,Pay on Delivery,2,10900.0,21800.0,Delivered,1,2.5
+NG-10035,2023-01-04,Food & Drink,Lagos,Konga,Card,4,5100.0,0.0,Cancelled,5,
+NG-10036,2023-03-11,Electronics,Abuja,Instagram Shop,Pay on Delivery,1,235200.0,0.0,Cancelled,1,
+NG-10037,2023-05-06,Beauty,Enugu,WhatsApp Business,Cash on Delivery,4,6300.0,25200.0,Delivered,1,3.9
+NG-10038,2023-12-03,Sports,Abuja,Instagram Shop,Pay on Delivery,1,36600.0,36600.0,Delivered,10,2.9
+NG-10039,2023-12-13,Home & Living,Port Harcourt,Konga,USSD,4,51500.0,206000.0,Delivered,5,2.9
+NG-10040,2023-02-06,Beauty,Enugu,Jumia,Transfer,1,16700.0,16700.0,Delivered,6,3.0
+NG-10041,2023-09-11,Beauty,Lagos,Instagram Shop,Transfer,2,10100.0,20200.0,Delivered,1,4.2
+NG-10042,2023-07-29,Fashion,Abuja,WhatsApp Business,Cash on Delivery,3,12800.0,38400.0,Delivered,2,4.2
+NG-10043,2023-06-30,Beauty,Abuja,WhatsApp Business,Transfer,2,21000.0,0.0,Cancelled,1,
+NG-10044,2023-08-15,Sports,Lagos,Jumia,Transfer,4,24600.0,98400.0,Delivered,10,4.8
+NG-10045,2023-07-19,Home & Living,Benin City,Jiji,Card,1,50300.0,50300.0,Delivered,6,4.9
+NG-10046,2023-11-28,Electronics,Port Harcourt,WhatsApp Business,Pay on Delivery,1,312600.0,312600.0,Delivered,7,3.0
+NG-10047,2023-07-05,Electronics,Ibadan,WhatsApp Business,Transfer,3,124800.0,374400.0,Delivered,6,3.1
+NG-10048,2023-01-14,Home & Living,Kano,WhatsApp Business,Card,3,55400.0,0.0,Returned,4,
+NG-10049,2023-09-21,Sports,Enugu,Konga,Cash on Delivery,3,10000.0,30000.0,Delivered,10,2.8
+NG-10050,2023-11-30,Sports,Port Harcourt,Instagram Shop,Cash on Delivery,4,30000.0,120000.0,Delivered,4,3.1
+NG-10051,2023-08-23,Food & Drink,Abuja,Jiji,Pay on Delivery,1,4100.0,4100.0,Delivered,8,2.6
+NG-10052,2023-03-23,Books,Port Harcourt,Konga,Cash on Delivery,2,4300.0,0.0,Returned,1,
+NG-10053,2023-08-23,Fashion,Kano,WhatsApp Business,Cash on Delivery,3,35700.0,107100.0,Delivered,1,3.7
+NG-10054,2023-08-25,Fashion,Abuja,Instagram Shop,Pay on Delivery,2,18600.0,37200.0,Delivered,2,3.5
+NG-10055,2023-05-09,Books,Abuja,Jumia,Transfer,1,3800.0,0.0,Returned,10,
+NG-10056,2023-05-08,Books,Port Harcourt,Jiji,Card,1,4700.0,4700.0,Delivered,10,2.9
+NG-10057,2023-09-11,Beauty,Lagos,Jiji,Pay on Delivery,2,16900.0,33800.0,Delivered,6,2.6
+NG-10058,2023-05-15,Fashion,Lagos,Jumia,Card,2,11100.0,0.0,Returned,10,
+NG-10059,2023-08-16,Sports,Kano,WhatsApp Business,Pay on Delivery,2,32600.0,0.0,Returned,9,
+NG-10060,2023-07-07,Beauty,Kano,Instagram Shop,Cash on Delivery,1,11900.0,11900.0,Delivered,9,3.4
+NG-10061,2023-11-26,Home & Living,Lagos,Konga,Pay on Delivery,2,21800.0,0.0,Returned,10,
+NG-10062,2023-01-07,Sports,Lagos,Jiji,USSD,4,8900.0,35600.0,Delivered,4,3.3
+NG-10063,2023-11-16,Fashion,Lagos,Konga,Pay on Delivery,2,22200.0,44400.0,Delivered,2,4.6
+NG-10064,2023-03-04,Electronics,Kano,Konga,Pay on Delivery,1,274200.0,274200.0,Delivered,1,3.0
+NG-10065,2023-02-19,Fashion,Kano,WhatsApp Business,Pay on Delivery,2,35800.0,71600.0,Delivered,1,3.0
+NG-10066,2023-12-18,Food & Drink,Ibadan,Instagram Shop,Card,3,2800.0,8400.0,Delivered,10,4.7
+NG-10067,2023-10-24,Food & Drink,Ibadan,Konga,Card,4,800.0,0.0,Returned,2,
+NG-10068,2023-09-29,Books,Port Harcourt,Jiji,Cash on Delivery,4,11600.0,46400.0,Delivered,5,3.2
+NG-10069,2023-05-28,Food & Drink,Lagos,Jumia,Cash on Delivery,3,7400.0,0.0,Cancelled,6,
+NG-10070,2023-07-19,Books,Lagos,Instagram Shop,Transfer,2,9700.0,19400.0,Delivered,1,3.2
+NG-10071,2023-02-24,Beauty,Abuja,Konga,Pay on Delivery,4,19200.0,0.0,Returned,6,
+NG-10072,2023-11-08,Sports,Kano,Jumia,Cash on Delivery,4,15100.0,60400.0,Delivered,9,3.6
+NG-10073,2023-06-22,Electronics,Lagos,Konga,Cash on Delivery,2,93900.0,187800.0,Delivered,4,4.2
+NG-10074,2023-12-25,Sports,Lagos,Konga,USSD,4,23900.0,0.0,Cancelled,8,
+NG-10075,2023-12-23,Electronics,Lagos,Konga,USSD,2,174300.0,348600.0,Delivered,6,4.7
+NG-10076,2023-01-15,Home & Living,Port Harcourt,Jiji,USSD,2,33500.0,0.0,Cancelled,4,
+NG-10077,2023-01-13,Books,Ibadan,Konga,Cash on Delivery,2,11800.0,23600.0,Delivered,9,4.6
+NG-10078,2023-05-31,Electronics,Abuja,Jumia,Transfer,4,485100.0,1940400.0,Delivered,1,3.8
+NG-10079,2023-08-31,Books,Lagos,Jiji,Card,4,2000.0,8000.0,Delivered,3,2.7
+NG-10080,2023-05-30,Home & Living,Enugu,Instagram Shop,Pay on Delivery,4,48700.0,0.0,Returned,2,
+NG-10081,2023-05-12,Beauty,Ibadan,Jiji,USSD,4,10000.0,0.0,Returned,6,
+NG-10082,2023-03-24,Electronics,Lagos,Konga,Card,3,272000.0,816000.0,Delivered,6,3.2
+NG-10083,2023-09-16,Fashion,Port Harcourt,Jumia,Transfer,3,10000.0,30000.0,Delivered,6,2.6
+NG-10084,2023-06-15,Home & Living,Ibadan,Konga,Pay on Delivery,2,56200.0,0.0,Cancelled,4,
+NG-10085,2023-06-17,Fashion,Abuja,Instagram Shop,USSD,3,10300.0,30900.0,Delivered,1,4.3
+NG-10086,2023-08-10,Electronics,Lagos,Jumia,Pay on Delivery,2,160100.0,320200.0,Delivered,8,5.0
+NG-10087,2023-11-12,Food & Drink,Lagos,Jumia,Cash on Delivery,2,5800.0,0.0,Returned,8,
+NG-10088,2023-03-27,Fashion,Kaduna,Jumia,Pay on Delivery,4,40900.0,0.0,Cancelled,1,
+NG-10089,2023-11-22,Sports,Abuja,Jumia,Cash on Delivery,3,46900.0,140700.0,Delivered,2,4.1
+NG-10090,2023-09-08,Home & Living,Ibadan,Jiji,Transfer,4,35600.0,142400.0,Delivered,5,3.0
+NG-10091,2023-07-30,Fashion,Lagos,Jiji,Cash on Delivery,2,41900.0,83800.0,Delivered,9,3.9
+NG-10092,2023-11-25,Sports,Kaduna,Instagram Shop,USSD,1,10500.0,10500.0,Delivered,8,4.7
+NG-10093,2023-08-31,Beauty,Kano,WhatsApp Business,USSD,2,13900.0,27800.0,Delivered,6,4.4
+NG-10094,2023-04-28,Home & Living,Abuja,Konga,Pay on Delivery,4,49200.0,196800.0,Delivered,9,3.0
+NG-10095,2023-09-04,Electronics,Lagos,WhatsApp Business,Pay on Delivery,2,60900.0,0.0,Returned,5,
+NG-10096,2023-11-26,Electronics,Enugu,WhatsApp Business,Card,1,258500.0,258500.0,Delivered,4,4.6
+NG-10097,2023-10-11,Home & Living,Abuja,Konga,Cash on Delivery,1,17800.0,0.0,Cancelled,7,
+NG-10098,2023-12-21,Sports,Lagos,Jumia,USSD,4,51500.0,206000.0,Delivered,7,3.6
+NG-10099,2023-11-19,Food & Drink,Kaduna,Instagram Shop,USSD,3,2000.0,0.0,Returned,10,
+NG-10100,2023-05-09,Sports,Port Harcourt,WhatsApp Business,Cash on Delivery,1,54000.0,54000.0,Delivered,9,4.9
+NG-10101,2023-04-30,Fashion,Benin City,Konga,Transfer,2,14100.0,28200.0,Delivered,10,2.8
+NG-10102,2023-01-27,Electronics,Lagos,WhatsApp Business,Pay on Delivery,1,167900.0,0.0,Returned,3,
+NG-10103,2023-08-26,Electronics,Ibadan,Konga,Transfer,4,480800.0,1923200.0,Delivered,10,5.0
+NG-10104,2023-07-16,Food & Drink,Lagos,Konga,Pay on Delivery,4,5300.0,21200.0,Delivered,3,2.8
+NG-10105,2023-07-15,Fashion,Lagos,Instagram Shop,USSD,3,7800.0,23400.0,Delivered,2,3.9
+NG-10106,2023-09-26,Books,Lagos,Jiji,Transfer,4,9000.0,0.0,Cancelled,6,
+NG-10107,2023-08-22,Home & Living,Ibadan,Instagram Shop,Cash on Delivery,3,42400.0,0.0,Returned,8,
+NG-10108,2023-11-26,Books,Abuja,WhatsApp Business,USSD,1,4100.0,4100.0,Delivered,4,4.4
+NG-10109,2023-08-11,Food & Drink,Lagos,Jiji,Transfer,4,2500.0,0.0,Returned,6,
+NG-10110,2023-05-25,Beauty,Port Harcourt,Jumia,Card,3,21300.0,0.0,Returned,5,
+NG-10111,2023-08-29,Fashion,Kaduna,Instagram Shop,USSD,4,30900.0,123600.0,Delivered,7,4.5
+NG-10112,2023-03-13,Electronics,Ibadan,Jumia,Transfer,1,270100.0,270100.0,Delivered,6,3.9
+NG-10113,2023-09-22,Sports,Abuja,WhatsApp Business,Cash on Delivery,4,26700.0,106800.0,Delivered,8,2.7
+NG-10114,2023-04-16,Electronics,Lagos,Konga,Card,2,216800.0,433600.0,Delivered,6,2.9
+NG-10115,2023-07-25,Home & Living,Kano,WhatsApp Business,USSD,2,34800.0,69600.0,Delivered,1,4.6
+NG-10116,2023-07-16,Sports,Kaduna,Jiji,Card,2,46300.0,0.0,Returned,6,
+NG-10117,2023-10-04,Food & Drink,Lagos,Instagram Shop,Pay on Delivery,3,6100.0,18300.0,Delivered,10,2.6
+NG-10118,2023-02-11,Food & Drink,Port Harcourt,Jiji,Card,4,2900.0,0.0,Cancelled,5,
+NG-10119,2023-03-09,Sports,Port Harcourt,Konga,Pay on Delivery,2,21800.0,0.0,Cancelled,1,
+NG-10120,2023-09-25,Books,Abuja,Jumia,USSD,2,3900.0,7800.0,Delivered,7,4.5
+NG-10121,2023-06-27,Sports,Ibadan,Instagram Shop,Cash on Delivery,1,39700.0,0.0,Returned,5,
+NG-10122,2023-12-07,Fashion,Lagos,Konga,Cash on Delivery,3,23400.0,70200.0,Delivered,7,3.0
+NG-10123,2023-05-13,Home & Living,Abuja,Jiji,Card,1,17300.0,17300.0,Delivered,3,2.9
+NG-10124,2023-11-23,Sports,Abuja,Jiji,Cash on Delivery,2,55100.0,110200.0,Delivered,6,3.0
+NG-10125,2023-05-25,Fashion,Kano,Jiji,USSD,2,39300.0,0.0,Returned,6,
+NG-10126,2023-06-24,Food & Drink,Enugu,Jumia,USSD,2,3300.0,0.0,Cancelled,4,
+NG-10127,2023-11-03,Home & Living,Lagos,WhatsApp Business,Card,4,24400.0,97600.0,Delivered,10,3.3
+NG-10128,2023-12-11,Fashion,Lagos,Instagram Shop,Pay on Delivery,4,27100.0,0.0,Returned,3,
+NG-10129,2023-11-27,Books,Abuja,WhatsApp Business,Pay on Delivery,4,11600.0,46400.0,Delivered,1,2.9
+NG-10130,2023-08-07,Beauty,Lagos,Jumia,USSD,4,13100.0,52400.0,Delivered,4,3.2
+NG-10131,2023-06-21,Beauty,Lagos,Jiji,Cash on Delivery,2,12800.0,0.0,Returned,3,
+NG-10132,2023-09-05,Sports,Port Harcourt,WhatsApp Business,Transfer,3,52200.0,156600.0,Delivered,10,4.5
+NG-10133,2023-02-10,Books,Enugu,Konga,Card,4,3700.0,0.0,Returned,6,
+NG-10134,2023-08-31,Electronics,Kano,Jiji,Card,3,406600.0,0.0,Returned,4,
+NG-10135,2023-06-15,Food & Drink,Abuja,WhatsApp Business,USSD,2,2800.0,5600.0,Delivered,10,3.2
+NG-10136,2023-08-17,Sports,Abuja,Konga,Card,1,5200.0,5200.0,Delivered,1,4.5
+NG-10137,2023-11-11,Electronics,Lagos,Konga,Pay on Delivery,4,130300.0,0.0,Returned,4,
+NG-10138,2023-12-14,Fashion,Ibadan,Instagram Shop,Pay on Delivery,1,21600.0,0.0,Returned,1,
+NG-10139,2023-04-12,Electronics,Kaduna,Jumia,Card,4,249100.0,996400.0,Delivered,10,4.5
+NG-10140,2023-04-11,Sports,Lagos,WhatsApp Business,Card,3,40100.0,120300.0,Delivered,5,4.4
+NG-10141,2023-10-30,Electronics,Lagos,WhatsApp Business,Cash on Delivery,4,214400.0,857600.0,Delivered,7,4.4
+NG-10142,2023-01-27,Beauty,Abuja,Instagram Shop,Cash on Delivery,1,23600.0,23600.0,Delivered,2,3.3
+NG-10143,2023-11-19,Beauty,Abuja,Jumia,Pay on Delivery,3,16900.0,0.0,Cancelled,1,
+NG-10144,2023-02-19,Beauty,Port Harcourt,Konga,USSD,3,7200.0,21600.0,Delivered,9,2.5
+NG-10145,2023-06-27,Food & Drink,Ibadan,Jumia,Transfer,2,600.0,1200.0,Delivered,6,3.6
+NG-10146,2023-11-24,Fashion,Lagos,Instagram Shop,Pay on Delivery,2,11400.0,0.0,Cancelled,2,
+NG-10147,2023-07-04,Beauty,Lagos,Jiji,USSD,2,12300.0,24600.0,Delivered,5,3.6
+NG-10148,2023-11-02,Books,Abuja,Instagram Shop,USSD,2,9700.0,0.0,Cancelled,3,
+NG-10149,2023-03-19,Food & Drink,Lagos,WhatsApp Business,Cash on Delivery,3,2600.0,0.0,Returned,1,
+NG-10150,2023-11-12,Sports,Lagos,WhatsApp Business,Cash on Delivery,3,52700.0,0.0,Returned,3,
+NG-10151,2023-08-16,Books,Lagos,Jiji,Cash on Delivery,2,7900.0,0.0,Returned,2,
+NG-10152,2023-05-18,Home & Living,Kano,Jumia,Card,3,76600.0,229800.0,Delivered,4,3.0
+NG-10153,2023-08-27,Fashion,Kaduna,Jiji,Pay on Delivery,3,29900.0,89700.0,Delivered,9,3.9
+NG-10154,2023-06-03,Home & Living,Ibadan,Instagram Shop,Card,1,43100.0,0.0,Cancelled,6,
+NG-10155,2023-03-09,Sports,Kaduna,Jumia,Transfer,4,38700.0,0.0,Returned,9,
+NG-10156,2023-03-10,Home & Living,Abuja,Konga,Transfer,2,70300.0,140600.0,Delivered,3,3.0
+NG-10157,2023-04-05,Electronics,Ibadan,Instagram Shop,Pay on Delivery,3,482300.0,0.0,Cancelled,8,
+NG-10158,2023-07-30,Fashion,Enugu,Jumia,Cash on Delivery,1,34500.0,0.0,Cancelled,2,
+NG-10159,2023-09-14,Beauty,Lagos,WhatsApp Business,Cash on Delivery,4,5700.0,0.0,Cancelled,3,
+NG-10160,2023-01-05,Fashion,Abuja,Konga,Card,1,18500.0,0.0,Cancelled,3,
+NG-10161,2023-10-05,Beauty,Lagos,WhatsApp Business,USSD,3,18100.0,54300.0,Delivered,6,4.3
+NG-10162,2023-11-05,Sports,Abuja,Instagram Shop,USSD,1,25900.0,0.0,Returned,2,
+NG-10163,2023-06-15,Home & Living,Benin City,Instagram Shop,Cash on Delivery,1,44500.0,44500.0,Delivered,5,4.8
+NG-10164,2023-01-06,Food & Drink,Lagos,Jumia,Card,1,2200.0,2200.0,Delivered,8,4.5
+NG-10165,2023-07-24,Sports,Kaduna,Instagram Shop,Cash on Delivery,3,43900.0,0.0,Returned,3,
+NG-10166,2023-09-30,Electronics,Kano,Jumia,Pay on Delivery,1,438900.0,0.0,Cancelled,4,
+NG-10167,2023-01-18,Food & Drink,Port Harcourt,Instagram Shop,Cash on Delivery,2,3200.0,6400.0,Delivered,1,3.6
+NG-10168,2023-03-08,Books,Ibadan,Instagram Shop,Cash on Delivery,4,3700.0,14800.0,Delivered,10,3.9
+NG-10169,2023-02-22,Electronics,Benin City,Instagram Shop,Card,2,20200.0,40400.0,Delivered,2,4.9
+NG-10170,2023-03-29,Home & Living,Lagos,Konga,Card,4,42300.0,169200.0,Delivered,9,3.1
+NG-10171,2023-02-04,Books,Lagos,Instagram Shop,USSD,4,4300.0,17200.0,Delivered,8,4.0
+NG-10172,2023-12-13,Sports,Kano,WhatsApp Business,Pay on Delivery,4,38000.0,0.0,Cancelled,6,
+NG-10173,2023-08-31,Books,Lagos,WhatsApp Business,Pay on Delivery,3,10800.0,32400.0,Delivered,8,4.1
+NG-10174,2023-06-21,Books,Lagos,Jumia,USSD,2,1500.0,0.0,Cancelled,5,
+NG-10175,2023-10-14,Electronics,Lagos,Konga,USSD,1,211200.0,0.0,Returned,8,
+NG-10176,2023-04-06,Food & Drink,Lagos,Jumia,Cash on Delivery,1,3300.0,0.0,Returned,3,
+NG-10177,2023-08-08,Fashion,Lagos,Instagram Shop,Transfer,4,44000.0,0.0,Cancelled,8,
+NG-10178,2023-02-16,Fashion,Abuja,Konga,USSD,3,36100.0,0.0,Returned,6,
+NG-10179,2023-01-28,Books,Ibadan,WhatsApp Business,USSD,1,2100.0,2100.0,Delivered,2,3.0
+NG-10180,2023-07-02,Fashion,Port Harcourt,Konga,Pay on Delivery,3,13600.0,40800.0,Delivered,2,2.9
+NG-10181,2023-03-12,Beauty,Lagos,Jumia,Cash on Delivery,3,11400.0,0.0,Returned,1,
+NG-10182,2023-01-30,Electronics,Lagos,Konga,Card,1,282200.0,0.0,Returned,8,
+NG-10183,2023-12-06,Books,Kano,Konga,USSD,4,2700.0,0.0,Cancelled,9,
+NG-10184,2023-01-30,Books,Lagos,Jumia,Card,3,11900.0,35700.0,Delivered,7,3.8
+NG-10185,2023-11-11,Beauty,Abuja,Konga,Pay on Delivery,2,12600.0,25200.0,Delivered,8,2.5
+NG-10186,2023-08-27,Books,Abuja,Jumia,Transfer,3,3000.0,9000.0,Delivered,10,4.8
+NG-10187,2023-02-26,Food & Drink,Port Harcourt,Konga,USSD,4,5200.0,20800.0,Delivered,2,4.6
+NG-10188,2023-11-25,Sports,Port Harcourt,Jiji,Cash on Delivery,2,38300.0,0.0,Cancelled,2,
+NG-10189,2023-06-26,Books,Enugu,Jiji,Card,2,1900.0,3800.0,Delivered,10,4.9
+NG-10190,2023-11-07,Fashion,Lagos,Jumia,USSD,3,41400.0,124200.0,Delivered,10,2.5
+NG-10191,2023-08-06,Home & Living,Kaduna,WhatsApp Business,USSD,1,30700.0,0.0,Returned,1,
+NG-10192,2023-04-22,Electronics,Port Harcourt,Konga,USSD,1,144600.0,144600.0,Delivered,7,5.0
+NG-10193,2023-05-05,Books,Abuja,Instagram Shop,USSD,2,3100.0,0.0,Returned,7,
+NG-10194,2023-03-11,Beauty,Kano,Jumia,USSD,4,5000.0,20000.0,Delivered,6,4.0
+NG-10195,2023-06-24,Food & Drink,Kano,WhatsApp Business,Transfer,4,7500.0,30000.0,Delivered,2,3.1
+NG-10196,2023-11-30,Beauty,Enugu,Konga,Transfer,4,7400.0,29600.0,Delivered,8,4.2
+NG-10197,2023-11-17,Sports,Kano,Konga,Cash on Delivery,1,43300.0,43300.0,Delivered,3,2.6
+NG-10198,2023-05-08,Electronics,Ibadan,Konga,Pay on Delivery,4,324300.0,1297200.0,Delivered,2,3.5
+NG-10199,2023-10-30,Sports,Lagos,Konga,USSD,4,22700.0,0.0,Cancelled,3,
+NG-10200,2023-09-24,Home & Living,Kano,WhatsApp Business,Cash on Delivery,1,38400.0,38400.0,Delivered,2,2.9
+NG-10201,2023-04-15,Sports,Abuja,Jiji,Transfer,1,54200.0,0.0,Cancelled,8,
+NG-10202,2023-09-27,Food & Drink,Lagos,WhatsApp Business,Pay on Delivery,3,7700.0,23100.0,Delivered,9,3.0
+NG-10203,2023-01-02,Sports,Kaduna,Instagram Shop,Card,3,4700.0,0.0,Returned,10,
+NG-10204,2023-12-23,Electronics,Kaduna,WhatsApp Business,Pay on Delivery,1,460700.0,0.0,Returned,1,
+NG-10205,2023-12-30,Food & Drink,Lagos,WhatsApp Business,Transfer,4,1700.0,6800.0,Delivered,3,4.2
+NG-10206,2023-09-25,Electronics,Port Harcourt,Instagram Shop,Pay on Delivery,4,496100.0,0.0,Returned,9,
+NG-10207,2023-05-05,Beauty,Lagos,Jiji,Cash on Delivery,2,3100.0,6200.0,Delivered,5,3.0
+NG-10208,2023-12-26,Beauty,Benin City,Konga,USSD,4,5900.0,0.0,Cancelled,2,
+NG-10209,2023-03-28,Home & Living,Abuja,WhatsApp Business,Transfer,4,77600.0,310400.0,Delivered,5,4.6
+NG-10210,2023-12-16,Home & Living,Lagos,Jiji,Cash on Delivery,4,12300.0,49200.0,Delivered,8,5.0
+NG-10211,2023-05-28,Home & Living,Lagos,Jumia,Transfer,2,33300.0,0.0,Returned,9,
+NG-10212,2023-01-09,Home & Living,Lagos,Jiji,Pay on Delivery,2,79200.0,158400.0,Delivered,4,3.7
+NG-10213,2023-04-10,Sports,Benin City,Jiji,Transfer,4,8000.0,0.0,Cancelled,9,
+NG-10214,2023-06-06,Electronics,Lagos,Instagram Shop,Transfer,3,62900.0,0.0,Returned,4,
+NG-10215,2023-10-05,Electronics,Abuja,WhatsApp Business,Cash on Delivery,1,360400.0,360400.0,Delivered,3,4.4
+NG-10216,2023-10-24,Beauty,Lagos,Instagram Shop,USSD,3,13900.0,41700.0,Delivered,1,4.3
+NG-10217,2023-12-23,Beauty,Benin City,Konga,Cash on Delivery,3,11000.0,33000.0,Delivered,10,3.3
+NG-10218,2023-04-29,Food & Drink,Lagos,Konga,Cash on Delivery,4,2200.0,8800.0,Delivered,2,3.3
+NG-10219,2023-11-21,Food & Drink,Abuja,Konga,Pay on Delivery,1,7900.0,7900.0,Delivered,8,3.5
+NG-10220,2023-05-22,Sports,Port Harcourt,WhatsApp Business,Pay on Delivery,1,54500.0,0.0,Cancelled,2,
+NG-10221,2023-10-31,Sports,Abuja,Jumia,Card,3,20700.0,62100.0,Delivered,2,3.3
+NG-10222,2023-04-15,Beauty,Abuja,Jumia,Pay on Delivery,1,8300.0,8300.0,Delivered,1,3.8
+NG-10223,2023-05-27,Home & Living,Lagos,Konga,Cash on Delivery,2,67100.0,134200.0,Delivered,6,4.6
+NG-10224,2023-05-25,Electronics,Kaduna,Jiji,USSD,3,336800.0,1010400.0,Delivered,5,4.4
+NG-10225,2023-05-25,Sports,Abuja,Instagram Shop,Card,2,45800.0,0.0,Returned,8,
+NG-10226,2023-08-29,Sports,Lagos,WhatsApp Business,Card,1,14400.0,0.0,Returned,7,
+NG-10227,2023-08-16,Food & Drink,Port Harcourt,Instagram Shop,USSD,3,4700.0,0.0,Cancelled,3,
+NG-10228,2023-02-24,Books,Kaduna,Konga,Card,1,11600.0,0.0,Cancelled,7,
+NG-10229,2023-12-23,Food & Drink,Lagos,Konga,Card,1,5400.0,5400.0,Delivered,6,4.6
+NG-10230,2023-11-04,Food & Drink,Lagos,WhatsApp Business,Cash on Delivery,3,2400.0,7200.0,Delivered,10,3.2
+NG-10231,2023-10-27,Electronics,Abuja,Jiji,Cash on Delivery,4,486300.0,1945200.0,Delivered,2,3.8
+NG-10232,2023-08-01,Fashion,Benin City,WhatsApp Business,Pay on Delivery,2,32100.0,64200.0,Delivered,7,3.7
+NG-10233,2023-05-14,Fashion,Port Harcourt,Instagram Shop,Card,2,30100.0,60200.0,Delivered,8,2.7
+NG-10234,2023-01-14,Home & Living,Lagos,Jiji,Transfer,2,14500.0,29000.0,Delivered,5,4.3
+NG-10235,2023-01-24,Fashion,Benin City,WhatsApp Business,Pay on Delivery,1,37300.0,0.0,Returned,1,
+NG-10236,2023-12-30,Fashion,Lagos,Konga,USSD,4,32200.0,0.0,Returned,6,
+NG-10237,2023-03-20,Fashion,Abuja,Instagram Shop,Pay on Delivery,3,35700.0,0.0,Cancelled,8,
+NG-10238,2023-09-26,Food & Drink,Lagos,Konga,Card,1,6200.0,0.0,Cancelled,5,
+NG-10239,2023-09-27,Home & Living,Port Harcourt,WhatsApp Business,Transfer,4,25400.0,101600.0,Delivered,3,2.7
+NG-10240,2023-04-25,Food & Drink,Kano,WhatsApp Business,Transfer,4,1100.0,4400.0,Delivered,5,4.5
+NG-10241,2023-12-17,Home & Living,Lagos,Jumia,USSD,4,43300.0,173200.0,Delivered,7,4.8
+NG-10242,2023-07-12,Home & Living,Kano,Jiji,Card,1,39500.0,39500.0,Delivered,9,3.7
+NG-10243,2023-02-28,Home & Living,Lagos,Konga,Cash on Delivery,3,75900.0,0.0,Returned,6,
+NG-10244,2023-08-22,Electronics,Lagos,Jumia,USSD,3,135800.0,407400.0,Delivered,2,3.6
+NG-10245,2023-11-20,Beauty,Abuja,Jumia,Cash on Delivery,4,11000.0,44000.0,Delivered,4,2.9
+NG-10246,2023-07-19,Beauty,Lagos,Konga,Card,4,7000.0,28000.0,Delivered,4,4.1
+NG-10247,2023-08-14,Books,Port Harcourt,WhatsApp Business,Pay on Delivery,4,11200.0,0.0,Cancelled,1,
+NG-10248,2023-11-18,Sports,Lagos,Jiji,Card,2,23900.0,0.0,Cancelled,1,
+NG-10249,2023-12-03,Food & Drink,Abuja,WhatsApp Business,Cash on Delivery,2,7700.0,15400.0,Delivered,1,3.5
+NG-10250,2023-05-12,Books,Lagos,Jiji,USSD,4,1800.0,7200.0,Delivered,7,5.0
+NG-10251,2023-05-21,Home & Living,Abuja,Jiji,Transfer,2,45900.0,0.0,Returned,2,
+NG-10252,2023-09-07,Beauty,Kano,Jiji,Card,4,22100.0,88400.0,Delivered,9,3.9
+NG-10253,2023-08-23,Beauty,Port Harcourt,Instagram Shop,USSD,2,4400.0,8800.0,Delivered,8,3.8
+NG-10254,2023-12-10,Electronics,Lagos,WhatsApp Business,Pay on Delivery,1,317000.0,0.0,Cancelled,4,
+NG-10255,2023-09-16,Sports,Kaduna,WhatsApp Business,Pay on Delivery,3,58000.0,0.0,Returned,5,
+NG-10256,2023-01-27,Books,Lagos,WhatsApp Business,Pay on Delivery,4,4100.0,16400.0,Delivered,2,3.8
+NG-10257,2023-08-29,Sports,Lagos,WhatsApp Business,Pay on Delivery,2,49500.0,0.0,Cancelled,10,
+NG-10258,2023-09-10,Fashion,Kano,Jiji,Card,3,43900.0,131700.0,Delivered,7,4.2
+NG-10259,2023-06-30,Books,Lagos,WhatsApp Business,Pay on Delivery,1,10600.0,10600.0,Delivered,4,4.5
+NG-10260,2023-12-31,Sports,Kano,Jiji,Transfer,3,48800.0,146400.0,Delivered,3,4.7
+NG-10261,2023-12-18,Sports,Lagos,Jiji,Card,3,14600.0,43800.0,Delivered,4,4.4
+NG-10262,2023-05-07,Fashion,Lagos,Konga,Transfer,2,39900.0,0.0,Cancelled,3,
+NG-10263,2023-12-07,Electronics,Enugu,Instagram Shop,Card,1,436600.0,0.0,Cancelled,3,
+NG-10264,2023-06-26,Food & Drink,Lagos,Jiji,Cash on Delivery,2,2400.0,4800.0,Delivered,9,3.2
+NG-10265,2023-05-08,Beauty,Lagos,Jumia,Pay on Delivery,1,7900.0,0.0,Returned,2,
+NG-10266,2023-12-05,Electronics,Abuja,WhatsApp Business,Card,1,162500.0,162500.0,Delivered,10,3.5
+NG-10267,2023-03-16,Food & Drink,Ibadan,WhatsApp Business,Cash on Delivery,2,3600.0,7200.0,Delivered,2,3.7
+NG-10268,2023-09-17,Beauty,Kaduna,Instagram Shop,Pay on Delivery,2,4100.0,8200.0,Delivered,3,4.1
+NG-10269,2023-10-02,Electronics,Kano,Instagram Shop,Card,4,422500.0,1690000.0,Delivered,6,3.4
+NG-10270,2023-10-05,Home & Living,Kaduna,Jiji,Pay on Delivery,3,77700.0,0.0,Cancelled,9,
+NG-10271,2023-05-11,Books,Kano,Instagram Shop,Transfer,2,2600.0,5200.0,Delivered,6,2.7
+NG-10272,2023-12-18,Food & Drink,Ibadan,Instagram Shop,Transfer,3,7300.0,0.0,Returned,7,
+NG-10273,2023-05-17,Food & Drink,Abuja,Jiji,Pay on Delivery,3,7000.0,0.0,Cancelled,3,
+NG-10274,2023-08-13,Fashion,Port Harcourt,WhatsApp Business,Transfer,4,35600.0,0.0,Cancelled,10,
+NG-10275,2023-10-30,Home & Living,Port Harcourt,WhatsApp Business,Pay on Delivery,3,9900.0,0.0,Cancelled,10,
+NG-10276,2023-01-06,Home & Living,Port Harcourt,Jumia,Card,2,9300.0,18600.0,Delivered,6,3.7
+NG-10277,2023-10-07,Home & Living,Lagos,Instagram Shop,Card,1,50000.0,0.0,Returned,7,
+NG-10278,2023-05-01,Fashion,Lagos,WhatsApp Business,USSD,3,10400.0,31200.0,Delivered,3,2.7
+NG-10279,2023-08-10,Food & Drink,Port Harcourt,WhatsApp Business,Card,3,5300.0,15900.0,Delivered,6,4.6
+NG-10280,2023-12-20,Sports,Kano,Konga,Pay on Delivery,4,43500.0,174000.0,Delivered,9,3.9
+NG-10281,2023-04-13,Beauty,Lagos,Jiji,Transfer,2,17700.0,35400.0,Delivered,1,3.7
+NG-10282,2023-04-14,Electronics,Kano,Konga,Cash on Delivery,1,105500.0,0.0,Returned,4,
+NG-10283,2023-01-26,Books,Kaduna,Instagram Shop,Cash on Delivery,4,7700.0,30800.0,Delivered,1,4.9
+NG-10284,2023-09-23,Home & Living,Lagos,Jiji,Cash on Delivery,2,52600.0,0.0,Cancelled,2,
+NG-10285,2023-11-11,Food & Drink,Lagos,WhatsApp Business,Cash on Delivery,1,7100.0,0.0,Returned,7,
+NG-10286,2023-08-31,Home & Living,Port Harcourt,Instagram Shop,Transfer,4,76500.0,0.0,Returned,9,
+NG-10287,2023-03-20,Home & Living,Ibadan,WhatsApp Business,Card,4,70000.0,0.0,Returned,7,
+NG-10288,2023-05-27,Books,Kano,Jiji,Card,1,6200.0,6200.0,Delivered,1,4.4
+NG-10289,2023-05-17,Home & Living,Kano,WhatsApp Business,USSD,3,77500.0,232500.0,Delivered,8,4.0
+NG-10290,2023-10-16,Beauty,Ibadan,Konga,Pay on Delivery,2,6800.0,0.0,Returned,3,
+NG-10291,2023-12-01,Sports,Kano,WhatsApp Business,Pay on Delivery,4,8900.0,35600.0,Delivered,4,3.1
+NG-10292,2023-03-21,Sports,Port Harcourt,Instagram Shop,Cash on Delivery,2,44100.0,88200.0,Delivered,3,2.6
+NG-10293,2023-05-09,Fashion,Port Harcourt,WhatsApp Business,Card,3,14900.0,44700.0,Delivered,1,2.9
+NG-10294,2023-03-05,Food & Drink,Lagos,Instagram Shop,Transfer,4,6300.0,0.0,Returned,5,
+NG-10295,2023-12-03,Sports,Lagos,WhatsApp Business,Pay on Delivery,1,50000.0,0.0,Returned,4,
+NG-10296,2023-10-10,Electronics,Benin City,WhatsApp Business,USSD,4,201300.0,0.0,Returned,4,
+NG-10297,2023-06-14,Food & Drink,Port Harcourt,Jumia,Transfer,4,1900.0,7600.0,Delivered,4,2.6
+NG-10298,2023-07-06,Beauty,Lagos,Instagram Shop,Pay on Delivery,3,14700.0,44100.0,Delivered,7,4.7
+NG-10299,2023-07-22,Beauty,Abuja,Instagram Shop,Cash on Delivery,1,6600.0,0.0,Cancelled,10,
+NG-10300,2023-02-21,Sports,Abuja,Jiji,Pay on Delivery,3,10200.0,30600.0,Delivered,6,2.5
+NG-10301,2023-07-15,Books,Abuja,WhatsApp Business,Card,3,10600.0,31800.0,Delivered,1,3.4
+NG-10302,2023-04-22,Home & Living,Abuja,Jiji,Pay on Delivery,1,55500.0,55500.0,Delivered,6,2.6
+NG-10303,2023-05-06,Beauty,Abuja,Jiji,Transfer,3,13600.0,0.0,Returned,1,
+NG-10304,2023-08-25,Electronics,Ibadan,WhatsApp Business,USSD,3,36800.0,110400.0,Delivered,8,2.7
+NG-10305,2023-09-13,Home & Living,Abuja,Konga,Cash on Delivery,1,42200.0,0.0,Returned,5,
+NG-10306,2023-05-07,Food & Drink,Lagos,Jumia,Cash on Delivery,4,5700.0,22800.0,Delivered,4,4.3
+NG-10307,2023-08-28,Food & Drink,Lagos,Konga,Pay on Delivery,1,1900.0,0.0,Cancelled,9,
+NG-10308,2023-11-08,Fashion,Benin City,Instagram Shop,USSD,1,21500.0,0.0,Cancelled,6,
+NG-10309,2023-08-18,Sports,Lagos,Instagram Shop,Pay on Delivery,2,29400.0,58800.0,Delivered,7,4.9
+NG-10310,2023-05-20,Food & Drink,Lagos,Jiji,Cash on Delivery,4,3700.0,14800.0,Delivered,10,3.1
+NG-10311,2023-01-07,Books,Lagos,Jiji,Transfer,2,11600.0,23200.0,Delivered,8,2.5
+NG-10312,2023-05-22,Sports,Abuja,WhatsApp Business,Cash on Delivery,4,53600.0,214400.0,Delivered,6,3.8
+NG-10313,2023-08-26,Beauty,Kano,WhatsApp Business,USSD,1,7300.0,7300.0,Delivered,9,3.5
+NG-10314,2023-08-07,Sports,Benin City,Jumia,Transfer,1,46800.0,46800.0,Delivered,4,2.6
+NG-10315,2023-02-17,Sports,Lagos,Jiji,Pay on Delivery,4,30500.0,122000.0,Delivered,2,2.8
+NG-10316,2023-02-11,Food & Drink,Lagos,Jiji,Pay on Delivery,4,4800.0,19200.0,Delivered,1,2.9
+NG-10317,2023-09-16,Food & Drink,Lagos,Instagram Shop,USSD,2,2900.0,5800.0,Delivered,4,3.6
+NG-10318,2023-12-07,Books,Lagos,Instagram Shop,Transfer,4,6800.0,27200.0,Delivered,3,4.9
+NG-10319,2023-05-29,Sports,Lagos,Jumia,Card,4,10900.0,43600.0,Delivered,6,3.0
+NG-10320,2023-01-18,Beauty,Kano,Instagram Shop,Cash on Delivery,3,16300.0,0.0,Cancelled,8,
+NG-10321,2023-02-15,Sports,Abuja,Konga,Cash on Delivery,2,12800.0,25600.0,Delivered,6,3.7
+NG-10322,2023-03-22,Books,Ibadan,Instagram Shop,Card,1,1000.0,1000.0,Delivered,3,3.0
+NG-10323,2023-08-23,Fashion,Lagos,Instagram Shop,Pay on Delivery,3,31400.0,94200.0,Delivered,5,5.0
+NG-10324,2023-01-18,Sports,Port Harcourt,Instagram Shop,Card,1,49700.0,49700.0,Delivered,1,4.8
+NG-10325,2023-05-25,Sports,Kano,Instagram Shop,USSD,1,41600.0,0.0,Cancelled,3,
+NG-10326,2023-01-27,Books,Lagos,Jumia,Transfer,1,5600.0,0.0,Returned,8,
+NG-10327,2023-12-12,Fashion,Ibadan,WhatsApp Business,USSD,3,24500.0,73500.0,Delivered,6,4.0
+NG-10328,2023-12-28,Home & Living,Lagos,WhatsApp Business,Pay on Delivery,2,15300.0,30600.0,Delivered,1,2.6
+NG-10329,2023-04-12,Sports,Lagos,Jumia,Card,3,47100.0,141300.0,Delivered,10,3.2
+NG-10330,2023-11-01,Fashion,Port Harcourt,Jiji,Pay on Delivery,3,7400.0,0.0,Returned,8,
+NG-10331,2023-03-15,Food & Drink,Port Harcourt,Jiji,Cash on Delivery,4,6500.0,0.0,Cancelled,8,
+NG-10332,2023-04-16,Electronics,Kano,Instagram Shop,Card,4,17500.0,70000.0,Delivered,9,5.0
+NG-10333,2023-11-27,Home & Living,Lagos,Jumia,Transfer,2,59000.0,0.0,Returned,7,
+NG-10334,2023-07-11,Sports,Kaduna,Instagram Shop,Cash on Delivery,3,40900.0,122700.0,Delivered,10,2.9
+NG-10335,2023-12-29,Home & Living,Port Harcourt,Konga,Transfer,4,20000.0,80000.0,Delivered,4,4.0
+NG-10336,2023-01-25,Electronics,Kano,Jiji,USSD,2,21100.0,42200.0,Delivered,7,3.8
+NG-10337,2023-10-11,Food & Drink,Abuja,Konga,Transfer,3,7400.0,22200.0,Delivered,6,4.5
+NG-10338,2023-05-02,Books,Lagos,WhatsApp Business,Pay on Delivery,4,2500.0,10000.0,Delivered,10,3.4
+NG-10339,2023-04-04,Food & Drink,Kano,Jiji,Cash on Delivery,4,3700.0,14800.0,Delivered,7,3.3
+NG-10340,2023-02-02,Books,Ibadan,WhatsApp Business,USSD,4,2200.0,0.0,Cancelled,4,
+NG-10341,2023-01-08,Books,Lagos,Jumia,Cash on Delivery,4,10500.0,42000.0,Delivered,4,3.1
+NG-10342,2023-10-12,Beauty,Kaduna,Jumia,Pay on Delivery,1,15500.0,15500.0,Delivered,8,4.4
+NG-10343,2023-10-18,Electronics,Port Harcourt,WhatsApp Business,Transfer,3,405600.0,1216800.0,Delivered,3,4.3
+NG-10344,2023-07-16,Electronics,Lagos,Instagram Shop,Pay on Delivery,1,351200.0,351200.0,Delivered,3,2.6
+NG-10345,2023-04-18,Books,Lagos,Instagram Shop,Card,1,11700.0,11700.0,Delivered,3,2.8
+NG-10346,2023-09-02,Beauty,Lagos,Jumia,Transfer,3,5400.0,16200.0,Delivered,9,2.8
+NG-10347,2023-03-21,Beauty,Lagos,WhatsApp Business,Card,3,9700.0,29100.0,Delivered,9,2.6
+NG-10348,2023-09-25,Beauty,Abuja,Instagram Shop,Card,4,8600.0,34400.0,Delivered,4,3.7
+NG-10349,2023-09-07,Home & Living,Benin City,Jiji,Cash on Delivery,1,30300.0,30300.0,Delivered,9,3.9
+NG-10350,2023-11-24,Food & Drink,Abuja,Jumia,Cash on Delivery,3,1600.0,4800.0,Delivered,1,3.8
+NG-10351,2023-03-14,Home & Living,Ibadan,Jiji,Card,1,41300.0,41300.0,Delivered,3,4.5
+NG-10352,2023-05-12,Sports,Benin City,WhatsApp Business,Card,1,41600.0,0.0,Cancelled,9,
+NG-10353,2023-10-08,Sports,Lagos,WhatsApp Business,USSD,3,7600.0,22800.0,Delivered,4,4.8
+NG-10354,2023-12-08,Home & Living,Abuja,Jiji,Transfer,3,58100.0,0.0,Cancelled,2,
+NG-10355,2023-12-24,Fashion,Lagos,Jumia,Card,3,8800.0,0.0,Returned,4,
+NG-10356,2023-10-12,Electronics,Lagos,WhatsApp Business,USSD,4,375200.0,0.0,Returned,6,
+NG-10357,2023-05-06,Food & Drink,Kaduna,WhatsApp Business,Cash on Delivery,3,7200.0,21600.0,Delivered,3,4.8
+NG-10358,2023-05-16,Home & Living,Port Harcourt,Instagram Shop,Cash on Delivery,1,26600.0,26600.0,Delivered,7,3.6
+NG-10359,2023-05-20,Sports,Kano,Konga,Cash on Delivery,3,36700.0,110100.0,Delivered,9,3.9
+NG-10360,2023-09-28,Beauty,Enugu,Instagram Shop,Transfer,3,12300.0,36900.0,Delivered,2,2.7
+NG-10361,2023-11-20,Food & Drink,Lagos,WhatsApp Business,Pay on Delivery,4,3100.0,0.0,Returned,6,
+NG-10362,2023-07-30,Home & Living,Ibadan,WhatsApp Business,USSD,4,40400.0,161600.0,Delivered,1,2.8
+NG-10363,2023-12-14,Fashion,Lagos,WhatsApp Business,USSD,1,9400.0,9400.0,Delivered,1,4.1
+NG-10364,2023-12-30,Books,Lagos,Konga,Card,2,5900.0,0.0,Cancelled,2,
+NG-10365,2023-11-11,Beauty,Benin City,WhatsApp Business,Card,3,12900.0,38700.0,Delivered,1,2.6
+NG-10366,2023-07-04,Sports,Lagos,Jumia,Card,2,17400.0,0.0,Cancelled,6,
+NG-10367,2023-12-23,Food & Drink,Lagos,Konga,Cash on Delivery,4,4600.0,18400.0,Delivered,4,3.6
+NG-10368,2023-12-11,Sports,Abuja,Konga,Card,4,31600.0,126400.0,Delivered,9,4.0
+NG-10369,2023-11-26,Beauty,Kano,Konga,Transfer,1,4100.0,4100.0,Delivered,3,3.3
+NG-10370,2023-02-18,Books,Ibadan,Instagram Shop,Card,3,1700.0,0.0,Cancelled,2,
+NG-10371,2023-07-27,Sports,Ibadan,Jumia,USSD,1,7400.0,7400.0,Delivered,8,3.5
+NG-10372,2023-11-26,Home & Living,Lagos,WhatsApp Business,Card,2,14300.0,28600.0,Delivered,9,3.0
+NG-10373,2023-11-14,Electronics,Ibadan,Instagram Shop,Cash on Delivery,1,131100.0,131100.0,Delivered,6,4.4
+NG-10374,2023-11-14,Sports,Abuja,WhatsApp Business,USSD,3,50500.0,0.0,Cancelled,5,
+NG-10375,2023-08-02,Home & Living,Port Harcourt,Jumia,Pay on Delivery,3,58900.0,176700.0,Delivered,5,5.0
+NG-10376,2023-04-18,Electronics,Port Harcourt,Instagram Shop,Cash on Delivery,3,213700.0,0.0,Returned,8,
+NG-10377,2023-06-11,Fashion,Abuja,Jiji,Card,2,19900.0,39800.0,Delivered,8,3.8
+NG-10378,2023-08-28,Beauty,Ibadan,WhatsApp Business,USSD,3,6500.0,19500.0,Delivered,3,3.9
+NG-10379,2023-09-05,Electronics,Lagos,WhatsApp Business,Card,3,110300.0,330900.0,Delivered,5,2.6
+NG-10380,2023-01-22,Electronics,Ibadan,Konga,Cash on Delivery,1,431800.0,0.0,Returned,2,
+NG-10381,2023-10-17,Sports,Lagos,Konga,Pay on Delivery,4,50300.0,0.0,Cancelled,8,
+NG-10382,2023-05-08,Sports,Lagos,Jiji,Cash on Delivery,1,46600.0,46600.0,Delivered,3,4.6
+NG-10383,2023-06-09,Beauty,Abuja,WhatsApp Business,USSD,3,3400.0,10200.0,Delivered,6,3.5
+NG-10384,2023-04-09,Fashion,Lagos,Instagram Shop,USSD,2,26800.0,53600.0,Delivered,3,4.4
+NG-10385,2023-08-22,Food & Drink,Lagos,Jumia,USSD,4,6000.0,0.0,Returned,7,
+NG-10386,2023-01-16,Electronics,Port Harcourt,Jiji,Pay on Delivery,3,146300.0,0.0,Returned,3,
+NG-10387,2023-08-23,Sports,Ibadan,Instagram Shop,Cash on Delivery,2,49700.0,99400.0,Delivered,3,3.6
+NG-10388,2023-11-16,Sports,Lagos,Instagram Shop,USSD,1,57100.0,57100.0,Delivered,7,4.3
+NG-10389,2023-02-04,Books,Kano,Jumia,Pay on Delivery,2,3500.0,7000.0,Delivered,1,3.4
+NG-10390,2023-01-07,Home & Living,Lagos,Jumia,USSD,1,6100.0,6100.0,Delivered,4,4.9
+NG-10391,2023-07-23,Books,Lagos,WhatsApp Business,Cash on Delivery,2,1800.0,3600.0,Delivered,10,3.4
+NG-10392,2023-03-09,Home & Living,Abuja,Instagram Shop,Card,1,15000.0,0.0,Returned,3,
+NG-10393,2023-06-20,Electronics,Benin City,Instagram Shop,USSD,2,413200.0,0.0,Returned,3,
+NG-10394,2023-10-10,Beauty,Lagos,Jumia,Pay on Delivery,3,7900.0,23700.0,Delivered,4,4.1
+NG-10395,2023-08-23,Food & Drink,Lagos,WhatsApp Business,Transfer,2,3600.0,0.0,Returned,6,
+NG-10396,2023-09-08,Food & Drink,Port Harcourt,WhatsApp Business,Pay on Delivery,3,5300.0,0.0,Returned,9,
+NG-10397,2023-04-13,Electronics,Abuja,Jumia,Card,1,235700.0,0.0,Cancelled,8,
+NG-10398,2023-03-31,Sports,Abuja,Jiji,USSD,4,55200.0,220800.0,Delivered,5,3.2
+NG-10399,2023-09-23,Sports,Lagos,WhatsApp Business,Cash on Delivery,4,30100.0,0.0,Cancelled,7,
+NG-10400,2023-06-25,Food & Drink,Port Harcourt,Jumia,Pay on Delivery,4,3500.0,0.0,Cancelled,9,
+NG-10401,2023-05-21,Beauty,Abuja,WhatsApp Business,Pay on Delivery,3,5500.0,0.0,Returned,8,
+NG-10402,2023-05-15,Fashion,Port Harcourt,Jumia,Transfer,4,36500.0,146000.0,Delivered,3,3.9
+NG-10403,2023-06-15,Sports,Abuja,Jumia,Card,3,35300.0,105900.0,Delivered,1,3.1
+NG-10404,2023-10-01,Beauty,Ibadan,Jumia,Card,1,2100.0,2100.0,Delivered,8,3.3
+NG-10405,2023-03-04,Sports,Abuja,WhatsApp Business,Card,4,37700.0,150800.0,Delivered,9,3.1
+NG-10406,2023-04-24,Books,Kaduna,WhatsApp Business,Pay on Delivery,4,4300.0,17200.0,Delivered,4,4.9
+NG-10407,2023-08-16,Beauty,Lagos,Konga,Card,1,6800.0,6800.0,Delivered,1,2.8
+NG-10408,2023-04-20,Beauty,Kaduna,Jumia,Card,2,8100.0,0.0,Cancelled,6,
+NG-10409,2023-08-19,Home & Living,Port Harcourt,Jumia,Card,2,7800.0,15600.0,Delivered,1,4.4
+NG-10410,2023-12-01,Food & Drink,Kaduna,Instagram Shop,Cash on Delivery,2,5100.0,10200.0,Delivered,2,5.0
+NG-10411,2023-10-05,Fashion,Kaduna,Jiji,Card,1,42900.0,0.0,Returned,9,
+NG-10412,2023-12-30,Beauty,Lagos,Jumia,USSD,3,5200.0,15600.0,Delivered,5,3.3
+NG-10413,2023-07-07,Food & Drink,Abuja,Jiji,Card,4,5500.0,22000.0,Delivered,5,3.7
+NG-10414,2023-05-23,Electronics,Lagos,Instagram Shop,USSD,4,232900.0,931600.0,Delivered,5,4.9
+NG-10415,2023-05-27,Home & Living,Abuja,WhatsApp Business,USSD,1,24500.0,0.0,Cancelled,6,
+NG-10416,2023-08-03,Food & Drink,Abuja,Jumia,USSD,3,6200.0,18600.0,Delivered,1,2.9
+NG-10417,2023-09-20,Fashion,Lagos,Jiji,Cash on Delivery,1,15700.0,0.0,Returned,3,
+NG-10418,2023-05-22,Books,Abuja,Instagram Shop,Pay on Delivery,2,5800.0,0.0,Cancelled,6,
+NG-10419,2023-12-24,Beauty,Lagos,Instagram Shop,USSD,4,11200.0,44800.0,Delivered,4,3.5
+NG-10420,2023-01-20,Food & Drink,Kano,Jiji,USSD,1,7800.0,0.0,Cancelled,5,
+NG-10421,2023-10-24,Electronics,Benin City,Jumia,Transfer,3,101900.0,0.0,Cancelled,1,
+NG-10422,2023-07-20,Food & Drink,Abuja,Konga,USSD,4,7100.0,28400.0,Delivered,4,2.5
+NG-10423,2023-03-23,Beauty,Abuja,WhatsApp Business,USSD,1,19000.0,19000.0,Delivered,6,3.2
+NG-10424,2023-12-08,Electronics,Abuja,Konga,Card,2,238700.0,477400.0,Delivered,2,2.8
+NG-10425,2023-12-29,Electronics,Kano,Jiji,Cash on Delivery,1,291500.0,0.0,Returned,1,
+NG-10426,2023-12-22,Sports,Enugu,Instagram Shop,USSD,1,39800.0,39800.0,Delivered,3,2.9
+NG-10427,2023-12-14,Sports,Kaduna,Jumia,Pay on Delivery,1,39200.0,0.0,Returned,3,
+NG-10428,2023-01-14,Electronics,Kano,Jiji,USSD,4,19400.0,0.0,Returned,4,
+NG-10429,2023-05-17,Home & Living,Lagos,Jiji,Card,2,38200.0,0.0,Returned,10,
+NG-10430,2023-02-14,Beauty,Port Harcourt,Jiji,Card,2,18100.0,36200.0,Delivered,4,4.0
+NG-10431,2023-04-01,Fashion,Lagos,Jumia,Pay on Delivery,4,19400.0,77600.0,Delivered,1,4.5
+NG-10432,2023-08-08,Sports,Abuja,WhatsApp Business,Cash on Delivery,1,29800.0,29800.0,Delivered,10,5.0
+NG-10433,2023-05-28,Fashion,Abuja,Konga,USSD,4,29700.0,0.0,Returned,7,
+NG-10434,2023-07-19,Beauty,Lagos,Instagram Shop,Pay on Delivery,4,7300.0,0.0,Returned,10,
+NG-10435,2023-07-14,Electronics,Abuja,Jumia,USSD,3,407100.0,1221300.0,Delivered,7,3.6
+NG-10436,2023-11-06,Books,Abuja,Jumia,Cash on Delivery,2,9000.0,0.0,Cancelled,8,
+NG-10437,2023-03-16,Home & Living,Lagos,Jiji,Pay on Delivery,3,53500.0,160500.0,Delivered,9,4.3
+NG-10438,2023-05-24,Home & Living,Lagos,Jumia,Card,4,55200.0,220800.0,Delivered,7,3.2
+NG-10439,2023-11-26,Home & Living,Lagos,Instagram Shop,USSD,3,60600.0,0.0,Cancelled,1,
+NG-10440,2023-01-15,Home & Living,Port Harcourt,Jumia,Transfer,4,68800.0,275200.0,Delivered,8,4.8
+NG-10441,2023-09-11,Fashion,Kaduna,Konga,Cash on Delivery,4,14100.0,0.0,Returned,4,
+NG-10442,2023-12-24,Sports,Abuja,WhatsApp Business,Transfer,3,35700.0,0.0,Returned,4,
+NG-10443,2023-04-29,Sports,Lagos,Konga,Card,3,51500.0,0.0,Cancelled,5,
+NG-10444,2023-04-28,Electronics,Abuja,Konga,Cash on Delivery,3,223300.0,669900.0,Delivered,8,2.6
+NG-10445,2023-12-12,Home & Living,Kaduna,Instagram Shop,Transfer,4,68200.0,272800.0,Delivered,5,2.5
+NG-10446,2023-12-31,Electronics,Lagos,Jiji,Card,2,374700.0,749400.0,Delivered,5,2.9
+NG-10447,2023-08-24,Fashion,Kano,Jumia,Cash on Delivery,3,18600.0,55800.0,Delivered,5,4.9
+NG-10448,2023-04-27,Books,Lagos,WhatsApp Business,USSD,4,1300.0,5200.0,Delivered,5,2.7
+NG-10449,2023-11-04,Books,Lagos,Instagram Shop,USSD,1,10300.0,10300.0,Delivered,5,4.4
+NG-10450,2023-07-14,Electronics,Abuja,Jiji,Card,3,377100.0,1131300.0,Delivered,7,3.7
+NG-10451,2023-08-17,Books,Enugu,Jumia,Cash on Delivery,3,2900.0,8700.0,Delivered,7,3.1
+NG-10452,2023-12-02,Home & Living,Lagos,Instagram Shop,Pay on Delivery,3,48900.0,146700.0,Delivered,6,2.8
+NG-10453,2023-01-18,Food & Drink,Ibadan,Instagram Shop,Card,3,4900.0,0.0,Cancelled,1,
+NG-10454,2023-06-20,Electronics,Port Harcourt,Konga,Card,1,211800.0,0.0,Returned,6,
+NG-10455,2023-08-11,Food & Drink,Kano,Konga,Pay on Delivery,1,1000.0,1000.0,Delivered,1,3.6
+NG-10456,2023-02-02,Fashion,Lagos,Konga,Transfer,1,29200.0,29200.0,Delivered,9,4.3
+NG-10457,2023-02-24,Books,Ibadan,Jiji,Card,2,9600.0,19200.0,Delivered,9,3.6
+NG-10458,2023-04-20,Sports,Benin City,Konga,Transfer,4,50300.0,201200.0,Delivered,2,2.7
+NG-10459,2023-06-23,Fashion,Abuja,Jumia,Cash on Delivery,2,39200.0,0.0,Returned,9,
+NG-10460,2023-02-12,Books,Abuja,Jiji,Transfer,4,3500.0,14000.0,Delivered,8,4.6
+NG-10461,2023-12-23,Fashion,Abuja,WhatsApp Business,Card,1,6100.0,6100.0,Delivered,3,3.5
+NG-10462,2023-08-26,Food & Drink,Enugu,WhatsApp Business,Transfer,2,1200.0,0.0,Returned,4,
+NG-10463,2023-07-11,Books,Kano,WhatsApp Business,Transfer,2,11700.0,0.0,Returned,5,
+NG-10464,2023-07-22,Fashion,Abuja,Jumia,Transfer,2,10100.0,0.0,Returned,2,
+NG-10465,2023-03-18,Home & Living,Lagos,WhatsApp Business,Transfer,4,11800.0,0.0,Returned,1,
+NG-10466,2023-11-06,Beauty,Lagos,WhatsApp Business,USSD,2,2400.0,4800.0,Delivered,6,3.9
+NG-10467,2023-09-07,Books,Lagos,Jiji,Card,3,3400.0,10200.0,Delivered,5,3.9
+NG-10468,2023-06-08,Home & Living,Lagos,Jumia,Cash on Delivery,3,18300.0,0.0,Cancelled,2,
+NG-10469,2023-01-01,Food & Drink,Kaduna,Jiji,USSD,3,2800.0,0.0,Cancelled,5,
+NG-10470,2023-07-07,Beauty,Ibadan,Instagram Shop,Cash on Delivery,4,3200.0,0.0,Returned,1,
+NG-10471,2023-01-08,Electronics,Lagos,Instagram Shop,Transfer,3,214200.0,642600.0,Delivered,1,4.9
+NG-10472,2023-01-07,Electronics,Port Harcourt,Instagram Shop,Cash on Delivery,3,141700.0,0.0,Cancelled,1,
+NG-10473,2023-06-28,Fashion,Kano,Instagram Shop,Pay on Delivery,1,44900.0,0.0,Cancelled,8,
+NG-10474,2023-12-24,Food & Drink,Abuja,Jumia,Cash on Delivery,4,6400.0,0.0,Cancelled,10,
+NG-10475,2023-10-05,Fashion,Abuja,Konga,USSD,4,36000.0,144000.0,Delivered,9,4.8
+NG-10476,2023-07-22,Food & Drink,Ibadan,Jiji,Transfer,2,3000.0,6000.0,Delivered,4,4.7
+NG-10477,2023-08-08,Food & Drink,Kaduna,Jiji,Pay on Delivery,3,8000.0,24000.0,Delivered,9,2.8
+NG-10478,2023-04-28,Electronics,Lagos,Konga,Cash on Delivery,1,35500.0,35500.0,Delivered,7,2.7
+NG-10479,2023-06-19,Fashion,Lagos,Jumia,USSD,1,38300.0,0.0,Cancelled,9,
+NG-10480,2023-09-27,Fashion,Abuja,Konga,Cash on Delivery,1,38300.0,38300.0,Delivered,5,4.6
+NG-10481,2023-06-09,Home & Living,Lagos,WhatsApp Business,Card,3,30300.0,90900.0,Delivered,7,2.7
+NG-10482,2023-03-17,Fashion,Enugu,Instagram Shop,Transfer,2,6100.0,0.0,Cancelled,10,
+NG-10483,2023-06-30,Beauty,Lagos,Instagram Shop,Pay on Delivery,4,17800.0,71200.0,Delivered,2,4.7
+NG-10484,2023-10-06,Sports,Port Harcourt,Konga,Card,3,19800.0,59400.0,Delivered,4,5.0
+NG-10485,2023-05-16,Electronics,Enugu,Jumia,Card,2,230000.0,460000.0,Delivered,5,4.6
+NG-10486,2023-10-27,Books,Lagos,Jumia,USSD,3,5500.0,0.0,Returned,3,
+NG-10487,2023-04-23,Electronics,Benin City,WhatsApp Business,Cash on Delivery,2,171800.0,0.0,Cancelled,5,
+NG-10488,2023-03-20,Sports,Ibadan,Jiji,Cash on Delivery,1,41800.0,0.0,Returned,2,
+NG-10489,2023-01-21,Books,Lagos,Jumia,Transfer,3,5100.0,15300.0,Delivered,8,4.6
+NG-10490,2023-08-05,Fashion,Kano,Instagram Shop,USSD,3,27300.0,81900.0,Delivered,5,2.9
+NG-10491,2023-07-08,Food & Drink,Lagos,Instagram Shop,Cash on Delivery,1,6900.0,6900.0,Delivered,8,3.2
+NG-10492,2023-01-10,Fashion,Lagos,Jiji,USSD,3,4800.0,14400.0,Delivered,9,2.8
+NG-10493,2023-09-25,Food & Drink,Lagos,Konga,USSD,2,7300.0,0.0,Returned,1,
+NG-10494,2023-08-29,Home & Living,Kano,Jiji,Cash on Delivery,2,12900.0,25800.0,Delivered,2,4.3
+NG-10495,2023-05-06,Fashion,Abuja,Jiji,Card,4,40800.0,163200.0,Delivered,10,3.2
+NG-10496,2023-12-13,Books,Benin City,Jumia,Pay on Delivery,1,11000.0,11000.0,Delivered,1,3.7
+NG-10497,2023-05-11,Home & Living,Lagos,Instagram Shop,Card,3,12500.0,0.0,Cancelled,3,
+NG-10498,2023-06-12,Books,Benin City,WhatsApp Business,Cash on Delivery,2,5800.0,11600.0,Delivered,8,3.3
+NG-10499,2023-06-18,Home & Living,Lagos,Jiji,Card,2,33600.0,67200.0,Delivered,3,4.6
+NG-10500,2023-02-15,Fashion,Ibadan,Jiji,Transfer,4,27300.0,109200.0,Delivered,8,4.1
+NG-10501,2023-07-08,Home & Living,Port Harcourt,Konga,Transfer,2,53300.0,0.0,Returned,6,
+NG-10502,2023-07-13,Beauty,Abuja,Instagram Shop,USSD,2,22300.0,44600.0,Delivered,7,2.7
+NG-10503,2023-09-02,Home & Living,Ibadan,Jumia,Transfer,4,64900.0,259600.0,Delivered,4,5.0
+NG-10504,2023-03-20,Sports,Lagos,Jiji,Pay on Delivery,2,6700.0,13400.0,Delivered,8,4.0
+NG-10505,2023-07-25,Beauty,Abuja,Instagram Shop,Pay on Delivery,4,10500.0,42000.0,Delivered,9,4.5
+NG-10506,2023-02-27,Electronics,Kano,Jumia,USSD,1,154200.0,154200.0,Delivered,9,4.9
+NG-10507,2023-11-26,Fashion,Lagos,Konga,Card,4,10300.0,0.0,Returned,9,
+NG-10508,2023-02-21,Food & Drink,Port Harcourt,Jiji,Cash on Delivery,3,1500.0,4500.0,Delivered,6,2.9
+NG-10509,2023-04-21,Home & Living,Lagos,Konga,Card,1,77700.0,77700.0,Delivered,2,3.0
+NG-10510,2023-11-16,Home & Living,Enugu,Instagram Shop,USSD,1,56500.0,56500.0,Delivered,8,3.6
+NG-10511,2023-09-19,Books,Abuja,Jumia,Pay on Delivery,4,11900.0,0.0,Returned,7,
+NG-10512,2023-02-22,Fashion,Port Harcourt,Konga,Cash on Delivery,2,10800.0,21600.0,Delivered,2,4.8
+NG-10513,2023-05-27,Beauty,Lagos,Konga,Pay on Delivery,4,2500.0,0.0,Returned,7,
+NG-10514,2023-03-31,Books,Lagos,WhatsApp Business,Transfer,1,3900.0,3900.0,Delivered,1,4.3
+NG-10515,2023-01-16,Electronics,Abuja,Jumia,Card,2,237600.0,475200.0,Delivered,7,4.0
+NG-10516,2023-06-21,Books,Lagos,WhatsApp Business,Card,1,2200.0,2200.0,Delivered,7,4.9
+NG-10517,2023-06-06,Electronics,Enugu,Jiji,USSD,4,150800.0,603200.0,Delivered,1,3.8
+NG-10518,2023-11-29,Electronics,Port Harcourt,WhatsApp Business,Transfer,1,297900.0,297900.0,Delivered,7,3.5
+NG-10519,2023-05-21,Fashion,Kano,WhatsApp Business,USSD,1,28800.0,0.0,Returned,1,
+NG-10520,2023-06-03,Home & Living,Lagos,Jumia,Transfer,3,39600.0,0.0,Returned,7,
+NG-10521,2023-06-30,Fashion,Kano,WhatsApp Business,Cash on Delivery,1,30500.0,0.0,Cancelled,7,
+NG-10522,2023-06-26,Electronics,Kano,Jiji,Card,4,241700.0,966800.0,Delivered,9,3.5
+NG-10523,2023-08-15,Beauty,Lagos,Jiji,USSD,3,3700.0,11100.0,Delivered,2,2.7
+NG-10524,2023-12-30,Sports,Abuja,Jumia,USSD,2,46600.0,93200.0,Delivered,5,4.7
+NG-10525,2023-05-06,Home & Living,Port Harcourt,Instagram Shop,Cash on Delivery,4,46700.0,186800.0,Delivered,5,5.0
+NG-10526,2023-05-17,Beauty,Port Harcourt,Jumia,Cash on Delivery,2,14400.0,28800.0,Delivered,2,4.2
+NG-10527,2023-10-18,Food & Drink,Abuja,Jiji,Cash on Delivery,3,1000.0,3000.0,Delivered,2,3.3
+NG-10528,2023-05-20,Food & Drink,Lagos,Jumia,Pay on Delivery,3,3100.0,0.0,Cancelled,4,
+NG-10529,2023-01-14,Fashion,Lagos,Konga,Pay on Delivery,1,43300.0,43300.0,Delivered,9,2.6
+NG-10530,2023-03-15,Beauty,Kano,WhatsApp Business,Transfer,1,9200.0,9200.0,Delivered,7,4.6
+NG-10531,2023-03-26,Sports,Lagos,Konga,Transfer,2,55900.0,111800.0,Delivered,10,2.6
+NG-10532,2023-12-07,Sports,Lagos,Jiji,Cash on Delivery,3,5800.0,0.0,Cancelled,2,
+NG-10533,2023-04-17,Sports,Lagos,WhatsApp Business,Card,4,11000.0,44000.0,Delivered,8,4.3
+NG-10534,2023-05-02,Books,Lagos,WhatsApp Business,Card,4,5700.0,22800.0,Delivered,2,3.9
+NG-10535,2023-09-04,Electronics,Kano,Instagram Shop,Transfer,1,240000.0,240000.0,Delivered,5,4.8
+NG-10536,2023-01-25,Beauty,Benin City,Jiji,Transfer,2,11300.0,22600.0,Delivered,7,2.8
+NG-10537,2023-03-14,Food & Drink,Port Harcourt,Instagram Shop,Card,2,2600.0,5200.0,Delivered,10,4.8
+NG-10538,2023-10-15,Beauty,Enugu,Konga,Cash on Delivery,1,24300.0,0.0,Returned,1,
+NG-10539,2023-07-09,Electronics,Abuja,WhatsApp Business,Cash on Delivery,4,189600.0,0.0,Cancelled,2,
+NG-10540,2023-02-26,Home & Living,Abuja,Jumia,Transfer,3,19700.0,59100.0,Delivered,6,4.6
+NG-10541,2023-07-27,Electronics,Abuja,Konga,Cash on Delivery,3,147200.0,441600.0,Delivered,8,4.5
+NG-10542,2023-10-19,Fashion,Abuja,WhatsApp Business,Cash on Delivery,4,18800.0,0.0,Cancelled,8,
+NG-10543,2023-08-28,Beauty,Lagos,Instagram Shop,Card,2,3300.0,6600.0,Delivered,8,2.9
+NG-10544,2023-10-02,Books,Port Harcourt,Jumia,Pay on Delivery,2,4700.0,9400.0,Delivered,4,2.9
+NG-10545,2023-09-20,Electronics,Kaduna,Konga,Pay on Delivery,3,85400.0,0.0,Returned,8,
+NG-10546,2023-06-25,Fashion,Kaduna,Instagram Shop,Transfer,3,19300.0,0.0,Cancelled,4,
+NG-10547,2023-06-02,Home & Living,Lagos,WhatsApp Business,Pay on Delivery,1,12900.0,12900.0,Delivered,5,3.7
+NG-10548,2023-03-04,Beauty,Kaduna,Instagram Shop,Cash on Delivery,1,23900.0,0.0,Cancelled,3,
+NG-10549,2023-08-15,Food & Drink,Abuja,WhatsApp Business,Cash on Delivery,2,2100.0,0.0,Cancelled,8,
+NG-10550,2023-12-18,Beauty,Abuja,WhatsApp Business,Card,3,11500.0,34500.0,Delivered,6,2.6
+NG-10551,2023-03-23,Sports,Port Harcourt,Konga,Transfer,2,53100.0,0.0,Returned,5,
+NG-10552,2023-08-19,Electronics,Abuja,Jiji,Transfer,1,416000.0,416000.0,Delivered,7,2.8
+NG-10553,2023-04-04,Electronics,Abuja,WhatsApp Business,Transfer,1,130400.0,0.0,Returned,2,
+NG-10554,2023-01-10,Electronics,Kano,Instagram Shop,Pay on Delivery,1,393400.0,393400.0,Delivered,9,2.7
+NG-10555,2023-12-25,Sports,Lagos,Jiji,Card,4,46000.0,0.0,Cancelled,9,
+NG-10556,2023-09-15,Home & Living,Abuja,WhatsApp Business,Transfer,2,45800.0,0.0,Returned,9,
+NG-10557,2023-11-05,Home & Living,Abuja,Instagram Shop,Pay on Delivery,1,47000.0,47000.0,Delivered,6,4.5
+NG-10558,2023-02-25,Electronics,Abuja,Jiji,USSD,3,405400.0,0.0,Returned,7,
+NG-10559,2023-03-15,Books,Lagos,Jumia,Pay on Delivery,1,4500.0,0.0,Returned,7,
+NG-10560,2023-05-31,Fashion,Lagos,Konga,Cash on Delivery,3,17200.0,51600.0,Delivered,9,4.4
+NG-10561,2023-01-16,Food & Drink,Lagos,Konga,Cash on Delivery,4,6800.0,0.0,Cancelled,10,
+NG-10562,2023-01-06,Sports,Abuja,Konga,USSD,3,16500.0,49500.0,Delivered,3,4.5
+NG-10563,2023-03-25,Home & Living,Lagos,Konga,USSD,4,35100.0,140400.0,Delivered,10,4.1
+NG-10564,2023-06-26,Home & Living,Lagos,Instagram Shop,Card,2,70700.0,141400.0,Delivered,10,4.8
+NG-10565,2023-04-22,Electronics,Kaduna,Instagram Shop,Transfer,4,72400.0,0.0,Returned,7,
+NG-10566,2023-09-20,Beauty,Abuja,WhatsApp Business,Pay on Delivery,1,21000.0,0.0,Cancelled,1,
+NG-10567,2023-04-11,Fashion,Abuja,WhatsApp Business,Pay on Delivery,1,41700.0,0.0,Returned,9,
+NG-10568,2023-04-14,Electronics,Kaduna,Jumia,Transfer,4,379100.0,1516400.0,Delivered,2,4.5
+NG-10569,2023-08-19,Food & Drink,Kaduna,Jumia,Card,3,500.0,1500.0,Delivered,9,4.9
+NG-10570,2023-11-18,Books,Lagos,Instagram Shop,Transfer,1,3600.0,0.0,Cancelled,5,
+NG-10571,2023-05-08,Electronics,Kano,Jumia,Pay on Delivery,4,37400.0,149600.0,Delivered,7,2.7
+NG-10572,2023-11-22,Beauty,Lagos,Jiji,Pay on Delivery,4,16800.0,67200.0,Delivered,5,3.5
+NG-10573,2023-06-02,Fashion,Kano,Jumia,Cash on Delivery,2,32900.0,0.0,Cancelled,5,
+NG-10574,2023-08-09,Sports,Port Harcourt,Konga,Transfer,3,12300.0,36900.0,Delivered,3,2.8
+NG-10575,2023-05-18,Fashion,Enugu,Jumia,Pay on Delivery,3,43000.0,129000.0,Delivered,4,3.0
+NG-10576,2023-06-10,Fashion,Lagos,Jiji,Card,3,22400.0,67200.0,Delivered,1,3.7
+NG-10577,2023-10-12,Home & Living,Port Harcourt,WhatsApp Business,Pay on Delivery,4,38800.0,0.0,Returned,9,
+NG-10578,2023-11-21,Beauty,Ibadan,Jiji,Card,2,3600.0,0.0,Cancelled,10,
+NG-10579,2023-10-22,Fashion,Lagos,WhatsApp Business,Card,4,31200.0,124800.0,Delivered,6,4.6
+NG-10580,2023-03-21,Food & Drink,Lagos,Instagram Shop,Transfer,4,1800.0,0.0,Cancelled,9,
+NG-10581,2023-04-27,Fashion,Abuja,Jiji,Cash on Delivery,3,43100.0,0.0,Returned,9,
+NG-10582,2023-02-27,Books,Lagos,Instagram Shop,Cash on Delivery,4,9900.0,0.0,Cancelled,6,
+NG-10583,2023-05-27,Fashion,Kano,Jumia,Transfer,4,27200.0,108800.0,Delivered,3,3.7
+NG-10584,2023-12-28,Home & Living,Lagos,Instagram Shop,Card,2,73200.0,146400.0,Delivered,7,3.2
+NG-10585,2023-09-18,Beauty,Abuja,Instagram Shop,Transfer,3,4400.0,13200.0,Delivered,10,3.3
+NG-10586,2023-01-09,Food & Drink,Enugu,WhatsApp Business,Cash on Delivery,3,1700.0,0.0,Returned,1,
+NG-10587,2023-01-07,Beauty,Lagos,Konga,Pay on Delivery,4,14400.0,57600.0,Delivered,5,3.7
+NG-10588,2023-10-07,Books,Abuja,Jiji,Transfer,4,6200.0,24800.0,Delivered,8,2.8
+NG-10589,2023-03-18,Home & Living,Abuja,Konga,Card,1,10500.0,0.0,Cancelled,6,
+NG-10590,2023-07-07,Beauty,Abuja,Jiji,Transfer,3,9100.0,0.0,Cancelled,3,
+NG-10591,2023-01-03,Books,Ibadan,WhatsApp Business,Cash on Delivery,2,2800.0,5600.0,Delivered,8,3.4
+NG-10592,2023-07-27,Books,Lagos,WhatsApp Business,Transfer,3,1800.0,5400.0,Delivered,9,3.4
+NG-10593,2023-12-22,Electronics,Lagos,Instagram Shop,Card,2,265000.0,530000.0,Delivered,7,3.3
+NG-10594,2023-01-27,Food & Drink,Kaduna,WhatsApp Business,Card,2,7500.0,15000.0,Delivered,8,3.0
+NG-10595,2023-07-16,Books,Lagos,Instagram Shop,Pay on Delivery,2,2000.0,4000.0,Delivered,5,4.6
+NG-10596,2023-12-18,Food & Drink,Enugu,Jiji,Card,1,4900.0,0.0,Returned,9,
+NG-10597,2023-08-08,Home & Living,Abuja,Jumia,USSD,4,65000.0,260000.0,Delivered,3,3.2
+NG-10598,2023-02-19,Food & Drink,Kaduna,Instagram Shop,Card,1,7000.0,7000.0,Delivered,8,4.3
+NG-10599,2023-11-09,Books,Abuja,Jiji,Transfer,3,11600.0,0.0,Cancelled,9,
+NG-10600,2023-01-21,Electronics,Lagos,Jumia,Transfer,4,495000.0,0.0,Returned,10,
+NG-10601,2023-12-07,Food & Drink,Enugu,WhatsApp Business,Transfer,1,6900.0,0.0,Returned,10,
+NG-10602,2023-03-10,Beauty,Ibadan,Jiji,Cash on Delivery,2,7100.0,14200.0,Delivered,5,2.6
+NG-10603,2023-10-10,Books,Ibadan,Jumia,Card,3,8800.0,26400.0,Delivered,6,4.7
+NG-10604,2023-08-29,Food & Drink,Kano,Konga,Transfer,2,6000.0,0.0,Cancelled,6,
+NG-10605,2023-08-08,Fashion,Lagos,WhatsApp Business,USSD,3,35800.0,0.0,Returned,2,
+NG-10606,2023-08-14,Beauty,Lagos,Jumia,Card,1,14300.0,0.0,Cancelled,3,
+NG-10607,2023-03-31,Beauty,Port Harcourt,Jumia,Cash on Delivery,4,9400.0,0.0,Returned,8,
+NG-10608,2023-10-29,Electronics,Port Harcourt,Konga,Card,3,381300.0,0.0,Cancelled,4,
+NG-10609,2023-02-15,Food & Drink,Lagos,Instagram Shop,Pay on Delivery,3,3400.0,0.0,Returned,8,
+NG-10610,2023-11-17,Electronics,Port Harcourt,Jumia,USSD,2,217300.0,0.0,Cancelled,8,
+NG-10611,2023-07-03,Beauty,Enugu,Konga,Pay on Delivery,3,22200.0,0.0,Returned,10,
+NG-10612,2023-04-04,Food & Drink,Abuja,Instagram Shop,Card,3,800.0,2400.0,Delivered,5,3.5
+NG-10613,2023-01-31,Books,Lagos,WhatsApp Business,Card,4,7300.0,29200.0,Delivered,5,3.7
+NG-10614,2023-04-01,Home & Living,Lagos,WhatsApp Business,Transfer,3,70800.0,212400.0,Delivered,6,3.7
+NG-10615,2023-06-18,Electronics,Abuja,Jumia,USSD,3,461600.0,1384800.0,Delivered,6,2.9
+NG-10616,2023-06-06,Beauty,Ibadan,Jiji,Pay on Delivery,2,8400.0,16800.0,Delivered,9,3.9
+NG-10617,2023-04-17,Fashion,Lagos,Instagram Shop,Transfer,4,6400.0,0.0,Returned,4,
+NG-10618,2023-10-01,Books,Kano,Jumia,Card,2,10700.0,21400.0,Delivered,6,4.9
+NG-10619,2023-09-23,Beauty,Port Harcourt,Jiji,Pay on Delivery,1,3900.0,3900.0,Delivered,10,4.8
+NG-10620,2023-05-28,Home & Living,Lagos,Jiji,Transfer,4,15800.0,0.0,Returned,5,
+NG-10621,2023-09-27,Fashion,Lagos,WhatsApp Business,Card,2,12900.0,0.0,Cancelled,2,
+NG-10622,2023-09-29,Fashion,Lagos,Konga,USSD,2,38700.0,77400.0,Delivered,10,4.3
+NG-10623,2023-09-22,Home & Living,Abuja,Konga,Card,4,64400.0,257600.0,Delivered,6,5.0
+NG-10624,2023-12-07,Beauty,Kano,WhatsApp Business,USSD,3,19900.0,59700.0,Delivered,3,4.5
+NG-10625,2023-07-20,Beauty,Kano,Jiji,Card,4,24800.0,99200.0,Delivered,4,4.5
+NG-10626,2023-02-02,Sports,Abuja,WhatsApp Business,Pay on Delivery,4,8400.0,33600.0,Delivered,3,2.5
+NG-10627,2023-12-30,Sports,Lagos,Konga,USSD,4,36500.0,0.0,Cancelled,5,
+NG-10628,2023-07-01,Sports,Lagos,Konga,Card,4,14300.0,57200.0,Delivered,3,3.9
+NG-10629,2023-05-28,Fashion,Kano,Jumia,Card,4,38800.0,155200.0,Delivered,7,3.5
+NG-10630,2023-07-24,Books,Lagos,Jumia,Cash on Delivery,4,6700.0,0.0,Returned,6,
+NG-10631,2023-08-14,Fashion,Abuja,Jumia,USSD,1,8500.0,0.0,Returned,8,
+NG-10632,2023-03-03,Beauty,Abuja,WhatsApp Business,USSD,3,10100.0,0.0,Cancelled,2,
+NG-10633,2023-12-25,Books,Kano,Jiji,USSD,4,8900.0,35600.0,Delivered,3,3.2
+NG-10634,2023-09-24,Home & Living,Kaduna,Konga,Pay on Delivery,3,40200.0,0.0,Cancelled,6,
+NG-10635,2023-07-28,Fashion,Abuja,Konga,USSD,4,13600.0,0.0,Returned,5,
+NG-10636,2023-02-07,Food & Drink,Abuja,Jiji,Cash on Delivery,4,7200.0,0.0,Returned,10,
+NG-10637,2023-10-09,Sports,Abuja,WhatsApp Business,Card,1,14200.0,0.0,Cancelled,1,
+NG-10638,2023-03-28,Home & Living,Lagos,Instagram Shop,Pay on Delivery,1,64200.0,0.0,Cancelled,7,
+NG-10639,2023-04-26,Books,Enugu,Jiji,Card,1,11400.0,11400.0,Delivered,6,4.0
+NG-10640,2023-06-27,Electronics,Abuja,Instagram Shop,Pay on Delivery,3,96100.0,0.0,Cancelled,3,
+NG-10641,2023-03-30,Food & Drink,Lagos,WhatsApp Business,Transfer,2,4300.0,8600.0,Delivered,10,3.1
+NG-10642,2023-12-11,Electronics,Lagos,Jiji,Transfer,2,342200.0,684400.0,Delivered,3,4.0
+NG-10643,2023-08-04,Books,Kano,Jumia,Transfer,1,5100.0,5100.0,Delivered,7,3.9
+NG-10644,2023-09-14,Home & Living,Lagos,Jiji,Transfer,2,33900.0,67800.0,Delivered,4,3.5
+NG-10645,2023-08-08,Home & Living,Benin City,Jiji,Transfer,1,51700.0,0.0,Returned,8,
+NG-10646,2023-12-09,Books,Lagos,Jumia,Card,3,11300.0,0.0,Cancelled,10,
+NG-10647,2023-09-08,Sports,Lagos,WhatsApp Business,USSD,4,12600.0,0.0,Returned,7,
+NG-10648,2023-02-25,Fashion,Port Harcourt,WhatsApp Business,Card,3,43500.0,130500.0,Delivered,3,2.8
+NG-10649,2023-07-07,Beauty,Lagos,WhatsApp Business,Pay on Delivery,2,23400.0,0.0,Cancelled,10,
+NG-10650,2023-12-20,Home & Living,Enugu,Jumia,Card,3,15400.0,0.0,Returned,6,
+NG-10651,2023-05-09,Beauty,Abuja,Jiji,Cash on Delivery,1,23800.0,23800.0,Delivered,6,3.4
+NG-10652,2023-08-14,Beauty,Lagos,WhatsApp Business,Transfer,1,2100.0,2100.0,Delivered,2,4.1
+NG-10653,2023-11-12,Beauty,Kano,Konga,USSD,3,4200.0,12600.0,Delivered,3,4.2
+NG-10654,2023-12-14,Food & Drink,Enugu,Instagram Shop,Card,1,3900.0,0.0,Returned,8,
+NG-10655,2023-04-08,Beauty,Enugu,Jiji,Cash on Delivery,2,10600.0,0.0,Returned,6,
+NG-10656,2023-12-30,Electronics,Abuja,Konga,Transfer,4,414900.0,0.0,Returned,6,
+NG-10657,2023-08-20,Electronics,Abuja,Konga,Cash on Delivery,2,229500.0,459000.0,Delivered,8,3.4
+NG-10658,2023-10-14,Fashion,Lagos,Jumia,USSD,3,20300.0,60900.0,Delivered,9,3.8
+NG-10659,2023-12-31,Food & Drink,Benin City,Konga,Cash on Delivery,4,3300.0,0.0,Returned,10,
+NG-10660,2023-11-30,Home & Living,Kano,Jiji,Pay on Delivery,3,34200.0,0.0,Cancelled,10,
+NG-10661,2023-07-13,Books,Kaduna,Jiji,Cash on Delivery,1,6100.0,6100.0,Delivered,6,3.3
+NG-10662,2023-03-23,Sports,Kano,Instagram Shop,Cash on Delivery,2,56000.0,0.0,Returned,6,
+NG-10663,2023-07-19,Home & Living,Ibadan,Konga,USSD,1,69900.0,0.0,Cancelled,9,
+NG-10664,2023-09-27,Books,Kaduna,Jumia,Cash on Delivery,2,9800.0,0.0,Returned,6,
+NG-10665,2023-10-20,Fashion,Lagos,Konga,Card,2,37500.0,0.0,Cancelled,8,
+NG-10666,2023-06-21,Sports,Lagos,Konga,Card,3,49900.0,0.0,Returned,1,
+NG-10667,2023-11-10,Home & Living,Lagos,Jumia,Pay on Delivery,2,41100.0,82200.0,Delivered,6,5.0
+NG-10668,2023-05-03,Electronics,Kano,Jiji,Card,2,201900.0,0.0,Cancelled,9,
+NG-10669,2023-06-27,Food & Drink,Lagos,Jumia,USSD,2,4100.0,8200.0,Delivered,1,4.7
+NG-10670,2023-02-02,Fashion,Lagos,Konga,Card,4,15500.0,62000.0,Delivered,4,4.6
+NG-10671,2023-04-27,Beauty,Lagos,Instagram Shop,Cash on Delivery,4,17700.0,0.0,Returned,8,
+NG-10672,2023-07-19,Beauty,Lagos,Jiji,Transfer,2,9100.0,18200.0,Delivered,4,3.2
+NG-10673,2023-08-02,Fashion,Abuja,WhatsApp Business,USSD,4,7300.0,29200.0,Delivered,6,4.5
+NG-10674,2023-04-19,Sports,Enugu,Jiji,USSD,1,19700.0,19700.0,Delivered,10,2.9
+NG-10675,2023-11-18,Beauty,Kano,Jumia,Transfer,1,14300.0,0.0,Cancelled,8,
+NG-10676,2023-06-16,Home & Living,Lagos,Instagram Shop,Card,3,25600.0,0.0,Returned,3,
+NG-10677,2023-02-02,Electronics,Abuja,Instagram Shop,Transfer,1,99400.0,99400.0,Delivered,8,3.2
+NG-10678,2023-11-19,Food & Drink,Abuja,WhatsApp Business,Card,1,6100.0,6100.0,Delivered,9,2.5
+NG-10679,2023-11-15,Home & Living,Enugu,Jumia,USSD,2,79700.0,159400.0,Delivered,9,4.5
+NG-10680,2023-02-15,Food & Drink,Abuja,WhatsApp Business,Cash on Delivery,3,6400.0,19200.0,Delivered,7,3.2
+NG-10681,2023-11-23,Fashion,Lagos,Jiji,Cash on Delivery,1,41000.0,41000.0,Delivered,10,3.8
+NG-10682,2023-02-18,Sports,Abuja,Jiji,Card,1,35200.0,35200.0,Delivered,4,4.8
+NG-10683,2023-04-18,Sports,Kano,WhatsApp Business,USSD,2,58100.0,0.0,Returned,10,
+NG-10684,2023-01-17,Fashion,Abuja,Instagram Shop,Transfer,1,16400.0,16400.0,Delivered,7,4.2
+NG-10685,2023-06-13,Food & Drink,Lagos,Jumia,Pay on Delivery,4,6200.0,24800.0,Delivered,10,3.2
+NG-10686,2023-05-05,Beauty,Lagos,Jumia,Transfer,1,13200.0,13200.0,Delivered,2,3.9
+NG-10687,2023-04-15,Food & Drink,Lagos,Konga,Cash on Delivery,1,3000.0,0.0,Returned,6,
+NG-10688,2023-11-12,Books,Abuja,WhatsApp Business,USSD,3,6200.0,0.0,Cancelled,10,
+NG-10689,2023-03-15,Home & Living,Enugu,Konga,Card,1,22200.0,22200.0,Delivered,2,2.7
+NG-10690,2023-03-21,Books,Ibadan,Konga,USSD,3,11000.0,0.0,Cancelled,9,
+NG-10691,2023-06-21,Food & Drink,Abuja,WhatsApp Business,Card,1,3700.0,0.0,Cancelled,8,
+NG-10692,2023-10-01,Beauty,Lagos,Instagram Shop,Card,1,8700.0,8700.0,Delivered,4,2.8
+NG-10693,2023-04-27,Fashion,Lagos,Konga,Card,1,9000.0,9000.0,Delivered,10,4.4
+NG-10694,2023-08-21,Beauty,Kano,Jiji,Transfer,4,19000.0,0.0,Cancelled,4,
+NG-10695,2023-08-06,Sports,Lagos,Jumia,Cash on Delivery,3,33000.0,99000.0,Delivered,7,4.7
+NG-10696,2023-12-28,Sports,Lagos,Jiji,Cash on Delivery,3,44400.0,0.0,Cancelled,1,
+NG-10697,2023-04-13,Sports,Ibadan,Jumia,Cash on Delivery,4,43400.0,173600.0,Delivered,4,3.6
+NG-10698,2023-05-30,Home & Living,Lagos,Konga,Card,1,47200.0,47200.0,Delivered,4,2.5
+NG-10699,2023-11-12,Beauty,Lagos,WhatsApp Business,USSD,4,23400.0,93600.0,Delivered,10,3.5
+NG-10700,2023-11-18,Home & Living,Abuja,Jiji,Transfer,4,67800.0,271200.0,Delivered,9,4.7
+NG-10701,2023-07-17,Food & Drink,Lagos,Instagram Shop,Transfer,3,600.0,1800.0,Delivered,8,2.8
+NG-10702,2023-12-25,Beauty,Port Harcourt,Jiji,Pay on Delivery,4,4000.0,16000.0,Delivered,2,2.7
+NG-10703,2023-08-22,Food & Drink,Kaduna,Konga,Card,3,5300.0,15900.0,Delivered,1,3.6
+NG-10704,2023-05-08,Sports,Lagos,Instagram Shop,Cash on Delivery,4,24400.0,97600.0,Delivered,5,3.3
+NG-10705,2023-11-16,Electronics,Abuja,Jumia,Transfer,2,313300.0,0.0,Cancelled,5,
+NG-10706,2023-05-25,Electronics,Kano,Instagram Shop,USSD,3,241100.0,0.0,Cancelled,5,
+NG-10707,2023-06-16,Books,Ibadan,Jumia,Transfer,3,11800.0,0.0,Returned,4,
+NG-10708,2023-10-21,Electronics,Lagos,Jumia,Pay on Delivery,1,56000.0,0.0,Returned,3,
+NG-10709,2023-11-06,Food & Drink,Abuja,Jiji,Transfer,4,5800.0,23200.0,Delivered,10,4.6
+NG-10710,2023-07-08,Food & Drink,Abuja,Instagram Shop,USSD,4,3700.0,0.0,Returned,8,
+NG-10711,2023-01-30,Books,Abuja,WhatsApp Business,Pay on Delivery,4,3000.0,12000.0,Delivered,8,4.7
+NG-10712,2023-05-04,Beauty,Abuja,Jiji,Card,2,4900.0,9800.0,Delivered,10,2.6
+NG-10713,2023-10-07,Beauty,Abuja,Konga,Pay on Delivery,2,18300.0,36600.0,Delivered,2,3.6
+NG-10714,2023-05-28,Fashion,Lagos,Konga,Pay on Delivery,1,12300.0,12300.0,Delivered,1,3.9
+NG-10715,2023-04-02,Beauty,Lagos,Instagram Shop,USSD,3,12000.0,36000.0,Delivered,2,4.9
+NG-10716,2023-03-15,Home & Living,Ibadan,WhatsApp Business,USSD,2,11500.0,23000.0,Delivered,8,4.8
+NG-10717,2023-02-22,Sports,Lagos,Jumia,USSD,3,58000.0,174000.0,Delivered,2,2.9
+NG-10718,2023-04-11,Electronics,Benin City,Konga,Pay on Delivery,4,371200.0,0.0,Cancelled,10,
+NG-10719,2023-11-23,Food & Drink,Abuja,Instagram Shop,Cash on Delivery,4,2500.0,10000.0,Delivered,9,2.6
+NG-10720,2023-05-11,Books,Lagos,Jiji,Transfer,3,8100.0,24300.0,Delivered,4,3.1
+NG-10721,2023-11-18,Beauty,Lagos,Konga,Pay on Delivery,4,17400.0,69600.0,Delivered,6,3.3
+NG-10722,2023-07-20,Sports,Port Harcourt,Instagram Shop,Card,2,21900.0,0.0,Cancelled,2,
+NG-10723,2023-11-18,Beauty,Kano,Jiji,USSD,4,8600.0,0.0,Cancelled,1,
+NG-10724,2023-08-17,Home & Living,Kaduna,WhatsApp Business,Card,4,47700.0,190800.0,Delivered,5,2.8
+NG-10725,2023-01-06,Sports,Benin City,WhatsApp Business,Pay on Delivery,1,36700.0,36700.0,Delivered,3,3.8
+NG-10726,2023-02-16,Electronics,Benin City,Jumia,Cash on Delivery,2,490400.0,0.0,Returned,1,
+NG-10727,2023-01-01,Electronics,Kano,Jumia,Cash on Delivery,2,143200.0,286400.0,Delivered,2,4.8
+NG-10728,2023-07-13,Home & Living,Lagos,Jiji,USSD,4,25600.0,0.0,Returned,8,
+NG-10729,2023-09-27,Fashion,Abuja,Instagram Shop,Pay on Delivery,4,18600.0,74400.0,Delivered,5,4.7
+NG-10730,2023-01-04,Food & Drink,Port Harcourt,Instagram Shop,Transfer,1,5200.0,5200.0,Delivered,3,2.9
+NG-10731,2023-09-09,Books,Enugu,Konga,Card,4,4300.0,0.0,Returned,6,
+NG-10732,2023-03-27,Beauty,Ibadan,Konga,USSD,2,20500.0,41000.0,Delivered,6,2.6
+NG-10733,2023-02-17,Beauty,Lagos,Instagram Shop,Transfer,1,10300.0,10300.0,Delivered,5,4.6
+NG-10734,2023-09-29,Books,Lagos,WhatsApp Business,Pay on Delivery,1,10100.0,0.0,Returned,9,
+NG-10735,2023-03-20,Books,Abuja,Jiji,USSD,4,5000.0,20000.0,Delivered,4,4.4
+NG-10736,2023-05-08,Sports,Port Harcourt,Jiji,Transfer,4,40000.0,160000.0,Delivered,10,3.6
+NG-10737,2023-03-21,Books,Abuja,Jiji,Transfer,1,5900.0,0.0,Returned,3,
+NG-10738,2023-12-10,Sports,Ibadan,Jiji,Card,4,19900.0,79600.0,Delivered,3,5.0
+NG-10739,2023-04-06,Sports,Abuja,WhatsApp Business,Cash on Delivery,4,25800.0,103200.0,Delivered,5,2.5
+NG-10740,2023-05-15,Home & Living,Lagos,Konga,Transfer,3,70000.0,210000.0,Delivered,10,3.4
+NG-10741,2023-06-28,Electronics,Kano,Konga,Transfer,3,378100.0,1134300.0,Delivered,9,4.6
+NG-10742,2023-05-25,Books,Ibadan,Konga,USSD,2,5700.0,11400.0,Delivered,5,4.1
+NG-10743,2023-04-26,Sports,Kaduna,Konga,Cash on Delivery,3,13000.0,39000.0,Delivered,4,4.9
+NG-10744,2023-04-06,Food & Drink,Port Harcourt,Instagram Shop,Cash on Delivery,1,7200.0,0.0,Returned,2,
+NG-10745,2023-07-16,Home & Living,Abuja,Instagram Shop,USSD,2,68000.0,136000.0,Delivered,10,4.6
+NG-10746,2023-07-22,Home & Living,Kano,Konga,USSD,4,59000.0,0.0,Returned,6,
+NG-10747,2023-12-21,Fashion,Abuja,WhatsApp Business,Pay on Delivery,2,11000.0,0.0,Returned,8,
+NG-10748,2023-06-20,Fashion,Port Harcourt,Jumia,Pay on Delivery,2,40500.0,81000.0,Delivered,6,3.8
+NG-10749,2023-03-25,Food & Drink,Abuja,WhatsApp Business,Pay on Delivery,2,5300.0,0.0,Returned,3,
+NG-10750,2023-11-20,Food & Drink,Kano,Instagram Shop,Pay on Delivery,3,6800.0,20400.0,Delivered,3,4.6
+NG-10751,2023-04-27,Food & Drink,Lagos,WhatsApp Business,Cash on Delivery,1,2100.0,0.0,Returned,8,
+NG-10752,2023-05-27,Beauty,Abuja,Instagram Shop,Card,1,3900.0,3900.0,Delivered,10,3.7
+NG-10753,2023-03-11,Food & Drink,Abuja,Jumia,Cash on Delivery,1,6400.0,0.0,Returned,7,
+NG-10754,2023-09-20,Electronics,Lagos,Jiji,Card,1,133400.0,133400.0,Delivered,5,4.1
+NG-10755,2023-02-03,Electronics,Benin City,Konga,Cash on Delivery,4,498500.0,0.0,Cancelled,5,
+NG-10756,2023-01-02,Electronics,Lagos,Jiji,Card,1,335700.0,0.0,Cancelled,1,
+NG-10757,2023-12-20,Books,Ibadan,Instagram Shop,USSD,4,6600.0,26400.0,Delivered,4,4.7
+NG-10758,2023-09-25,Electronics,Ibadan,Jumia,Transfer,3,270200.0,0.0,Returned,2,
+NG-10759,2023-01-21,Electronics,Enugu,Jiji,Card,3,34100.0,102300.0,Delivered,4,4.1
+NG-10760,2023-12-22,Food & Drink,Benin City,Jiji,Transfer,1,4200.0,4200.0,Delivered,3,4.1
+NG-10761,2023-11-04,Fashion,Lagos,WhatsApp Business,Transfer,1,12000.0,0.0,Cancelled,6,
+NG-10762,2023-08-01,Electronics,Abuja,WhatsApp Business,Card,4,119100.0,476400.0,Delivered,4,3.5
+NG-10763,2023-03-17,Sports,Enugu,WhatsApp Business,Card,3,8900.0,26700.0,Delivered,3,4.8
+NG-10764,2023-08-29,Books,Lagos,WhatsApp Business,Cash on Delivery,3,2500.0,0.0,Cancelled,7,
+NG-10765,2023-06-12,Sports,Lagos,WhatsApp Business,Transfer,1,52900.0,0.0,Cancelled,2,
+NG-10766,2023-06-17,Beauty,Kano,WhatsApp Business,Card,1,2600.0,2600.0,Delivered,3,3.1
+NG-10767,2023-05-18,Beauty,Ibadan,Jumia,Card,2,13000.0,26000.0,Delivered,5,2.9
+NG-10768,2023-11-17,Food & Drink,Abuja,Konga,Card,4,3700.0,0.0,Returned,2,
+NG-10769,2023-06-10,Home & Living,Port Harcourt,Jumia,Cash on Delivery,4,48400.0,193600.0,Delivered,8,4.4
+NG-10770,2023-04-25,Beauty,Lagos,WhatsApp Business,Card,2,7400.0,0.0,Returned,9,
+NG-10771,2023-04-04,Food & Drink,Lagos,Jiji,USSD,2,3500.0,7000.0,Delivered,5,3.6
+NG-10772,2023-01-10,Beauty,Port Harcourt,Konga,Transfer,1,7100.0,7100.0,Delivered,10,3.0
+NG-10773,2023-02-14,Electronics,Lagos,Konga,USSD,2,339700.0,0.0,Cancelled,3,
+NG-10774,2023-04-15,Electronics,Kaduna,Jumia,Card,2,15100.0,30200.0,Delivered,7,2.9
+NG-10775,2023-11-30,Home & Living,Kano,Konga,Pay on Delivery,2,43600.0,0.0,Cancelled,7,
+NG-10776,2023-05-04,Sports,Abuja,Jumia,Cash on Delivery,3,20000.0,60000.0,Delivered,4,2.6
+NG-10777,2023-03-04,Fashion,Abuja,Jumia,Transfer,4,27000.0,108000.0,Delivered,3,4.4
+NG-10778,2023-03-06,Food & Drink,Kaduna,WhatsApp Business,Cash on Delivery,1,6400.0,0.0,Returned,9,
+NG-10779,2023-06-19,Fashion,Port Harcourt,Jumia,Cash on Delivery,1,42600.0,42600.0,Delivered,10,4.0
+NG-10780,2023-09-02,Beauty,Abuja,WhatsApp Business,Cash on Delivery,2,12400.0,0.0,Cancelled,9,
+NG-10781,2023-05-21,Beauty,Kano,Jiji,Card,2,16100.0,0.0,Cancelled,5,
+NG-10782,2023-10-12,Fashion,Kaduna,Konga,Transfer,4,38400.0,153600.0,Delivered,7,4.5
+NG-10783,2023-01-28,Fashion,Enugu,Jumia,Card,3,16800.0,50400.0,Delivered,4,4.5
+NG-10784,2023-03-19,Home & Living,Abuja,Konga,Transfer,4,14300.0,57200.0,Delivered,9,4.4
+NG-10785,2023-02-07,Books,Lagos,Konga,USSD,1,4400.0,4400.0,Delivered,8,4.6
+NG-10786,2023-11-02,Food & Drink,Abuja,Jumia,Pay on Delivery,3,2800.0,8400.0,Delivered,8,2.8
+NG-10787,2023-09-20,Fashion,Lagos,Instagram Shop,Cash on Delivery,4,37800.0,0.0,Cancelled,6,
+NG-10788,2023-01-27,Food & Drink,Benin City,Instagram Shop,Card,4,6400.0,25600.0,Delivered,1,2.6
+NG-10789,2023-03-03,Electronics,Kano,Instagram Shop,Transfer,4,434400.0,0.0,Returned,1,
+NG-10790,2023-04-09,Food & Drink,Kano,Instagram Shop,Cash on Delivery,4,2900.0,11600.0,Delivered,8,4.0
+NG-10791,2023-07-04,Books,Kano,Instagram Shop,USSD,1,2000.0,0.0,Cancelled,6,
+NG-10792,2023-02-27,Electronics,Abuja,Konga,Cash on Delivery,1,433300.0,433300.0,Delivered,10,2.6
+NG-10793,2023-06-12,Electronics,Abuja,Jumia,USSD,4,347200.0,1388800.0,Delivered,8,4.6
+NG-10794,2023-08-06,Books,Ibadan,Jiji,USSD,3,8500.0,25500.0,Delivered,5,3.6
+NG-10795,2023-05-28,Food & Drink,Lagos,Konga,USSD,4,3500.0,14000.0,Delivered,5,3.8
+NG-10796,2023-06-27,Books,Lagos,Konga,Pay on Delivery,2,3700.0,7400.0,Delivered,3,4.3
+NG-10797,2023-12-07,Home & Living,Enugu,Jumia,Cash on Delivery,4,45200.0,0.0,Returned,2,
+NG-10798,2023-07-27,Sports,Kaduna,Jumia,Transfer,3,36200.0,108600.0,Delivered,8,2.6
+NG-10799,2023-05-23,Beauty,Lagos,WhatsApp Business,Pay on Delivery,1,10200.0,0.0,Returned,9,
+NG-10800,2023-12-23,Sports,Lagos,Jiji,USSD,3,19800.0,59400.0,Delivered,6,2.6
+NG-10801,2023-04-28,Beauty,Port Harcourt,WhatsApp Business,Cash on Delivery,2,15700.0,31400.0,Delivered,9,3.5
+NG-10802,2023-08-10,Books,Lagos,WhatsApp Business,Pay on Delivery,1,2400.0,0.0,Cancelled,5,
+NG-10803,2023-08-26,Food & Drink,Lagos,Jumia,Transfer,2,4800.0,9600.0,Delivered,8,3.0
+NG-10804,2023-12-09,Home & Living,Benin City,Instagram Shop,Transfer,3,69100.0,0.0,Returned,2,
+NG-10805,2023-12-16,Food & Drink,Kano,Jumia,Transfer,4,4100.0,0.0,Returned,2,
+NG-10806,2023-03-31,Beauty,Lagos,Jiji,Card,3,13700.0,41100.0,Delivered,9,3.5
+NG-10807,2023-12-11,Home & Living,Kano,Jiji,Pay on Delivery,4,19200.0,0.0,Cancelled,1,
+NG-10808,2023-05-18,Beauty,Abuja,Jiji,Card,1,8800.0,8800.0,Delivered,4,3.7
+NG-10809,2023-01-21,Fashion,Lagos,Jumia,Card,3,10200.0,30600.0,Delivered,6,4.6
+NG-10810,2023-12-04,Electronics,Port Harcourt,Jumia,Transfer,2,290300.0,580600.0,Delivered,10,3.2
+NG-10811,2023-07-02,Food & Drink,Abuja,Konga,Transfer,3,1000.0,3000.0,Delivered,7,3.3
+NG-10812,2023-06-19,Home & Living,Benin City,Instagram Shop,Transfer,3,63000.0,189000.0,Delivered,9,4.0
+NG-10813,2023-01-08,Beauty,Kaduna,Konga,Card,4,3100.0,12400.0,Delivered,8,3.2
+NG-10814,2023-01-03,Food & Drink,Lagos,Jiji,Transfer,3,1000.0,3000.0,Delivered,10,3.1
+NG-10815,2023-10-13,Sports,Port Harcourt,Jiji,Transfer,3,19500.0,58500.0,Delivered,4,3.4
+NG-10816,2023-11-06,Fashion,Lagos,Jumia,USSD,2,13900.0,0.0,Cancelled,1,
+NG-10817,2023-08-28,Fashion,Lagos,Konga,Transfer,2,38300.0,76600.0,Delivered,1,3.1
+NG-10818,2023-10-19,Electronics,Kano,Instagram Shop,USSD,3,30900.0,92700.0,Delivered,9,3.1
+NG-10819,2023-05-24,Beauty,Lagos,Jiji,Pay on Delivery,4,5500.0,22000.0,Delivered,2,3.3
+NG-10820,2023-10-12,Food & Drink,Kano,Jumia,Transfer,1,1800.0,1800.0,Delivered,8,3.4
+NG-10821,2023-09-01,Home & Living,Port Harcourt,Instagram Shop,Pay on Delivery,2,57600.0,115200.0,Delivered,2,4.4
+NG-10822,2023-08-12,Books,Abuja,Konga,Transfer,1,4100.0,0.0,Returned,6,
+NG-10823,2023-03-01,Home & Living,Lagos,Jiji,Cash on Delivery,1,12200.0,12200.0,Delivered,6,4.0
+NG-10824,2023-06-22,Electronics,Lagos,Jumia,Card,1,109100.0,109100.0,Delivered,5,4.9
+NG-10825,2023-12-26,Fashion,Abuja,WhatsApp Business,USSD,3,25600.0,76800.0,Delivered,8,2.7
+NG-10826,2023-12-03,Fashion,Lagos,Konga,Pay on Delivery,4,25200.0,0.0,Returned,4,
+NG-10827,2023-01-20,Sports,Kaduna,WhatsApp Business,USSD,4,44000.0,176000.0,Delivered,4,4.2
+NG-10828,2023-06-21,Sports,Lagos,Konga,Cash on Delivery,2,25600.0,51200.0,Delivered,6,4.1
+NG-10829,2023-01-16,Electronics,Abuja,WhatsApp Business,Cash on Delivery,1,278800.0,278800.0,Delivered,7,4.0
+NG-10830,2023-07-20,Sports,Kano,Instagram Shop,Transfer,2,45900.0,91800.0,Delivered,6,3.9
+NG-10831,2023-01-11,Fashion,Ibadan,WhatsApp Business,Cash on Delivery,2,28400.0,56800.0,Delivered,4,4.8
+NG-10832,2023-12-01,Food & Drink,Lagos,Jumia,Cash on Delivery,1,5800.0,5800.0,Delivered,2,2.5
+NG-10833,2023-01-28,Books,Kano,WhatsApp Business,Cash on Delivery,3,3400.0,10200.0,Delivered,5,2.5
+NG-10834,2023-11-16,Food & Drink,Enugu,Instagram Shop,Transfer,2,5000.0,0.0,Returned,8,
+NG-10835,2023-08-18,Food & Drink,Enugu,Jiji,Pay on Delivery,3,4300.0,12900.0,Delivered,1,4.0
+NG-10836,2023-01-16,Books,Lagos,Instagram Shop,Cash on Delivery,3,10300.0,30900.0,Delivered,1,3.3
+NG-10837,2023-08-31,Books,Ibadan,Instagram Shop,Transfer,2,9300.0,18600.0,Delivered,7,3.9
+NG-10838,2023-11-22,Food & Drink,Port Harcourt,Instagram Shop,USSD,2,5200.0,10400.0,Delivered,10,2.9
+NG-10839,2023-02-23,Sports,Lagos,Jumia,Transfer,4,19200.0,0.0,Returned,4,
+NG-10840,2023-11-27,Food & Drink,Abuja,Jiji,Pay on Delivery,4,4200.0,16800.0,Delivered,7,5.0
+NG-10841,2023-10-28,Books,Lagos,Jiji,USSD,3,8000.0,24000.0,Delivered,5,3.6
+NG-10842,2023-12-29,Home & Living,Kano,Jiji,Pay on Delivery,1,42200.0,0.0,Cancelled,8,
+NG-10843,2023-07-03,Sports,Lagos,Jumia,Pay on Delivery,3,9400.0,0.0,Cancelled,3,
+NG-10844,2023-04-05,Home & Living,Lagos,Jiji,Card,3,67000.0,201000.0,Delivered,8,2.9
+NG-10845,2023-12-27,Home & Living,Lagos,Jumia,Cash on Delivery,3,26900.0,0.0,Cancelled,8,
+NG-10846,2023-02-07,Books,Lagos,Instagram Shop,Cash on Delivery,3,11900.0,35700.0,Delivered,4,3.1
+NG-10847,2023-09-07,Home & Living,Lagos,Jiji,USSD,2,74300.0,148600.0,Delivered,4,5.0
+NG-10848,2023-01-06,Food & Drink,Ibadan,WhatsApp Business,Card,2,7000.0,14000.0,Delivered,9,3.4
+NG-10849,2023-01-13,Home & Living,Abuja,Konga,Card,1,39100.0,39100.0,Delivered,2,2.8
+NG-10850,2023-05-29,Electronics,Port Harcourt,Jiji,USSD,4,146600.0,586400.0,Delivered,8,3.6
+NG-10851,2023-08-15,Electronics,Lagos,Jiji,Card,1,441400.0,441400.0,Delivered,5,3.5
+NG-10852,2023-07-16,Books,Kaduna,Jiji,Pay on Delivery,2,3400.0,6800.0,Delivered,9,3.1
+NG-10853,2023-03-04,Electronics,Lagos,Jiji,Pay on Delivery,4,244300.0,977200.0,Delivered,8,2.9
+NG-10854,2023-03-11,Sports,Benin City,Instagram Shop,Cash on Delivery,2,4600.0,0.0,Returned,7,
+NG-10855,2023-12-31,Sports,Kano,Jumia,Card,2,9900.0,19800.0,Delivered,5,3.2
+NG-10856,2023-10-13,Home & Living,Kano,WhatsApp Business,Transfer,4,33400.0,133600.0,Delivered,10,4.5
+NG-10857,2023-07-20,Sports,Kano,Jumia,Pay on Delivery,2,6400.0,12800.0,Delivered,2,4.1
+NG-10858,2023-09-24,Food & Drink,Abuja,Jiji,Pay on Delivery,2,1100.0,0.0,Returned,3,
+NG-10859,2023-03-14,Fashion,Abuja,WhatsApp Business,Transfer,3,10500.0,31500.0,Delivered,2,3.6
+NG-10860,2023-06-15,Home & Living,Kano,Jiji,Card,4,64300.0,0.0,Returned,9,
+NG-10861,2023-07-12,Fashion,Port Harcourt,Instagram Shop,Cash on Delivery,3,30700.0,0.0,Cancelled,2,
+NG-10862,2023-10-25,Home & Living,Lagos,Jiji,USSD,1,13600.0,13600.0,Delivered,9,2.5
+NG-10863,2023-10-17,Food & Drink,Enugu,Jumia,Cash on Delivery,4,2000.0,0.0,Cancelled,2,
+NG-10864,2023-07-24,Beauty,Abuja,Konga,Pay on Delivery,3,18300.0,54900.0,Delivered,9,3.4
+NG-10865,2023-10-02,Home & Living,Lagos,Konga,Transfer,4,49000.0,196000.0,Delivered,7,4.7
+NG-10866,2023-06-25,Electronics,Ibadan,WhatsApp Business,USSD,3,319600.0,958800.0,Delivered,7,3.0
+NG-10867,2023-11-04,Fashion,Abuja,Jumia,USSD,4,30200.0,120800.0,Delivered,8,4.4
+NG-10868,2023-08-26,Food & Drink,Ibadan,Konga,Pay on Delivery,3,5900.0,17700.0,Delivered,3,4.0
+NG-10869,2023-05-30,Electronics,Kano,Jumia,Pay on Delivery,1,68300.0,0.0,Cancelled,6,
+NG-10870,2023-09-07,Beauty,Abuja,Konga,Pay on Delivery,2,2300.0,4600.0,Delivered,3,2.7
+NG-10871,2023-11-02,Food & Drink,Abuja,Konga,Pay on Delivery,4,3500.0,14000.0,Delivered,8,4.2
+NG-10872,2023-12-09,Books,Lagos,Instagram Shop,Pay on Delivery,4,8300.0,33200.0,Delivered,7,3.3
+NG-10873,2023-04-30,Beauty,Abuja,Konga,USSD,1,18000.0,0.0,Returned,2,
+NG-10874,2023-06-22,Food & Drink,Benin City,Instagram Shop,Card,3,2700.0,0.0,Returned,6,
+NG-10875,2023-07-19,Electronics,Lagos,WhatsApp Business,Transfer,3,38300.0,114900.0,Delivered,7,3.2
+NG-10876,2023-04-01,Food & Drink,Benin City,Jiji,Pay on Delivery,1,5500.0,0.0,Returned,4,
+NG-10877,2023-07-09,Beauty,Lagos,Jiji,Cash on Delivery,2,13100.0,26200.0,Delivered,10,4.0
+NG-10878,2023-08-19,Electronics,Kano,Konga,Transfer,4,62200.0,0.0,Returned,5,
+NG-10879,2023-07-11,Books,Benin City,Konga,Transfer,3,6100.0,18300.0,Delivered,2,2.8
+NG-10880,2023-12-15,Beauty,Kano,Jiji,Pay on Delivery,2,13200.0,0.0,Cancelled,10,
+NG-10881,2023-12-09,Beauty,Abuja,Konga,USSD,1,16200.0,16200.0,Delivered,4,5.0
+NG-10882,2023-04-22,Home & Living,Benin City,Jiji,Transfer,3,16400.0,49200.0,Delivered,7,4.3
+NG-10883,2023-01-18,Books,Lagos,WhatsApp Business,USSD,3,7300.0,21900.0,Delivered,9,4.3
+NG-10884,2023-01-25,Fashion,Port Harcourt,WhatsApp Business,Cash on Delivery,1,31100.0,0.0,Cancelled,10,
+NG-10885,2023-01-16,Fashion,Lagos,Konga,Transfer,1,20200.0,20200.0,Delivered,4,3.2
+NG-10886,2023-05-30,Home & Living,Abuja,WhatsApp Business,Transfer,3,49800.0,149400.0,Delivered,4,4.6
+NG-10887,2023-03-08,Sports,Kano,Konga,Pay on Delivery,1,29100.0,0.0,Cancelled,6,
+NG-10888,2023-01-05,Fashion,Lagos,Jiji,Card,3,23400.0,0.0,Returned,8,
+NG-10889,2023-09-27,Sports,Benin City,Konga,Transfer,1,9400.0,9400.0,Delivered,2,4.3
+NG-10890,2023-10-21,Books,Lagos,WhatsApp Business,Cash on Delivery,3,4400.0,0.0,Cancelled,1,
+NG-10891,2023-08-20,Sports,Kano,Konga,Transfer,3,59100.0,177300.0,Delivered,7,3.0
+NG-10892,2023-09-02,Books,Lagos,Jiji,Cash on Delivery,1,6300.0,6300.0,Delivered,2,3.1
+NG-10893,2023-08-11,Sports,Abuja,Jumia,Pay on Delivery,1,21600.0,21600.0,Delivered,5,2.9
+NG-10894,2023-11-02,Electronics,Abuja,Konga,Cash on Delivery,1,441700.0,441700.0,Delivered,4,2.8
+NG-10895,2023-03-28,Home & Living,Kano,Jumia,Cash on Delivery,4,53000.0,0.0,Cancelled,1,
+NG-10896,2023-12-25,Sports,Lagos,WhatsApp Business,Transfer,3,24000.0,72000.0,Delivered,4,3.5
+NG-10897,2023-02-19,Sports,Lagos,Jiji,Cash on Delivery,2,26600.0,53200.0,Delivered,8,3.3
+NG-10898,2023-07-27,Home & Living,Abuja,Instagram Shop,Pay on Delivery,2,47400.0,94800.0,Delivered,10,4.4
+NG-10899,2023-08-01,Books,Lagos,Jiji,USSD,3,4800.0,14400.0,Delivered,7,2.9
+NG-10900,2023-04-26,Beauty,Lagos,Instagram Shop,Cash on Delivery,3,11500.0,0.0,Returned,7,
+NG-10901,2023-05-15,Food & Drink,Lagos,Instagram Shop,Cash on Delivery,2,7000.0,14000.0,Delivered,2,3.2
+NG-10902,2023-09-14,Sports,Lagos,Jumia,Pay on Delivery,1,18900.0,0.0,Cancelled,5,
+NG-10903,2023-11-04,Home & Living,Kano,Jumia,Cash on Delivery,3,30300.0,90900.0,Delivered,10,3.8
+NG-10904,2023-10-05,Electronics,Kano,WhatsApp Business,USSD,4,215800.0,0.0,Returned,4,
+NG-10905,2023-05-22,Beauty,Enugu,Instagram Shop,USSD,2,22700.0,45400.0,Delivered,4,4.7
+NG-10906,2023-04-03,Home & Living,Benin City,Jiji,Pay on Delivery,2,28700.0,57400.0,Delivered,1,3.9
+NG-10907,2023-10-11,Beauty,Ibadan,WhatsApp Business,Pay on Delivery,4,4700.0,18800.0,Delivered,4,4.8
+NG-10908,2023-02-22,Sports,Benin City,WhatsApp Business,USSD,1,39400.0,39400.0,Delivered,10,2.5
+NG-10909,2023-11-29,Fashion,Abuja,WhatsApp Business,Pay on Delivery,4,6700.0,26800.0,Delivered,9,3.7
+NG-10910,2023-04-26,Books,Kano,WhatsApp Business,Card,2,3400.0,0.0,Returned,9,
+NG-10911,2023-05-16,Sports,Kano,Konga,Card,1,42700.0,0.0,Returned,5,
+NG-10912,2023-04-18,Sports,Port Harcourt,Jiji,Card,1,23300.0,23300.0,Delivered,9,3.3
+NG-10913,2023-04-08,Sports,Kano,Jiji,Transfer,4,57300.0,0.0,Cancelled,4,
+NG-10914,2023-12-12,Home & Living,Benin City,WhatsApp Business,Pay on Delivery,3,67700.0,203100.0,Delivered,5,4.2
+NG-10915,2023-10-31,Beauty,Port Harcourt,WhatsApp Business,Pay on Delivery,1,8900.0,0.0,Cancelled,7,
+NG-10916,2023-11-14,Sports,Abuja,Jiji,Transfer,2,13700.0,27400.0,Delivered,3,4.2
+NG-10917,2023-12-06,Home & Living,Ibadan,Konga,Cash on Delivery,2,48100.0,96200.0,Delivered,7,3.2
+NG-10918,2023-12-31,Sports,Lagos,Jiji,USSD,4,17300.0,69200.0,Delivered,1,4.1
+NG-10919,2023-12-24,Sports,Port Harcourt,Jumia,Card,3,52000.0,156000.0,Delivered,9,4.6
+NG-10920,2023-01-06,Beauty,Ibadan,Jiji,Cash on Delivery,4,13900.0,55600.0,Delivered,7,4.8
+NG-10921,2023-02-19,Sports,Lagos,WhatsApp Business,Pay on Delivery,1,29100.0,29100.0,Delivered,4,4.1
+NG-10922,2023-07-09,Home & Living,Abuja,Konga,Cash on Delivery,4,54900.0,0.0,Cancelled,7,
+NG-10923,2023-01-05,Electronics,Kano,Instagram Shop,Cash on Delivery,3,377300.0,0.0,Cancelled,8,
+NG-10924,2023-08-31,Electronics,Kano,WhatsApp Business,Transfer,1,387300.0,0.0,Returned,5,
+NG-10925,2023-12-17,Food & Drink,Kaduna,Konga,Transfer,3,5400.0,16200.0,Delivered,4,3.2
+NG-10926,2023-10-14,Beauty,Abuja,Instagram Shop,Transfer,4,13900.0,55600.0,Delivered,3,3.3
+NG-10927,2023-11-30,Books,Lagos,Jiji,USSD,2,1300.0,2600.0,Delivered,8,4.7
+NG-10928,2023-03-23,Beauty,Kaduna,Jumia,Cash on Delivery,1,21000.0,21000.0,Delivered,2,3.4
+NG-10929,2023-03-07,Home & Living,Abuja,Konga,USSD,2,21600.0,0.0,Returned,2,
+NG-10930,2023-07-05,Food & Drink,Port Harcourt,WhatsApp Business,Pay on Delivery,4,6000.0,0.0,Returned,1,
+NG-10931,2023-11-18,Electronics,Abuja,Instagram Shop,Card,2,118700.0,237400.0,Delivered,8,3.4
+NG-10932,2023-03-01,Books,Lagos,Jiji,Pay on Delivery,2,3600.0,7200.0,Delivered,6,4.8
+NG-10933,2023-04-10,Home & Living,Abuja,Jumia,USSD,1,76200.0,0.0,Cancelled,6,
+NG-10934,2023-09-20,Books,Abuja,WhatsApp Business,Pay on Delivery,2,5900.0,11800.0,Delivered,1,4.4
+NG-10935,2023-02-01,Books,Benin City,Instagram Shop,Card,3,11300.0,33900.0,Delivered,8,3.0
+NG-10936,2023-08-17,Books,Lagos,Jiji,USSD,4,8700.0,0.0,Cancelled,7,
+NG-10937,2023-10-22,Home & Living,Abuja,Konga,Pay on Delivery,4,18400.0,73600.0,Delivered,4,4.7
+NG-10938,2023-09-28,Sports,Ibadan,WhatsApp Business,Cash on Delivery,1,36700.0,36700.0,Delivered,3,4.4
+NG-10939,2023-02-28,Sports,Lagos,Instagram Shop,Card,4,23000.0,92000.0,Delivered,4,4.5
+NG-10940,2023-07-29,Food & Drink,Lagos,Instagram Shop,Cash on Delivery,2,7500.0,15000.0,Delivered,6,3.4
+NG-10941,2023-11-15,Beauty,Kano,Konga,USSD,3,21100.0,63300.0,Delivered,8,2.7
+NG-10942,2023-11-22,Fashion,Enugu,Jiji,Transfer,2,3500.0,7000.0,Delivered,7,3.5
+NG-10943,2023-01-30,Home & Living,Kaduna,WhatsApp Business,USSD,2,24100.0,48200.0,Delivered,7,4.4
+NG-10944,2023-08-13,Home & Living,Abuja,Jiji,USSD,3,17900.0,0.0,Cancelled,10,
+NG-10945,2023-01-24,Fashion,Ibadan,Instagram Shop,Pay on Delivery,2,9900.0,19800.0,Delivered,8,3.4
+NG-10946,2023-09-20,Food & Drink,Lagos,Jumia,Pay on Delivery,4,6700.0,0.0,Cancelled,5,
+NG-10947,2023-04-26,Food & Drink,Port Harcourt,Jumia,USSD,2,5600.0,0.0,Cancelled,2,
+NG-10948,2023-02-24,Home & Living,Port Harcourt,Instagram Shop,USSD,2,78800.0,0.0,Cancelled,9,
+NG-10949,2023-08-10,Food & Drink,Enugu,WhatsApp Business,Card,3,2700.0,8100.0,Delivered,5,2.5
+NG-10950,2023-10-19,Fashion,Kaduna,Konga,Pay on Delivery,3,38400.0,0.0,Cancelled,3,
+NG-10951,2023-05-30,Home & Living,Benin City,WhatsApp Business,USSD,3,71300.0,213900.0,Delivered,9,4.7
+NG-10952,2023-11-10,Beauty,Lagos,Jumia,Transfer,4,24500.0,98000.0,Delivered,8,2.8
+NG-10953,2023-11-06,Food & Drink,Kano,Jumia,Card,4,7900.0,31600.0,Delivered,7,2.7
+NG-10954,2023-05-04,Beauty,Abuja,Jumia,Pay on Delivery,4,14700.0,58800.0,Delivered,7,3.9
+NG-10955,2023-12-31,Books,Lagos,Konga,USSD,3,10900.0,0.0,Returned,1,
+NG-10956,2023-05-22,Home & Living,Enugu,Jiji,Cash on Delivery,3,32300.0,96900.0,Delivered,10,3.4
+NG-10957,2023-01-02,Sports,Benin City,Instagram Shop,Pay on Delivery,1,8600.0,0.0,Returned,6,
+NG-10958,2023-06-26,Books,Lagos,Jumia,USSD,3,10700.0,32100.0,Delivered,9,4.4
+NG-10959,2023-04-14,Sports,Abuja,Konga,Cash on Delivery,2,23500.0,47000.0,Delivered,9,4.3
+NG-10960,2023-01-03,Books,Benin City,Jiji,Pay on Delivery,1,3100.0,0.0,Cancelled,2,
+NG-10961,2023-05-15,Fashion,Port Harcourt,Jiji,Cash on Delivery,2,40100.0,80200.0,Delivered,9,2.8
+NG-10962,2023-03-17,Fashion,Kano,Instagram Shop,USSD,2,14600.0,29200.0,Delivered,3,3.9
+NG-10963,2023-08-17,Home & Living,Enugu,Konga,Card,1,5500.0,5500.0,Delivered,7,4.2
+NG-10964,2023-09-20,Food & Drink,Lagos,Jiji,USSD,1,5500.0,0.0,Returned,8,
+NG-10965,2023-07-31,Sports,Lagos,Konga,USSD,2,49300.0,98600.0,Delivered,3,2.6
+NG-10966,2023-09-16,Food & Drink,Abuja,Jumia,Transfer,3,7700.0,23100.0,Delivered,3,2.6
+NG-10967,2023-01-11,Books,Lagos,Jiji,USSD,3,8000.0,24000.0,Delivered,2,4.7
+NG-10968,2023-10-06,Books,Port Harcourt,Jumia,Card,3,3200.0,0.0,Cancelled,10,
+NG-10969,2023-05-24,Beauty,Lagos,Konga,Card,2,4800.0,9600.0,Delivered,7,4.4
+NG-10970,2023-11-23,Home & Living,Kaduna,WhatsApp Business,USSD,2,65100.0,130200.0,Delivered,1,3.4
+NG-10971,2023-07-29,Food & Drink,Port Harcourt,Instagram Shop,Card,1,7100.0,0.0,Cancelled,8,
+NG-10972,2023-01-19,Beauty,Kaduna,Jumia,USSD,4,2900.0,0.0,Returned,3,
+NG-10973,2023-11-10,Home & Living,Lagos,Instagram Shop,Transfer,3,64400.0,193200.0,Delivered,8,4.6
+NG-10974,2023-04-20,Home & Living,Abuja,Jumia,Card,1,68100.0,68100.0,Delivered,8,4.3
+NG-10975,2023-04-27,Fashion,Lagos,Jumia,Card,4,23100.0,92400.0,Delivered,5,3.2
+NG-10976,2023-04-05,Books,Benin City,Jumia,Pay on Delivery,3,11600.0,34800.0,Delivered,2,2.7
+NG-10977,2023-12-25,Electronics,Kano,Instagram Shop,USSD,1,222000.0,0.0,Cancelled,4,
+NG-10978,2023-05-21,Home & Living,Kano,Konga,Card,4,38400.0,0.0,Returned,7,
+NG-10979,2023-11-19,Home & Living,Abuja,Jumia,Pay on Delivery,4,13400.0,53600.0,Delivered,1,4.5
+NG-10980,2023-12-01,Electronics,Abuja,Jiji,Pay on Delivery,4,385900.0,1543600.0,Delivered,5,4.7
+NG-10981,2023-01-01,Books,Port Harcourt,Konga,Transfer,1,6700.0,6700.0,Delivered,5,4.7
+NG-10982,2023-06-29,Fashion,Lagos,WhatsApp Business,USSD,4,21200.0,84800.0,Delivered,6,3.5
+NG-10983,2023-08-22,Electronics,Lagos,Jumia,USSD,3,87400.0,0.0,Returned,10,
+NG-10984,2023-10-09,Books,Kaduna,Konga,Cash on Delivery,2,4600.0,9200.0,Delivered,4,3.8
+NG-10985,2023-10-24,Home & Living,Benin City,Konga,Pay on Delivery,1,68900.0,0.0,Returned,1,
+NG-10986,2023-02-02,Fashion,Port Harcourt,Instagram Shop,Card,4,19700.0,0.0,Returned,4,
+NG-10987,2023-04-02,Fashion,Lagos,Jiji,Pay on Delivery,2,28300.0,56600.0,Delivered,8,3.3
+NG-10988,2023-05-31,Home & Living,Benin City,Konga,Cash on Delivery,4,51300.0,205200.0,Delivered,2,3.1
+NG-10989,2023-05-20,Electronics,Kano,WhatsApp Business,Cash on Delivery,3,251300.0,753900.0,Delivered,2,3.1
+NG-10990,2023-06-24,Food & Drink,Ibadan,Jiji,Transfer,2,7600.0,15200.0,Delivered,3,3.2
+NG-10991,2023-07-26,Sports,Lagos,Konga,Pay on Delivery,1,15200.0,0.0,Cancelled,5,
+NG-10992,2023-10-04,Home & Living,Benin City,Jumia,Pay on Delivery,3,23600.0,0.0,Cancelled,5,
+NG-10993,2023-02-13,Fashion,Lagos,WhatsApp Business,Card,1,43200.0,43200.0,Delivered,4,3.1
+NG-10994,2023-12-11,Electronics,Kano,Konga,Card,2,72200.0,144400.0,Delivered,10,3.9
+NG-10995,2023-04-19,Fashion,Kano,Konga,Transfer,1,35000.0,0.0,Cancelled,10,
+NG-10996,2023-10-08,Sports,Ibadan,Instagram Shop,USSD,3,19200.0,57600.0,Delivered,2,4.2
+NG-10997,2023-03-31,Beauty,Lagos,Jumia,Card,1,13000.0,0.0,Returned,6,
+NG-10998,2023-02-18,Books,Abuja,Konga,Pay on Delivery,1,2000.0,0.0,Returned,9,
+NG-10999,2023-01-12,Home & Living,Lagos,Instagram Shop,Cash on Delivery,3,52300.0,156900.0,Delivered,9,4.0
+NG-11000,2023-08-28,Sports,Port Harcourt,Instagram Shop,Transfer,4,36800.0,0.0,Returned,6,
+NG-11001,2023-07-28,Sports,Lagos,Konga,Cash on Delivery,4,29500.0,118000.0,Delivered,9,2.9
+NG-11002,2023-05-20,Home & Living,Abuja,WhatsApp Business,Pay on Delivery,3,32300.0,96900.0,Delivered,4,4.7
+NG-11003,2023-02-12,Books,Lagos,Konga,Pay on Delivery,2,10600.0,21200.0,Delivered,3,3.6
+NG-11004,2023-08-08,Sports,Lagos,Jiji,Transfer,3,41300.0,0.0,Returned,6,
+NG-11005,2023-11-23,Beauty,Kaduna,Konga,Pay on Delivery,4,22100.0,88400.0,Delivered,2,2.7
+NG-11006,2023-10-08,Beauty,Lagos,WhatsApp Business,Card,3,2100.0,6300.0,Delivered,5,4.6
+NG-11007,2023-12-10,Home & Living,Abuja,Konga,Pay on Delivery,3,55800.0,167400.0,Delivered,3,3.1
+NG-11008,2023-12-25,Sports,Abuja,Jiji,Pay on Delivery,1,21200.0,0.0,Cancelled,6,
+NG-11009,2023-04-11,Sports,Kaduna,Jumia,Cash on Delivery,3,38800.0,116400.0,Delivered,5,3.4
+NG-11010,2023-08-06,Electronics,Abuja,Jiji,Card,1,278100.0,0.0,Returned,8,
+NG-11011,2023-10-24,Fashion,Lagos,WhatsApp Business,Cash on Delivery,3,5100.0,0.0,Cancelled,2,
+NG-11012,2023-08-25,Sports,Lagos,Konga,Card,3,23700.0,0.0,Cancelled,4,
+NG-11013,2023-06-02,Books,Abuja,Jumia,USSD,2,9600.0,19200.0,Delivered,9,4.8
+NG-11014,2023-04-10,Electronics,Lagos,Jumia,Cash on Delivery,2,331300.0,662600.0,Delivered,6,4.6
+NG-11015,2023-11-14,Sports,Benin City,Jumia,USSD,4,57600.0,230400.0,Delivered,5,4.0
+NG-11016,2023-06-17,Fashion,Kaduna,WhatsApp Business,Cash on Delivery,2,40400.0,0.0,Returned,2,
+NG-11017,2023-10-16,Food & Drink,Lagos,Jumia,Pay on Delivery,1,1000.0,1000.0,Delivered,3,3.6
+NG-11018,2023-04-19,Food & Drink,Port Harcourt,Jumia,Pay on Delivery,1,7600.0,0.0,Cancelled,2,
+NG-11019,2023-03-21,Electronics,Lagos,Jiji,Transfer,4,194000.0,0.0,Returned,7,
+NG-11020,2023-10-09,Books,Lagos,Konga,Transfer,3,3600.0,10800.0,Delivered,2,4.0
+NG-11021,2023-09-25,Electronics,Port Harcourt,Jumia,Cash on Delivery,4,223300.0,893200.0,Delivered,7,3.2
+NG-11022,2023-07-18,Books,Kaduna,Konga,Transfer,2,3600.0,0.0,Returned,2,
+NG-11023,2023-07-01,Beauty,Port Harcourt,Jiji,USSD,3,10500.0,31500.0,Delivered,5,2.7
+NG-11024,2023-06-29,Home & Living,Lagos,WhatsApp Business,Pay on Delivery,3,75100.0,225300.0,Delivered,1,2.9
+NG-11025,2023-09-29,Fashion,Abuja,Konga,Card,4,24300.0,0.0,Returned,7,
+NG-11026,2023-03-19,Food & Drink,Lagos,WhatsApp Business,Card,4,5300.0,21200.0,Delivered,2,3.5
+NG-11027,2023-04-06,Home & Living,Kaduna,Jumia,Transfer,3,19600.0,0.0,Cancelled,3,
+NG-11028,2023-05-03,Sports,Port Harcourt,Jiji,Cash on Delivery,2,31200.0,62400.0,Delivered,6,3.1
+NG-11029,2023-03-06,Food & Drink,Abuja,Jumia,Cash on Delivery,3,3300.0,9900.0,Delivered,6,5.0
+NG-11030,2023-03-17,Electronics,Abuja,Jumia,Card,2,154300.0,0.0,Returned,3,
+NG-11031,2023-07-16,Fashion,Lagos,Jumia,Transfer,2,17200.0,34400.0,Delivered,6,4.5
+NG-11032,2023-10-29,Sports,Enugu,Jumia,USSD,4,42700.0,170800.0,Delivered,1,3.9
+NG-11033,2023-02-12,Food & Drink,Ibadan,Jiji,Transfer,2,3000.0,0.0,Cancelled,8,
+NG-11034,2023-04-12,Sports,Abuja,Konga,Card,2,54400.0,108800.0,Delivered,8,3.6
+NG-11035,2023-03-15,Fashion,Ibadan,Konga,Pay on Delivery,2,24700.0,0.0,Cancelled,9,
+NG-11036,2023-02-16,Home & Living,Abuja,Konga,Pay on Delivery,3,15500.0,46500.0,Delivered,7,4.8
+NG-11037,2023-05-20,Beauty,Abuja,Jumia,USSD,3,23800.0,71400.0,Delivered,8,3.3
+NG-11038,2023-03-13,Electronics,Abuja,WhatsApp Business,Transfer,2,186900.0,0.0,Cancelled,9,
+NG-11039,2023-06-15,Electronics,Benin City,Jiji,Transfer,3,217100.0,651300.0,Delivered,4,2.8
+NG-11040,2023-03-17,Fashion,Lagos,WhatsApp Business,Card,3,8900.0,26700.0,Delivered,6,4.8
+NG-11041,2023-02-12,Food & Drink,Lagos,Jumia,Cash on Delivery,4,3300.0,0.0,Cancelled,6,
+NG-11042,2023-05-25,Fashion,Lagos,Jumia,Card,1,20300.0,20300.0,Delivered,9,3.9
+NG-11043,2023-08-28,Electronics,Lagos,Jumia,Cash on Delivery,3,34300.0,102900.0,Delivered,2,4.4
+NG-11044,2023-01-08,Fashion,Lagos,Jiji,USSD,1,13200.0,0.0,Returned,7,
+NG-11045,2023-08-21,Home & Living,Lagos,Instagram Shop,USSD,1,79000.0,0.0,Cancelled,2,
+NG-11046,2023-08-25,Fashion,Lagos,WhatsApp Business,Card,3,35600.0,106800.0,Delivered,2,4.6
+NG-11047,2023-05-21,Fashion,Benin City,Jiji,Card,3,15500.0,46500.0,Delivered,6,3.8
+NG-11048,2023-12-18,Home & Living,Lagos,Konga,Transfer,2,60600.0,121200.0,Delivered,5,3.3
+NG-11049,2023-08-21,Fashion,Kano,WhatsApp Business,Card,3,27400.0,82200.0,Delivered,3,4.0
+NG-11050,2023-01-17,Electronics,Port Harcourt,WhatsApp Business,Card,3,223100.0,0.0,Cancelled,2,
+NG-11051,2023-04-06,Food & Drink,Abuja,Instagram Shop,Pay on Delivery,1,4100.0,0.0,Returned,2,
+NG-11052,2023-06-14,Beauty,Kano,Jumia,Transfer,1,21200.0,21200.0,Delivered,3,4.5
+NG-11053,2023-02-19,Fashion,Lagos,Instagram Shop,Card,3,11400.0,34200.0,Delivered,7,2.7
+NG-11054,2023-03-27,Sports,Lagos,Instagram Shop,Card,3,54400.0,0.0,Returned,5,
+NG-11055,2023-12-10,Books,Lagos,Jumia,Transfer,1,8100.0,8100.0,Delivered,9,2.7
+NG-11056,2023-02-06,Fashion,Abuja,Instagram Shop,Card,2,36600.0,0.0,Cancelled,10,
+NG-11057,2023-03-08,Food & Drink,Port Harcourt,WhatsApp Business,Transfer,2,5900.0,0.0,Returned,6,
+NG-11058,2023-09-04,Fashion,Kaduna,Jiji,Pay on Delivery,2,26300.0,0.0,Returned,4,
+NG-11059,2023-08-08,Home & Living,Lagos,Jumia,Transfer,1,16300.0,0.0,Cancelled,9,
+NG-11060,2023-04-07,Sports,Lagos,Jumia,Card,3,10300.0,30900.0,Delivered,4,3.8
+NG-11061,2023-06-17,Sports,Lagos,Instagram Shop,Pay on Delivery,1,55900.0,0.0,Returned,10,
+NG-11062,2023-07-10,Beauty,Abuja,Jumia,Cash on Delivery,1,13400.0,0.0,Returned,10,
+NG-11063,2023-08-13,Home & Living,Kano,Konga,Transfer,2,11700.0,23400.0,Delivered,7,2.7
+NG-11064,2023-02-02,Books,Port Harcourt,Konga,Card,1,2200.0,0.0,Returned,7,
+NG-11065,2023-01-13,Electronics,Ibadan,Jiji,Card,2,286600.0,0.0,Cancelled,5,
+NG-11066,2023-10-29,Food & Drink,Kano,Instagram Shop,Transfer,4,8000.0,0.0,Returned,4,
+NG-11067,2023-04-20,Books,Kano,Jiji,Card,2,8700.0,0.0,Returned,9,
+NG-11068,2023-09-12,Beauty,Lagos,Jiji,Card,1,20100.0,0.0,Returned,6,
+NG-11069,2023-08-21,Sports,Kaduna,Konga,USSD,4,24000.0,0.0,Returned,6,
+NG-11070,2023-10-12,Sports,Abuja,Jumia,Cash on Delivery,2,16200.0,32400.0,Delivered,1,3.7
+NG-11071,2023-03-03,Fashion,Kano,Jiji,Card,2,23300.0,0.0,Returned,10,
+NG-11072,2023-11-14,Sports,Lagos,Jiji,USSD,2,15300.0,30600.0,Delivered,8,4.4
+NG-11073,2023-07-08,Beauty,Ibadan,WhatsApp Business,Card,1,7200.0,0.0,Cancelled,3,
+NG-11074,2023-11-30,Fashion,Kano,Konga,Transfer,3,19800.0,0.0,Returned,3,
+NG-11075,2023-07-02,Home & Living,Abuja,Konga,Card,2,45600.0,91200.0,Delivered,7,4.3
+NG-11076,2023-07-29,Food & Drink,Lagos,Jiji,Card,3,7200.0,21600.0,Delivered,1,4.6
+NG-11077,2023-11-01,Food & Drink,Abuja,Jiji,Pay on Delivery,4,2400.0,0.0,Cancelled,2,
+NG-11078,2023-03-11,Fashion,Abuja,Jiji,Pay on Delivery,2,9500.0,0.0,Returned,3,
+NG-11079,2023-10-21,Fashion,Lagos,Jiji,Cash on Delivery,2,31500.0,0.0,Returned,3,
+NG-11080,2023-05-10,Books,Lagos,WhatsApp Business,Transfer,4,6000.0,24000.0,Delivered,9,3.6
+NG-11081,2023-03-12,Sports,Lagos,WhatsApp Business,Cash on Delivery,4,21200.0,84800.0,Delivered,8,2.6
+NG-11082,2023-08-10,Electronics,Kano,Jumia,Cash on Delivery,4,374500.0,1498000.0,Delivered,8,3.7
+NG-11083,2023-05-06,Fashion,Abuja,Instagram Shop,Card,3,23400.0,70200.0,Delivered,1,3.6
+NG-11084,2023-09-19,Sports,Lagos,Instagram Shop,Card,3,12800.0,38400.0,Delivered,8,2.8
+NG-11085,2023-01-18,Electronics,Port Harcourt,Konga,USSD,4,323800.0,1295200.0,Delivered,7,4.7
+NG-11086,2023-01-29,Food & Drink,Abuja,Instagram Shop,USSD,2,6100.0,0.0,Cancelled,9,
+NG-11087,2023-08-19,Beauty,Abuja,Instagram Shop,Card,3,19900.0,59700.0,Delivered,3,2.7
+NG-11088,2023-12-14,Electronics,Kano,Jumia,USSD,4,423100.0,0.0,Cancelled,6,
+NG-11089,2023-02-05,Beauty,Abuja,Jiji,USSD,1,24200.0,24200.0,Delivered,8,3.3
+NG-11090,2023-09-10,Sports,Benin City,Jumia,Cash on Delivery,2,53500.0,107000.0,Delivered,1,4.9
+NG-11091,2023-11-26,Sports,Abuja,Jiji,USSD,4,13600.0,54400.0,Delivered,6,4.3
+NG-11092,2023-02-04,Electronics,Abuja,Konga,Card,1,213400.0,0.0,Returned,3,
+NG-11093,2023-06-28,Food & Drink,Lagos,Konga,Card,4,5400.0,21600.0,Delivered,8,2.8
+NG-11094,2023-08-23,Electronics,Lagos,Jiji,Cash on Delivery,4,193900.0,775600.0,Delivered,4,4.0
+NG-11095,2023-08-21,Books,Benin City,WhatsApp Business,Card,3,1400.0,4200.0,Delivered,6,4.9
+NG-11096,2023-06-15,Fashion,Ibadan,Jumia,Card,3,5500.0,16500.0,Delivered,5,4.0
+NG-11097,2023-01-02,Home & Living,Port Harcourt,Jiji,Card,3,16100.0,0.0,Cancelled,4,
+NG-11098,2023-11-14,Beauty,Port Harcourt,Jumia,Cash on Delivery,4,17800.0,71200.0,Delivered,9,4.6
+NG-11099,2023-09-28,Home & Living,Lagos,Jiji,USSD,4,10100.0,40400.0,Delivered,5,2.8
+NG-11100,2023-08-15,Electronics,Enugu,WhatsApp Business,Cash on Delivery,1,405400.0,405400.0,Delivered,3,4.1
+NG-11101,2023-10-09,Fashion,Port Harcourt,Jiji,USSD,1,25400.0,0.0,Cancelled,6,
+NG-11102,2023-08-10,Sports,Enugu,Jumia,Transfer,1,56400.0,0.0,Cancelled,1,
+NG-11103,2023-12-17,Beauty,Lagos,Instagram Shop,Cash on Delivery,4,6700.0,26800.0,Delivered,8,3.2
+NG-11104,2023-08-01,Home & Living,Lagos,Jiji,Pay on Delivery,3,45400.0,136200.0,Delivered,5,3.1
+NG-11105,2023-10-23,Food & Drink,Lagos,Instagram Shop,Card,4,7300.0,29200.0,Delivered,1,3.3
+NG-11106,2023-04-01,Beauty,Lagos,Jiji,Transfer,2,3400.0,6800.0,Delivered,2,2.9
+NG-11107,2023-07-29,Electronics,Abuja,Jiji,Pay on Delivery,2,475500.0,0.0,Cancelled,10,
+NG-11108,2023-02-13,Books,Abuja,Instagram Shop,Pay on Delivery,2,2800.0,5600.0,Delivered,5,2.7
+NG-11109,2023-02-22,Electronics,Port Harcourt,Jiji,Pay on Delivery,3,222400.0,0.0,Cancelled,10,
+NG-11110,2023-05-21,Fashion,Abuja,Jumia,Pay on Delivery,1,24500.0,0.0,Cancelled,10,
+NG-11111,2023-06-05,Beauty,Lagos,Jiji,Transfer,3,24700.0,0.0,Returned,9,
+NG-11112,2023-11-29,Home & Living,Lagos,Jiji,Pay on Delivery,4,27700.0,0.0,Cancelled,2,
+NG-11113,2023-06-14,Sports,Lagos,Konga,Card,1,60000.0,0.0,Cancelled,5,
+NG-11114,2023-10-28,Fashion,Ibadan,WhatsApp Business,Pay on Delivery,4,34300.0,137200.0,Delivered,6,4.0
+NG-11115,2023-10-25,Fashion,Lagos,Konga,Card,4,32100.0,128400.0,Delivered,10,2.7
+NG-11116,2023-09-28,Beauty,Port Harcourt,WhatsApp Business,Cash on Delivery,3,14800.0,44400.0,Delivered,2,4.8
+NG-11117,2023-11-30,Fashion,Lagos,WhatsApp Business,Transfer,3,34200.0,102600.0,Delivered,7,3.2
+NG-11118,2023-05-13,Beauty,Benin City,Jumia,Card,2,6200.0,12400.0,Delivered,5,2.6
+NG-11119,2023-12-03,Electronics,Kaduna,Konga,Cash on Delivery,4,58400.0,233600.0,Delivered,5,4.2
+NG-11120,2023-02-07,Electronics,Kano,Jiji,Card,4,124900.0,0.0,Cancelled,10,
+NG-11121,2023-03-03,Sports,Lagos,WhatsApp Business,Cash on Delivery,1,41100.0,41100.0,Delivered,7,3.6
+NG-11122,2023-11-16,Food & Drink,Enugu,Jiji,USSD,3,7000.0,21000.0,Delivered,10,4.7
+NG-11123,2023-09-03,Electronics,Lagos,Instagram Shop,Cash on Delivery,2,262200.0,524400.0,Delivered,9,2.9
+NG-11124,2023-06-24,Home & Living,Kaduna,Instagram Shop,Cash on Delivery,3,53100.0,0.0,Returned,4,
+NG-11125,2023-07-11,Beauty,Lagos,Instagram Shop,Transfer,3,10200.0,30600.0,Delivered,8,2.5
+NG-11126,2023-03-29,Sports,Lagos,Instagram Shop,Card,4,41100.0,164400.0,Delivered,2,4.5
+NG-11127,2023-07-25,Books,Lagos,WhatsApp Business,Card,3,2200.0,0.0,Returned,3,
+NG-11128,2023-07-15,Electronics,Kano,Konga,USSD,1,418300.0,418300.0,Delivered,3,3.2
+NG-11129,2023-11-09,Sports,Kano,Jumia,USSD,2,30800.0,0.0,Returned,9,
+NG-11130,2023-09-30,Home & Living,Ibadan,Jumia,Transfer,2,47800.0,95600.0,Delivered,8,4.5
+NG-11131,2023-02-25,Sports,Kaduna,Jumia,Pay on Delivery,4,33900.0,135600.0,Delivered,10,4.9
+NG-11132,2023-02-17,Food & Drink,Lagos,Jiji,Transfer,4,7400.0,29600.0,Delivered,10,4.7
+NG-11133,2023-08-17,Home & Living,Lagos,Jiji,Cash on Delivery,2,63900.0,0.0,Cancelled,10,
+NG-11134,2023-11-01,Beauty,Lagos,Konga,Pay on Delivery,2,7100.0,0.0,Cancelled,5,
+NG-11135,2023-05-19,Food & Drink,Lagos,Jiji,USSD,2,3100.0,0.0,Returned,3,
+NG-11136,2023-01-06,Fashion,Kano,WhatsApp Business,Cash on Delivery,3,7900.0,0.0,Returned,3,
+NG-11137,2023-04-17,Food & Drink,Lagos,Jumia,USSD,3,4200.0,12600.0,Delivered,1,2.5
+NG-11138,2023-10-17,Sports,Port Harcourt,Konga,Transfer,3,56200.0,0.0,Returned,5,
+NG-11139,2023-12-19,Books,Kano,Konga,Pay on Delivery,1,9200.0,9200.0,Delivered,2,3.2
+NG-11140,2023-12-07,Beauty,Kano,WhatsApp Business,USSD,4,23000.0,0.0,Cancelled,8,
+NG-11141,2023-09-25,Fashion,Abuja,Konga,USSD,4,33800.0,0.0,Returned,2,
+NG-11142,2023-12-06,Beauty,Kaduna,Jiji,Cash on Delivery,3,6600.0,19800.0,Delivered,9,2.6
+NG-11143,2023-04-01,Food & Drink,Port Harcourt,WhatsApp Business,USSD,2,6600.0,13200.0,Delivered,6,4.7
+NG-11144,2023-02-01,Books,Abuja,Jumia,Card,1,2000.0,2000.0,Delivered,8,4.8
+NG-11145,2023-02-27,Books,Abuja,Jumia,Card,3,7000.0,21000.0,Delivered,2,2.8
+NG-11146,2023-07-20,Food & Drink,Benin City,Instagram Shop,USSD,4,1200.0,0.0,Cancelled,9,
+NG-11147,2023-01-19,Beauty,Port Harcourt,Instagram Shop,USSD,4,20300.0,0.0,Cancelled,4,
+NG-11148,2023-05-01,Sports,Ibadan,Jumia,Cash on Delivery,1,6000.0,6000.0,Delivered,8,4.1
+NG-11149,2023-11-14,Electronics,Abuja,Konga,Card,1,253400.0,253400.0,Delivered,10,3.0
+NG-11150,2023-12-11,Home & Living,Lagos,Jumia,Pay on Delivery,4,74200.0,296800.0,Delivered,10,4.0
+NG-11151,2023-12-24,Electronics,Lagos,Instagram Shop,Pay on Delivery,3,317700.0,953100.0,Delivered,5,3.9
+NG-11152,2023-04-21,Home & Living,Lagos,Instagram Shop,Card,1,41400.0,0.0,Cancelled,10,
+NG-11153,2023-04-16,Sports,Lagos,Instagram Shop,Card,3,15000.0,45000.0,Delivered,8,2.7
+NG-11154,2023-02-03,Electronics,Ibadan,Jiji,USSD,3,429300.0,1287900.0,Delivered,4,4.2
+NG-11155,2023-06-21,Sports,Abuja,Instagram Shop,Card,1,46800.0,0.0,Cancelled,2,
+NG-11156,2023-11-13,Electronics,Abuja,Instagram Shop,Cash on Delivery,3,235300.0,705900.0,Delivered,7,3.7
+NG-11157,2023-10-28,Home & Living,Lagos,WhatsApp Business,Transfer,1,75800.0,0.0,Cancelled,4,
+NG-11158,2023-09-17,Food & Drink,Ibadan,Instagram Shop,USSD,4,2700.0,0.0,Cancelled,7,
+NG-11159,2023-08-03,Sports,Lagos,Instagram Shop,Card,4,45700.0,0.0,Cancelled,4,
+NG-11160,2023-11-26,Food & Drink,Benin City,Instagram Shop,Transfer,4,5100.0,0.0,Cancelled,5,
+NG-11161,2023-12-29,Fashion,Lagos,Jiji,Card,1,37400.0,37400.0,Delivered,8,2.5
+NG-11162,2023-05-15,Food & Drink,Lagos,WhatsApp Business,USSD,2,4000.0,8000.0,Delivered,4,4.6
+NG-11163,2023-03-06,Home & Living,Lagos,Jiji,Pay on Delivery,1,9800.0,0.0,Cancelled,2,
+NG-11164,2023-01-05,Fashion,Enugu,WhatsApp Business,Cash on Delivery,2,12000.0,24000.0,Delivered,8,4.0
+NG-11165,2023-03-06,Beauty,Kano,Instagram Shop,USSD,2,8400.0,16800.0,Delivered,3,3.8
+NG-11166,2023-11-23,Home & Living,Lagos,WhatsApp Business,Transfer,4,8300.0,33200.0,Delivered,10,2.7
+NG-11167,2023-01-06,Sports,Lagos,Jiji,Cash on Delivery,3,36000.0,0.0,Returned,3,
+NG-11168,2023-10-14,Food & Drink,Lagos,WhatsApp Business,Pay on Delivery,3,6500.0,19500.0,Delivered,10,2.9
+NG-11169,2023-11-24,Sports,Benin City,Konga,Transfer,3,55500.0,166500.0,Delivered,8,2.9
+NG-11170,2023-10-13,Electronics,Kano,WhatsApp Business,Cash on Delivery,1,110400.0,110400.0,Delivered,9,2.9
+NG-11171,2023-07-28,Electronics,Port Harcourt,WhatsApp Business,USSD,3,110300.0,0.0,Returned,3,
+NG-11172,2023-10-26,Food & Drink,Benin City,Jumia,Card,3,2700.0,8100.0,Delivered,1,3.4
+NG-11173,2023-02-18,Food & Drink,Lagos,Jiji,Pay on Delivery,1,7400.0,7400.0,Delivered,7,4.3
+NG-11174,2023-12-04,Books,Kano,Jumia,Card,4,10800.0,43200.0,Delivered,3,2.6
+NG-11175,2023-03-13,Fashion,Abuja,WhatsApp Business,Cash on Delivery,4,24500.0,98000.0,Delivered,10,3.1
+NG-11176,2023-09-02,Home & Living,Abuja,Konga,Transfer,2,6500.0,13000.0,Delivered,6,3.8
+NG-11177,2023-08-09,Books,Lagos,WhatsApp Business,USSD,1,5000.0,5000.0,Delivered,3,3.1
+NG-11178,2023-10-28,Food & Drink,Kano,Konga,Card,4,3600.0,14400.0,Delivered,6,4.4
+NG-11179,2023-02-11,Electronics,Lagos,Konga,USSD,4,246400.0,985600.0,Delivered,7,4.3
+NG-11180,2023-07-15,Books,Lagos,Instagram Shop,Transfer,1,11600.0,0.0,Returned,4,
+NG-11181,2023-05-08,Beauty,Kano,WhatsApp Business,Transfer,2,7000.0,14000.0,Delivered,6,2.6
+NG-11182,2023-11-06,Fashion,Lagos,Jiji,Transfer,1,4400.0,4400.0,Delivered,5,3.3
+NG-11183,2023-08-03,Books,Lagos,WhatsApp Business,Transfer,2,2200.0,4400.0,Delivered,3,3.0
+NG-11184,2023-10-31,Food & Drink,Benin City,Instagram Shop,Cash on Delivery,1,7200.0,0.0,Returned,2,
+NG-11185,2023-12-25,Home & Living,Lagos,Jiji,Transfer,3,60100.0,0.0,Returned,3,
+NG-11186,2023-03-02,Food & Drink,Abuja,Instagram Shop,Transfer,1,6900.0,0.0,Returned,9,
+NG-11187,2023-03-07,Food & Drink,Benin City,WhatsApp Business,Card,2,3800.0,7600.0,Delivered,10,3.1
+NG-11188,2023-05-17,Home & Living,Lagos,Jumia,Pay on Delivery,4,17400.0,0.0,Cancelled,10,
+NG-11189,2023-04-03,Electronics,Lagos,WhatsApp Business,Cash on Delivery,4,294100.0,1176400.0,Delivered,6,3.7
+NG-11190,2023-05-30,Books,Ibadan,Jiji,Transfer,4,2800.0,11200.0,Delivered,9,5.0
+NG-11191,2023-10-12,Fashion,Abuja,Instagram Shop,Card,2,10700.0,0.0,Returned,6,
+NG-11192,2023-10-17,Sports,Benin City,Jiji,USSD,3,29900.0,89700.0,Delivered,4,4.0
+NG-11193,2023-12-06,Beauty,Lagos,Jumia,Transfer,4,9500.0,0.0,Cancelled,9,
+NG-11194,2023-02-09,Books,Enugu,Instagram Shop,Cash on Delivery,2,8100.0,16200.0,Delivered,1,3.2
+NG-11195,2023-02-25,Fashion,Kaduna,Konga,Card,2,22600.0,0.0,Cancelled,1,
+NG-11196,2023-01-08,Books,Abuja,Jumia,Cash on Delivery,1,3900.0,3900.0,Delivered,7,3.0
+NG-11197,2023-01-24,Home & Living,Kaduna,Instagram Shop,Pay on Delivery,4,65800.0,0.0,Returned,5,
+NG-11198,2023-02-18,Books,Kano,Instagram Shop,Cash on Delivery,4,5200.0,20800.0,Delivered,10,4.5
+NG-11199,2023-11-16,Fashion,Abuja,Jiji,Pay on Delivery,3,32900.0,0.0,Cancelled,7,
+NG-11200,2023-07-14,Home & Living,Lagos,Instagram Shop,Pay on Delivery,4,68200.0,272800.0,Delivered,4,4.6
+NG-11201,2023-01-27,Sports,Benin City,Konga,Pay on Delivery,1,28900.0,28900.0,Delivered,10,3.9
+NG-11202,2023-07-04,Food & Drink,Kano,WhatsApp Business,Transfer,4,6200.0,0.0,Cancelled,4,
+NG-11203,2023-11-01,Fashion,Abuja,Konga,Card,3,21500.0,64500.0,Delivered,2,5.0
+NG-11204,2023-10-28,Fashion,Abuja,Jiji,Pay on Delivery,3,22100.0,66300.0,Delivered,2,2.9
+NG-11205,2023-01-31,Electronics,Lagos,Instagram Shop,Transfer,1,469000.0,469000.0,Delivered,6,4.2
+NG-11206,2023-11-28,Electronics,Kano,WhatsApp Business,Card,3,91100.0,273300.0,Delivered,5,3.3
+NG-11207,2023-07-11,Food & Drink,Port Harcourt,Jumia,Pay on Delivery,4,6600.0,26400.0,Delivered,8,4.0
+NG-11208,2023-05-01,Books,Abuja,WhatsApp Business,Cash on Delivery,4,5100.0,20400.0,Delivered,1,4.7
+NG-11209,2023-08-24,Fashion,Abuja,Jumia,Card,4,41900.0,167600.0,Delivered,10,2.8
+NG-11210,2023-07-01,Beauty,Port Harcourt,Konga,USSD,4,20400.0,81600.0,Delivered,7,4.0
+NG-11211,2023-05-10,Fashion,Lagos,Instagram Shop,Cash on Delivery,3,21700.0,0.0,Returned,10,
+NG-11212,2023-12-17,Food & Drink,Ibadan,Jiji,Transfer,3,2000.0,0.0,Returned,7,
+NG-11213,2023-05-28,Fashion,Port Harcourt,Instagram Shop,Cash on Delivery,2,42100.0,0.0,Returned,10,
+NG-11214,2023-03-19,Books,Ibadan,WhatsApp Business,Cash on Delivery,1,10100.0,0.0,Returned,6,
+NG-11215,2023-11-08,Sports,Port Harcourt,Jiji,USSD,4,12200.0,48800.0,Delivered,3,3.4
+NG-11216,2023-01-07,Fashion,Port Harcourt,Jiji,Cash on Delivery,2,18300.0,0.0,Cancelled,10,
+NG-11217,2023-06-29,Home & Living,Kaduna,Konga,Pay on Delivery,4,64400.0,0.0,Cancelled,5,
+NG-11218,2023-08-23,Food & Drink,Abuja,Instagram Shop,Card,1,4500.0,0.0,Cancelled,1,
+NG-11219,2023-07-06,Sports,Lagos,Konga,Transfer,4,34500.0,138000.0,Delivered,1,4.4
+NG-11220,2023-11-30,Home & Living,Abuja,WhatsApp Business,Pay on Delivery,4,63900.0,0.0,Returned,2,
+NG-11221,2023-08-03,Sports,Lagos,Instagram Shop,Transfer,1,25500.0,25500.0,Delivered,4,4.0
+NG-11222,2023-06-27,Books,Lagos,WhatsApp Business,Pay on Delivery,1,1500.0,1500.0,Delivered,10,4.3
+NG-11223,2023-12-26,Sports,Lagos,Konga,Cash on Delivery,1,34000.0,34000.0,Delivered,3,3.2
+NG-11224,2023-06-15,Electronics,Lagos,Jumia,Card,4,61200.0,244800.0,Delivered,4,3.5
+NG-11225,2023-02-27,Books,Lagos,Instagram Shop,Transfer,3,5800.0,17400.0,Delivered,4,2.8
+NG-11226,2023-10-16,Sports,Lagos,Jiji,Pay on Delivery,4,24900.0,0.0,Cancelled,5,
+NG-11227,2023-03-03,Home & Living,Kano,WhatsApp Business,Pay on Delivery,1,27000.0,27000.0,Delivered,2,4.8
+NG-11228,2023-10-17,Home & Living,Lagos,Instagram Shop,Transfer,3,36500.0,0.0,Cancelled,8,
+NG-11229,2023-09-01,Books,Abuja,Jiji,USSD,2,8400.0,16800.0,Delivered,8,5.0
+NG-11230,2023-01-03,Fashion,Kano,WhatsApp Business,USSD,3,12500.0,37500.0,Delivered,8,2.8
+NG-11231,2023-02-12,Fashion,Abuja,Konga,Pay on Delivery,4,26800.0,107200.0,Delivered,3,2.9
+NG-11232,2023-05-07,Fashion,Lagos,Jiji,Transfer,4,10400.0,41600.0,Delivered,5,3.3
+NG-11233,2023-09-16,Electronics,Kano,Instagram Shop,Cash on Delivery,1,272100.0,272100.0,Delivered,8,4.0
+NG-11234,2023-01-22,Electronics,Benin City,WhatsApp Business,Cash on Delivery,2,457600.0,0.0,Cancelled,3,
+NG-11235,2023-07-30,Fashion,Kano,Jumia,Transfer,2,36600.0,0.0,Returned,3,
+NG-11236,2023-10-23,Food & Drink,Abuja,Jiji,Transfer,3,7000.0,21000.0,Delivered,2,4.4
+NG-11237,2023-11-14,Home & Living,Port Harcourt,Konga,Transfer,3,17400.0,52200.0,Delivered,9,4.3
+NG-11238,2023-04-07,Books,Benin City,WhatsApp Business,Cash on Delivery,4,11800.0,0.0,Returned,2,
+NG-11239,2023-06-04,Electronics,Kano,WhatsApp Business,USSD,3,314700.0,944100.0,Delivered,4,4.1
+NG-11240,2023-11-24,Home & Living,Kano,Jiji,Pay on Delivery,4,43800.0,175200.0,Delivered,1,5.0
+NG-11241,2023-03-22,Food & Drink,Lagos,Jiji,Cash on Delivery,1,5600.0,0.0,Cancelled,4,
+NG-11242,2023-10-28,Home & Living,Port Harcourt,Instagram Shop,Pay on Delivery,3,31100.0,0.0,Cancelled,7,
+NG-11243,2023-06-28,Food & Drink,Ibadan,WhatsApp Business,Card,3,3000.0,9000.0,Delivered,8,2.9
+NG-11244,2023-10-13,Beauty,Lagos,Konga,Card,3,17100.0,51300.0,Delivered,7,4.0
+NG-11245,2023-11-09,Electronics,Port Harcourt,Jiji,Cash on Delivery,4,113800.0,0.0,Returned,6,
+NG-11246,2023-10-25,Sports,Port Harcourt,Instagram Shop,Card,3,56000.0,168000.0,Delivered,10,5.0
+NG-11247,2023-07-02,Sports,Port Harcourt,Konga,Card,1,42100.0,42100.0,Delivered,8,3.6
+NG-11248,2023-06-12,Sports,Lagos,Jiji,Pay on Delivery,3,48800.0,146400.0,Delivered,8,4.6
+NG-11249,2023-09-20,Books,Kano,Konga,Cash on Delivery,3,8100.0,0.0,Returned,10,
+NG-11250,2023-07-28,Fashion,Lagos,Instagram Shop,USSD,4,22100.0,88400.0,Delivered,6,3.4
+NG-11251,2023-09-28,Sports,Abuja,Konga,Transfer,4,57800.0,0.0,Returned,3,
+NG-11252,2023-04-22,Beauty,Kano,Instagram Shop,Pay on Delivery,4,16100.0,64400.0,Delivered,1,2.7
+NG-11253,2023-02-18,Sports,Ibadan,Konga,Cash on Delivery,1,9500.0,0.0,Returned,3,
+NG-11254,2023-01-01,Sports,Lagos,WhatsApp Business,Cash on Delivery,2,57200.0,0.0,Cancelled,3,
+NG-11255,2023-12-06,Home & Living,Kano,WhatsApp Business,Transfer,4,79700.0,0.0,Cancelled,6,
+NG-11256,2023-02-20,Home & Living,Port Harcourt,Instagram Shop,Cash on Delivery,2,23900.0,0.0,Returned,10,
+NG-11257,2023-06-14,Home & Living,Lagos,WhatsApp Business,USSD,2,50300.0,0.0,Cancelled,9,
+NG-11258,2023-11-28,Food & Drink,Kano,WhatsApp Business,Pay on Delivery,4,6100.0,0.0,Returned,8,
+NG-11259,2023-08-15,Books,Lagos,Jumia,Pay on Delivery,3,8000.0,24000.0,Delivered,7,4.9
+NG-11260,2023-06-12,Electronics,Ibadan,Instagram Shop,Card,1,456600.0,0.0,Cancelled,6,
+NG-11261,2023-09-15,Books,Kaduna,Jumia,Cash on Delivery,2,3300.0,6600.0,Delivered,2,4.9
+NG-11262,2023-10-12,Beauty,Enugu,Jumia,Cash on Delivery,3,4200.0,0.0,Cancelled,7,
+NG-11263,2023-05-23,Home & Living,Enugu,Konga,Transfer,1,78200.0,0.0,Cancelled,9,
+NG-11264,2023-06-30,Sports,Abuja,Konga,USSD,3,47300.0,0.0,Returned,3,
+NG-11265,2023-07-31,Fashion,Benin City,Jumia,Pay on Delivery,1,37000.0,0.0,Returned,7,
+NG-11266,2023-01-19,Beauty,Lagos,Instagram Shop,Card,4,20100.0,0.0,Returned,8,
+NG-11267,2023-09-01,Sports,Abuja,Jumia,Card,3,45100.0,135300.0,Delivered,2,4.6
+NG-11268,2023-02-16,Food & Drink,Kano,Konga,USSD,1,6400.0,6400.0,Delivered,4,4.1
+NG-11269,2023-07-04,Books,Port Harcourt,Instagram Shop,Cash on Delivery,1,10200.0,0.0,Cancelled,1,
+NG-11270,2023-07-08,Books,Kano,Konga,Card,4,9900.0,0.0,Cancelled,3,
+NG-11271,2023-11-30,Beauty,Lagos,Jumia,Pay on Delivery,1,22600.0,0.0,Returned,1,
+NG-11272,2023-08-29,Electronics,Kano,Jiji,Transfer,2,277300.0,0.0,Cancelled,6,
+NG-11273,2023-04-27,Beauty,Ibadan,Konga,Cash on Delivery,1,17400.0,17400.0,Delivered,10,3.6
+NG-11274,2023-11-02,Beauty,Lagos,Jiji,USSD,3,17800.0,0.0,Cancelled,10,
+NG-11275,2023-01-04,Books,Lagos,Jumia,Pay on Delivery,3,7300.0,0.0,Returned,7,
+NG-11276,2023-01-23,Electronics,Port Harcourt,Jumia,Card,4,176200.0,704800.0,Delivered,2,4.7
+NG-11277,2023-12-11,Books,Enugu,Konga,USSD,3,6200.0,0.0,Returned,7,
+NG-11278,2023-12-14,Fashion,Lagos,Jumia,USSD,4,13900.0,0.0,Cancelled,1,
+NG-11279,2023-07-12,Beauty,Lagos,Jumia,Card,2,15200.0,30400.0,Delivered,7,3.0
+NG-11280,2023-01-27,Beauty,Lagos,Konga,Pay on Delivery,1,2400.0,2400.0,Delivered,9,4.8
+NG-11281,2023-02-07,Food & Drink,Lagos,Jumia,Cash on Delivery,2,5500.0,11000.0,Delivered,3,2.6
+NG-11282,2023-02-07,Home & Living,Port Harcourt,Jumia,Pay on Delivery,2,70300.0,140600.0,Delivered,9,4.7
+NG-11283,2023-01-21,Beauty,Port Harcourt,Konga,Pay on Delivery,2,16300.0,0.0,Cancelled,1,
+NG-11284,2023-04-27,Electronics,Abuja,Jiji,Cash on Delivery,3,179700.0,0.0,Returned,3,
+NG-11285,2023-04-17,Fashion,Lagos,Instagram Shop,Transfer,1,15300.0,15300.0,Delivered,4,2.6
+NG-11286,2023-02-13,Sports,Enugu,Jumia,Transfer,4,18800.0,0.0,Returned,7,
+NG-11287,2023-11-02,Electronics,Ibadan,Jiji,Cash on Delivery,3,149000.0,0.0,Cancelled,10,
+NG-11288,2023-09-01,Books,Abuja,WhatsApp Business,Card,3,4600.0,13800.0,Delivered,8,4.2
+NG-11289,2023-02-24,Sports,Lagos,Konga,USSD,3,7400.0,22200.0,Delivered,8,3.2
+NG-11290,2023-09-21,Food & Drink,Port Harcourt,Jiji,Pay on Delivery,3,6700.0,0.0,Cancelled,5,
+NG-11291,2023-02-12,Fashion,Lagos,Jiji,Transfer,4,20700.0,82800.0,Delivered,6,5.0
+NG-11292,2023-03-16,Books,Lagos,Jiji,Pay on Delivery,2,1200.0,2400.0,Delivered,9,2.5
+NG-11293,2023-05-24,Food & Drink,Lagos,Jumia,Transfer,4,1800.0,0.0,Returned,9,
+NG-11294,2023-12-31,Electronics,Lagos,Jumia,Cash on Delivery,2,117600.0,0.0,Returned,1,
+NG-11295,2023-09-18,Books,Kaduna,Instagram Shop,Card,1,1400.0,1400.0,Delivered,7,2.7
+NG-11296,2023-10-03,Home & Living,Kaduna,WhatsApp Business,Transfer,1,75700.0,0.0,Returned,6,
+NG-11297,2023-10-06,Electronics,Abuja,WhatsApp Business,Card,2,244400.0,0.0,Returned,1,
+NG-11298,2023-02-26,Home & Living,Enugu,WhatsApp Business,Pay on Delivery,2,41700.0,0.0,Returned,1,
+NG-11299,2023-10-07,Beauty,Abuja,Konga,Card,4,6600.0,26400.0,Delivered,1,4.6
+NG-11300,2023-07-14,Electronics,Kano,Jumia,Transfer,1,176500.0,176500.0,Delivered,1,3.4
+NG-11301,2023-01-12,Food & Drink,Lagos,Jiji,Pay on Delivery,4,5500.0,0.0,Cancelled,10,
+NG-11302,2023-04-17,Books,Benin City,Jiji,USSD,4,1100.0,4400.0,Delivered,2,4.1
+NG-11303,2023-01-25,Fashion,Lagos,Jumia,USSD,4,10600.0,0.0,Returned,5,
+NG-11304,2023-02-12,Sports,Lagos,Jiji,Pay on Delivery,2,32400.0,0.0,Cancelled,7,
+NG-11305,2023-07-03,Food & Drink,Port Harcourt,Jiji,USSD,1,6300.0,0.0,Cancelled,6,
+NG-11306,2023-12-29,Books,Kano,Instagram Shop,Cash on Delivery,1,10500.0,10500.0,Delivered,9,2.9
+NG-11307,2023-01-30,Electronics,Lagos,Jumia,Pay on Delivery,3,432200.0,1296600.0,Delivered,6,2.6
+NG-11308,2023-07-26,Books,Lagos,WhatsApp Business,Cash on Delivery,1,7800.0,0.0,Returned,8,
+NG-11309,2023-09-04,Books,Lagos,Jumia,Pay on Delivery,2,5000.0,0.0,Returned,6,
+NG-11310,2023-12-07,Books,Lagos,Konga,Cash on Delivery,2,11500.0,23000.0,Delivered,4,3.3
+NG-11311,2023-12-02,Sports,Lagos,Jumia,USSD,1,29300.0,0.0,Returned,5,
+NG-11312,2023-01-21,Books,Lagos,Konga,Transfer,1,8400.0,8400.0,Delivered,9,4.5
+NG-11313,2023-01-18,Home & Living,Lagos,Jumia,USSD,2,11100.0,0.0,Cancelled,3,
+NG-11314,2023-08-04,Electronics,Abuja,Jiji,Transfer,4,49600.0,0.0,Cancelled,9,
+NG-11315,2023-04-30,Food & Drink,Abuja,Jumia,Pay on Delivery,3,1000.0,3000.0,Delivered,9,3.9
+NG-11316,2023-04-10,Home & Living,Lagos,Instagram Shop,Transfer,1,31800.0,31800.0,Delivered,7,4.1
+NG-11317,2023-09-12,Food & Drink,Abuja,Instagram Shop,Transfer,1,5700.0,0.0,Cancelled,5,
+NG-11318,2023-09-12,Home & Living,Port Harcourt,WhatsApp Business,Cash on Delivery,2,38100.0,76200.0,Delivered,9,4.6
+NG-11319,2023-11-26,Sports,Port Harcourt,Jiji,Card,1,34400.0,34400.0,Delivered,3,4.3
+NG-11320,2023-10-26,Books,Kano,Konga,Cash on Delivery,3,3200.0,0.0,Cancelled,8,
+NG-11321,2023-06-11,Books,Abuja,Jiji,USSD,2,4900.0,0.0,Cancelled,3,
+NG-11322,2023-11-13,Beauty,Abuja,WhatsApp Business,Transfer,3,21600.0,0.0,Cancelled,8,
+NG-11323,2023-06-04,Sports,Kano,Konga,Card,2,43900.0,87800.0,Delivered,4,4.0
+NG-11324,2023-07-19,Electronics,Lagos,Jiji,USSD,1,66500.0,66500.0,Delivered,7,4.0
+NG-11325,2023-03-16,Home & Living,Port Harcourt,Konga,USSD,1,37700.0,37700.0,Delivered,6,2.7
+NG-11326,2023-05-19,Electronics,Kaduna,WhatsApp Business,Pay on Delivery,1,83100.0,0.0,Cancelled,2,
+NG-11327,2023-10-22,Electronics,Port Harcourt,Jiji,Transfer,3,264800.0,794400.0,Delivered,6,4.5
+NG-11328,2023-12-07,Food & Drink,Lagos,Instagram Shop,Card,1,6800.0,6800.0,Delivered,2,4.2
+NG-11329,2023-07-29,Fashion,Enugu,Konga,USSD,4,42800.0,171200.0,Delivered,6,3.2
+NG-11330,2023-03-12,Fashion,Lagos,Konga,Cash on Delivery,3,8800.0,26400.0,Delivered,2,3.8
+NG-11331,2023-05-16,Sports,Enugu,WhatsApp Business,Pay on Delivery,2,41800.0,83600.0,Delivered,3,2.6
+NG-11332,2023-04-22,Food & Drink,Kano,Jumia,Pay on Delivery,4,2900.0,11600.0,Delivered,10,4.8
+NG-11333,2023-06-05,Sports,Lagos,Jiji,Pay on Delivery,3,39700.0,0.0,Cancelled,1,
+NG-11334,2023-01-04,Electronics,Kaduna,Jumia,Cash on Delivery,1,75900.0,0.0,Cancelled,8,
+NG-11335,2023-05-23,Beauty,Lagos,Jiji,Card,4,19600.0,78400.0,Delivered,3,3.3
+NG-11336,2023-02-06,Food & Drink,Abuja,Jumia,Card,1,6500.0,6500.0,Delivered,7,3.3
+NG-11337,2023-08-12,Sports,Lagos,Instagram Shop,Transfer,1,24000.0,24000.0,Delivered,3,3.3
+NG-11338,2023-10-07,Fashion,Lagos,Jumia,Cash on Delivery,1,27300.0,27300.0,Delivered,3,2.7
+NG-11339,2023-07-31,Books,Kaduna,Konga,Card,2,11900.0,0.0,Returned,4,
+NG-11340,2023-09-22,Home & Living,Ibadan,Jumia,Pay on Delivery,3,42400.0,127200.0,Delivered,6,4.8
+NG-11341,2023-01-13,Fashion,Lagos,WhatsApp Business,USSD,1,7200.0,0.0,Cancelled,10,
+NG-11342,2023-07-11,Home & Living,Port Harcourt,Jumia,Transfer,4,27100.0,0.0,Returned,3,
+NG-11343,2023-12-07,Home & Living,Lagos,Konga,Transfer,4,42900.0,0.0,Cancelled,5,
+NG-11344,2023-09-26,Food & Drink,Lagos,Konga,Card,3,2900.0,0.0,Cancelled,8,
+NG-11345,2023-07-26,Home & Living,Lagos,Jiji,USSD,3,30500.0,0.0,Cancelled,6,
+NG-11346,2023-08-21,Fashion,Kano,Jiji,Pay on Delivery,1,8400.0,0.0,Cancelled,5,
+NG-11347,2023-04-08,Beauty,Lagos,Jiji,Card,4,4900.0,0.0,Returned,8,
+NG-11348,2023-11-15,Fashion,Lagos,WhatsApp Business,Cash on Delivery,4,19400.0,77600.0,Delivered,1,4.6
+NG-11349,2023-12-21,Beauty,Abuja,WhatsApp Business,Card,4,8700.0,0.0,Cancelled,10,
+NG-11350,2023-05-22,Sports,Benin City,Jumia,Transfer,2,59200.0,118400.0,Delivered,6,3.1
+NG-11351,2023-11-26,Food & Drink,Abuja,Jiji,Transfer,2,7300.0,0.0,Cancelled,5,
+NG-11352,2023-04-30,Fashion,Enugu,Jumia,Transfer,3,40700.0,122100.0,Delivered,3,3.2
+NG-11353,2023-08-12,Beauty,Kano,Konga,Card,3,23400.0,0.0,Returned,6,
+NG-11354,2023-08-09,Food & Drink,Abuja,Konga,Transfer,4,3800.0,15200.0,Delivered,2,4.3
+NG-11355,2023-08-22,Books,Lagos,WhatsApp Business,USSD,4,8000.0,0.0,Cancelled,6,
+NG-11356,2023-11-02,Sports,Port Harcourt,Instagram Shop,Card,1,15300.0,15300.0,Delivered,10,4.1
+NG-11357,2023-05-21,Sports,Kano,WhatsApp Business,Pay on Delivery,2,10900.0,21800.0,Delivered,10,3.1
+NG-11358,2023-07-29,Beauty,Enugu,Instagram Shop,Transfer,2,5000.0,10000.0,Delivered,9,4.9
+NG-11359,2023-02-05,Fashion,Lagos,Jumia,Transfer,3,29900.0,89700.0,Delivered,2,3.9
+NG-11360,2023-07-21,Food & Drink,Lagos,Konga,Card,2,1500.0,0.0,Returned,6,
+NG-11361,2023-07-28,Sports,Kano,Konga,USSD,4,59900.0,0.0,Cancelled,6,
+NG-11362,2023-12-15,Books,Lagos,WhatsApp Business,Pay on Delivery,1,9800.0,9800.0,Delivered,2,2.6
+NG-11363,2023-08-15,Fashion,Lagos,Jumia,Transfer,2,9200.0,18400.0,Delivered,2,4.1
+NG-11364,2023-12-04,Electronics,Abuja,Jumia,Transfer,1,201100.0,201100.0,Delivered,9,3.3
+NG-11365,2023-05-18,Books,Port Harcourt,Instagram Shop,Transfer,3,5100.0,0.0,Returned,4,
+NG-11366,2023-06-05,Books,Lagos,Jiji,Cash on Delivery,4,8100.0,32400.0,Delivered,2,5.0
+NG-11367,2023-12-08,Home & Living,Lagos,WhatsApp Business,Cash on Delivery,2,30400.0,0.0,Cancelled,4,
+NG-11368,2023-02-11,Home & Living,Lagos,Jumia,USSD,2,12300.0,24600.0,Delivered,1,3.7
+NG-11369,2023-07-18,Beauty,Abuja,Jumia,Cash on Delivery,4,2400.0,0.0,Returned,2,
+NG-11370,2023-08-31,Books,Port Harcourt,Instagram Shop,Transfer,3,6100.0,18300.0,Delivered,3,4.8
+NG-11371,2023-09-26,Books,Kano,WhatsApp Business,Card,2,10600.0,21200.0,Delivered,3,3.3
+NG-11372,2023-07-02,Sports,Abuja,WhatsApp Business,USSD,2,13400.0,0.0,Cancelled,1,
+NG-11373,2023-01-12,Fashion,Lagos,Konga,Pay on Delivery,1,39000.0,39000.0,Delivered,3,2.6
+NG-11374,2023-05-25,Food & Drink,Abuja,Jumia,USSD,1,7100.0,7100.0,Delivered,2,3.3
+NG-11375,2023-06-26,Beauty,Benin City,Instagram Shop,USSD,2,5200.0,10400.0,Delivered,8,3.3
+NG-11376,2023-09-25,Sports,Kaduna,Jumia,Pay on Delivery,1,52000.0,52000.0,Delivered,1,5.0
+NG-11377,2023-12-06,Sports,Benin City,WhatsApp Business,USSD,2,20000.0,40000.0,Delivered,1,3.6
+NG-11378,2023-09-23,Fashion,Kano,Konga,Cash on Delivery,1,20300.0,0.0,Returned,8,
+NG-11379,2023-12-11,Food & Drink,Abuja,Jiji,Cash on Delivery,3,7800.0,23400.0,Delivered,10,3.5
+NG-11380,2023-06-14,Sports,Kano,WhatsApp Business,Cash on Delivery,4,56400.0,225600.0,Delivered,9,4.0
+NG-11381,2023-10-18,Food & Drink,Lagos,Instagram Shop,Cash on Delivery,3,4700.0,14100.0,Delivered,8,3.0
+NG-11382,2023-11-15,Electronics,Lagos,Instagram Shop,Card,4,376900.0,1507600.0,Delivered,4,4.2
+NG-11383,2023-10-11,Fashion,Lagos,Konga,Pay on Delivery,1,35900.0,35900.0,Delivered,6,2.9
+NG-11384,2023-03-22,Beauty,Kaduna,Jiji,Cash on Delivery,3,23700.0,0.0,Returned,5,
+NG-11385,2023-10-17,Beauty,Kano,Jumia,Transfer,4,23900.0,0.0,Returned,7,
+NG-11386,2023-06-02,Sports,Abuja,Jiji,Cash on Delivery,1,29400.0,0.0,Returned,1,
+NG-11387,2023-09-05,Sports,Lagos,Jiji,Cash on Delivery,2,35600.0,71200.0,Delivered,6,3.5
+NG-11388,2023-03-25,Beauty,Enugu,Jiji,Transfer,4,8000.0,32000.0,Delivered,9,4.4
+NG-11389,2023-04-27,Fashion,Lagos,WhatsApp Business,Pay on Delivery,3,17600.0,52800.0,Delivered,1,3.3
+NG-11390,2023-12-21,Sports,Lagos,Instagram Shop,Cash on Delivery,3,12700.0,0.0,Returned,5,
+NG-11391,2023-10-20,Books,Port Harcourt,Jiji,Cash on Delivery,1,4900.0,0.0,Returned,8,
+NG-11392,2023-05-01,Beauty,Abuja,Jumia,USSD,2,15500.0,31000.0,Delivered,8,2.8
+NG-11393,2023-11-06,Sports,Kano,Konga,Pay on Delivery,1,43200.0,0.0,Returned,3,
+NG-11394,2023-03-29,Electronics,Port Harcourt,Konga,Pay on Delivery,1,398800.0,398800.0,Delivered,10,2.7
+NG-11395,2023-07-18,Sports,Abuja,Jiji,Transfer,3,36500.0,109500.0,Delivered,4,3.4
+NG-11396,2023-10-08,Fashion,Lagos,Instagram Shop,Pay on Delivery,3,9900.0,0.0,Returned,4,
+NG-11397,2023-12-24,Electronics,Ibadan,WhatsApp Business,Transfer,4,314100.0,1256400.0,Delivered,4,3.5
+NG-11398,2023-07-27,Beauty,Abuja,Konga,Transfer,3,13000.0,0.0,Returned,10,
+NG-11399,2023-08-02,Home & Living,Abuja,Jumia,Transfer,3,42800.0,0.0,Returned,5,
+NG-11400,2023-09-04,Food & Drink,Benin City,Jiji,Pay on Delivery,4,3500.0,14000.0,Delivered,8,3.7
+NG-11401,2023-05-09,Beauty,Lagos,Jiji,Cash on Delivery,2,10200.0,20400.0,Delivered,9,3.3
+NG-11402,2023-06-24,Fashion,Abuja,Jumia,Card,3,31500.0,94500.0,Delivered,1,3.4
+NG-11403,2023-04-13,Beauty,Enugu,WhatsApp Business,Transfer,2,3100.0,6200.0,Delivered,3,3.8
+NG-11404,2023-07-30,Food & Drink,Kano,Jiji,Cash on Delivery,1,5000.0,0.0,Returned,4,
+NG-11405,2023-06-03,Home & Living,Port Harcourt,Instagram Shop,Transfer,1,69500.0,69500.0,Delivered,6,4.1
+NG-11406,2023-07-27,Home & Living,Lagos,Jiji,USSD,2,13700.0,27400.0,Delivered,2,3.0
+NG-11407,2023-07-04,Sports,Lagos,Jumia,Pay on Delivery,1,58800.0,58800.0,Delivered,2,3.5
+NG-11408,2023-10-24,Home & Living,Ibadan,Jumia,Pay on Delivery,4,47300.0,189200.0,Delivered,7,4.7
+NG-11409,2023-09-28,Sports,Lagos,Instagram Shop,Cash on Delivery,2,23900.0,0.0,Returned,4,
+NG-11410,2023-10-14,Sports,Lagos,Konga,Card,2,31400.0,62800.0,Delivered,5,3.5
+NG-11411,2023-07-20,Fashion,Lagos,Instagram Shop,USSD,4,33200.0,0.0,Returned,8,
+NG-11412,2023-10-08,Home & Living,Enugu,Jumia,Transfer,1,56300.0,56300.0,Delivered,6,4.9
+NG-11413,2023-11-09,Fashion,Kaduna,Jiji,USSD,1,35700.0,35700.0,Delivered,6,4.6
+NG-11414,2023-04-23,Food & Drink,Port Harcourt,Instagram Shop,Transfer,4,6500.0,0.0,Cancelled,6,
+NG-11415,2023-12-20,Electronics,Ibadan,WhatsApp Business,USSD,2,54800.0,109600.0,Delivered,7,4.1
+NG-11416,2023-03-27,Beauty,Port Harcourt,Konga,Pay on Delivery,3,21700.0,0.0,Returned,4,
+NG-11417,2023-02-08,Home & Living,Port Harcourt,Instagram Shop,Cash on Delivery,3,41600.0,124800.0,Delivered,2,4.7
+NG-11418,2023-09-28,Fashion,Abuja,Jiji,Cash on Delivery,4,8100.0,32400.0,Delivered,9,3.7
+NG-11419,2023-10-28,Sports,Port Harcourt,Jiji,Transfer,3,36500.0,0.0,Cancelled,6,
+NG-11420,2023-08-09,Sports,Lagos,Instagram Shop,Transfer,4,50000.0,200000.0,Delivered,4,3.1
+NG-11421,2023-06-24,Beauty,Abuja,Instagram Shop,Pay on Delivery,3,9200.0,27600.0,Delivered,1,3.8
+NG-11422,2023-12-31,Sports,Lagos,WhatsApp Business,Card,3,26000.0,0.0,Returned,10,
+NG-11423,2023-08-30,Beauty,Kaduna,Jiji,USSD,1,23900.0,23900.0,Delivered,2,4.7
+NG-11424,2023-07-07,Food & Drink,Lagos,Instagram Shop,Card,1,3200.0,0.0,Returned,6,
+NG-11425,2023-03-30,Electronics,Abuja,Instagram Shop,Cash on Delivery,4,170000.0,680000.0,Delivered,3,3.9
+NG-11426,2023-09-02,Fashion,Port Harcourt,Konga,Pay on Delivery,4,37600.0,150400.0,Delivered,9,4.9
+NG-11427,2023-07-20,Home & Living,Kaduna,Instagram Shop,Card,1,24000.0,24000.0,Delivered,6,3.4
+NG-11428,2023-02-16,Books,Lagos,Konga,USSD,1,1600.0,1600.0,Delivered,6,3.9
+NG-11429,2023-07-04,Food & Drink,Benin City,WhatsApp Business,Cash on Delivery,1,900.0,900.0,Delivered,2,3.5
+NG-11430,2023-08-17,Electronics,Abuja,Instagram Shop,Card,4,122600.0,490400.0,Delivered,2,4.9
+NG-11431,2023-03-04,Beauty,Port Harcourt,Instagram Shop,Cash on Delivery,4,19600.0,78400.0,Delivered,8,3.3
+NG-11432,2023-11-04,Fashion,Lagos,Instagram Shop,Pay on Delivery,1,13600.0,13600.0,Delivered,10,4.4
+NG-11433,2023-07-18,Home & Living,Abuja,Jiji,Transfer,2,6900.0,13800.0,Delivered,3,4.4
+NG-11434,2023-09-11,Sports,Ibadan,Konga,Cash on Delivery,2,51200.0,102400.0,Delivered,10,3.0
+NG-11435,2023-12-29,Electronics,Enugu,Jumia,Pay on Delivery,3,64500.0,193500.0,Delivered,10,3.4
+NG-11436,2023-01-06,Books,Lagos,Instagram Shop,USSD,3,2800.0,0.0,Returned,3,
+NG-11437,2023-06-25,Books,Kano,WhatsApp Business,Transfer,2,9100.0,18200.0,Delivered,4,4.2
+NG-11438,2023-04-30,Home & Living,Kaduna,Jiji,Transfer,4,77900.0,0.0,Cancelled,8,
+NG-11439,2023-11-25,Sports,Kano,Instagram Shop,Card,2,29800.0,59600.0,Delivered,10,3.5
+NG-11440,2023-05-15,Sports,Kano,Konga,Card,1,33200.0,33200.0,Delivered,7,4.8
+NG-11441,2023-02-22,Food & Drink,Kaduna,Instagram Shop,Cash on Delivery,2,2900.0,0.0,Cancelled,9,
+NG-11442,2023-03-10,Home & Living,Abuja,Jiji,Pay on Delivery,1,63400.0,63400.0,Delivered,2,4.4
+NG-11443,2023-03-18,Sports,Abuja,Instagram Shop,Transfer,2,23400.0,46800.0,Delivered,4,2.8
+NG-11444,2023-04-26,Beauty,Kano,Jiji,Pay on Delivery,1,11900.0,11900.0,Delivered,10,3.4
+NG-11445,2023-01-24,Food & Drink,Lagos,Jumia,Pay on Delivery,3,4500.0,13500.0,Delivered,6,3.2
+NG-11446,2023-07-07,Sports,Lagos,WhatsApp Business,Pay on Delivery,3,26200.0,78600.0,Delivered,7,2.7
+NG-11447,2023-09-20,Electronics,Kano,Jumia,USSD,1,252400.0,252400.0,Delivered,2,2.5
+NG-11448,2023-05-24,Electronics,Lagos,Instagram Shop,Pay on Delivery,4,110200.0,440800.0,Delivered,4,3.4
+NG-11449,2023-06-24,Books,Kaduna,Jiji,USSD,2,9000.0,18000.0,Delivered,1,4.5
+NG-11450,2023-05-01,Books,Lagos,Jumia,Cash on Delivery,3,11800.0,0.0,Returned,7,
+NG-11451,2023-01-26,Electronics,Kano,Jiji,Card,4,274100.0,0.0,Returned,6,
+NG-11452,2023-08-10,Fashion,Lagos,WhatsApp Business,Card,1,38600.0,38600.0,Delivered,5,5.0
+NG-11453,2023-05-13,Beauty,Abuja,Jumia,Transfer,1,20800.0,0.0,Cancelled,5,
+NG-11454,2023-03-07,Fashion,Abuja,Jumia,Cash on Delivery,4,12100.0,0.0,Cancelled,9,
+NG-11455,2023-02-14,Electronics,Lagos,Instagram Shop,Card,4,215100.0,0.0,Cancelled,7,
+NG-11456,2023-04-08,Beauty,Port Harcourt,Instagram Shop,Cash on Delivery,3,7800.0,0.0,Returned,5,
+NG-11457,2023-09-24,Books,Kano,Jumia,Card,1,5700.0,5700.0,Delivered,8,3.2
+NG-11458,2023-01-13,Books,Enugu,Instagram Shop,USSD,1,1300.0,1300.0,Delivered,5,3.8
+NG-11459,2023-03-31,Books,Kano,Jiji,Card,2,1200.0,0.0,Returned,5,
+NG-11460,2023-10-28,Home & Living,Lagos,Jumia,Pay on Delivery,1,27400.0,0.0,Returned,8,
+NG-11461,2023-06-07,Beauty,Kano,Jumia,Pay on Delivery,3,23600.0,70800.0,Delivered,1,3.5
+NG-11462,2023-05-19,Books,Kano,WhatsApp Business,Pay on Delivery,4,6800.0,0.0,Returned,8,
+NG-11463,2023-08-14,Electronics,Ibadan,Konga,Transfer,3,249700.0,749100.0,Delivered,4,3.3
+NG-11464,2023-10-24,Home & Living,Lagos,Instagram Shop,USSD,3,26200.0,78600.0,Delivered,7,2.6
+NG-11465,2023-09-19,Home & Living,Lagos,Jumia,Transfer,1,58500.0,58500.0,Delivered,6,4.1
+NG-11466,2023-04-09,Sports,Abuja,Instagram Shop,Pay on Delivery,2,25700.0,51400.0,Delivered,8,4.5
+NG-11467,2023-06-09,Electronics,Benin City,WhatsApp Business,Transfer,3,152500.0,457500.0,Delivered,8,4.4
+NG-11468,2023-04-15,Sports,Abuja,WhatsApp Business,Transfer,4,27800.0,111200.0,Delivered,10,4.5
+NG-11469,2023-06-06,Beauty,Kano,Jiji,USSD,1,10300.0,0.0,Cancelled,6,
+NG-11470,2023-03-10,Fashion,Abuja,Instagram Shop,Card,4,10500.0,42000.0,Delivered,1,3.6
+NG-11471,2023-07-27,Fashion,Abuja,Jumia,USSD,2,16000.0,32000.0,Delivered,4,4.5
+NG-11472,2023-01-30,Electronics,Lagos,Jumia,Pay on Delivery,3,60200.0,180600.0,Delivered,6,3.0
+NG-11473,2023-08-25,Sports,Kaduna,Jiji,Card,2,31000.0,62000.0,Delivered,2,3.6
+NG-11474,2023-05-14,Food & Drink,Kano,Jumia,USSD,2,3500.0,7000.0,Delivered,7,3.7
+NG-11475,2023-10-01,Sports,Lagos,Jiji,Cash on Delivery,3,59600.0,178800.0,Delivered,3,4.8
+NG-11476,2023-04-17,Sports,Benin City,Jiji,USSD,3,50000.0,0.0,Returned,9,
+NG-11477,2023-12-28,Food & Drink,Abuja,WhatsApp Business,Pay on Delivery,3,2900.0,8700.0,Delivered,8,2.6
+NG-11478,2023-08-02,Beauty,Abuja,Instagram Shop,Transfer,4,16100.0,0.0,Returned,7,
+NG-11479,2023-03-01,Home & Living,Abuja,Instagram Shop,Pay on Delivery,4,18900.0,0.0,Cancelled,4,
+NG-11480,2023-09-20,Home & Living,Abuja,Konga,Cash on Delivery,1,22800.0,22800.0,Delivered,8,4.6
+NG-11481,2023-08-19,Books,Kano,WhatsApp Business,Transfer,1,6300.0,0.0,Cancelled,10,
+NG-11482,2023-11-04,Books,Lagos,Konga,Card,3,3400.0,0.0,Returned,8,
+NG-11483,2023-08-23,Food & Drink,Enugu,Konga,Card,3,2400.0,0.0,Cancelled,3,
+NG-11484,2023-04-19,Fashion,Kano,Jiji,Pay on Delivery,1,25900.0,0.0,Cancelled,9,
+NG-11485,2023-04-09,Food & Drink,Lagos,Jiji,Transfer,4,3100.0,0.0,Returned,6,
+NG-11486,2023-01-24,Books,Lagos,Konga,Transfer,4,9700.0,38800.0,Delivered,2,3.7
+NG-11487,2023-01-13,Electronics,Lagos,WhatsApp Business,Cash on Delivery,2,202200.0,404400.0,Delivered,10,3.6
+NG-11488,2023-12-03,Food & Drink,Abuja,WhatsApp Business,Pay on Delivery,3,6800.0,20400.0,Delivered,2,5.0
+NG-11489,2023-12-16,Beauty,Kaduna,WhatsApp Business,Transfer,3,15200.0,0.0,Cancelled,6,
+NG-11490,2023-05-12,Electronics,Abuja,Jiji,Card,1,165700.0,165700.0,Delivered,9,3.5
+NG-11491,2023-04-26,Sports,Lagos,WhatsApp Business,USSD,3,38900.0,0.0,Cancelled,8,
+NG-11492,2023-03-09,Electronics,Lagos,WhatsApp Business,Transfer,3,202100.0,0.0,Returned,1,
+NG-11493,2023-05-12,Beauty,Kano,Konga,Pay on Delivery,3,11600.0,34800.0,Delivered,10,3.7
+NG-11494,2023-04-26,Beauty,Ibadan,Konga,Cash on Delivery,3,6000.0,18000.0,Delivered,7,2.7
+NG-11495,2023-05-20,Electronics,Abuja,Konga,Transfer,1,45800.0,45800.0,Delivered,9,5.0
+NG-11496,2023-06-10,Books,Lagos,WhatsApp Business,Cash on Delivery,4,1200.0,4800.0,Delivered,3,3.9
+NG-11497,2023-11-21,Electronics,Lagos,Jumia,USSD,2,437500.0,875000.0,Delivered,2,4.7
+NG-11498,2023-06-23,Beauty,Kano,Instagram Shop,Transfer,1,2900.0,2900.0,Delivered,7,2.9
+NG-11499,2023-07-15,Sports,Lagos,Jiji,Card,4,28100.0,0.0,Cancelled,9,
